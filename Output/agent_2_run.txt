@@ -1,4 +1,4 @@
-/Users/kautilya/Desktop/py/520/Project3/check_1.py:9: MatplotlibDeprecationWarning: The resize_event function was deprecated in Matplotlib 3.6 and will be removed two minor releases later. Use callbacks.process('resize_event', ResizeEvent(...)) instead.
+/Users/Desktop/py/520/Project3/check_1.py:9: MatplotlibDeprecationWarning: The resize_event function was deprecated in Matplotlib 3.6 and will be removed two minor releases later. Use callbacks.process('resize_event', ResizeEvent(...)) instead.
   figure(figsize=[8, 8], dpi = 100)
 Agent 1 caught the Prey! Agent 2 won!
 1
