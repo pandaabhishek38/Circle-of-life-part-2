@@ -375,4 +375,28 @@ The graph used in this run looks like this:
 
 A screenshot from the output file tells us that the agents diverge after the second step.
 
+![agents_comm_upar_n_3 step_count 2](https://github.com/pandaabhishek38/Circle-of-life-part-2/assets/56110423/20bdf9ed-cdce-4bd9-b81b-c1812a9f84ab)
 
+Further looking down in the output file (please check “upar_vs3_1mz_30_pos.txt”), we can see that the agents first survey a node, but they cannot find the prey in that node. So, then the agent 3 picks the node with the maximum probability and moves towards that. However, since we have never ever found the prey in this game from surveying, the agent 3 really does not have a good enough idea of where the prey actually is. Its approach can be described as walking on a foggy road. It cannot see much, but it goes. Whereas, the U partial utility agent multiplies the prey porbabilities to the utility values of all the states. The U partial agent has an additional “feature” called the utility value which helps it to move in the right direction. Due to the different “features” that are available to the agents, both the agents take a different approach to move and diverge.
+
+# Agent U partial vs Agent 4
+
+Since we’re only analyzing one case where the utility and earlier project’s agents differ, running this comparison only for 1 game. So, we ran just game on a single graph on which both the U partial and Agent 4 played together simultaneously. The game was stopped whenever either of the agents caught the prey. After the the game run, we found the below points:
+
+Predator starts at position 34 
+
+Agent U partial at 42
+
+Agent 4 at 42
+
+Prey at 47
+
+The graph used in this run looks like this:
+
+![New Note](https://github.com/pandaabhishek38/Circle-of-life-part-2/assets/56110423/6ddf14c8-0e1a-431b-af53-f44b84e10f8f)
+
+A screenshot from the output file tells us that the agents diverge after the second step.
+
+![New Note](https://github.com/pandaabhishek38/Circle-of-life-part-2/assets/56110423/e3cc52f4-b522-40d1-b56c-9ef9cb94e050)
+
+Since both the agents do not know the probability of the prey, the agent 4 picks randomly and moves towards the predicted prey position. It got lust that the prey is actually in that direction. Not much can be said about the prey at this point as we have gone through only one iteration of probability updates. The utility-based agent decides to stay in place as the utility of the current state might have been the maximum. It looks like a bad approach taken by the utility agent. However, if we look at the final result, the utility-based agent actually catches in this case the prey before agent 4. Although, the prey randomly walks into the utility agent, so it might have been pure luck in this case.
