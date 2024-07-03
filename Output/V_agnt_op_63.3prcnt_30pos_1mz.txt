@@ -1,0 +1,6045 @@
+/Users/Desktop/py/520/Project3/CS520_project3_code_v6.5_NNtry.py:9: MatplotlibDeprecationWarning: The resize_event function was deprecated in Matplotlib 3.6 and will be removed two minor releases later. Use callbacks.process('resize_event', ResizeEvent(...)) instead.
+  figure(figsize=[8, 8], dpi = 100)
+in calculate_utils...
+input_states shape: (125000, 1, 3)
+output_utils.shape: (125000, 1)
+in fit...
+epoch 1 | error: 0.6089294126291163
+epoch 2 | error: 0.017301888229749495
+epoch 3 | error: 0.036207852311475414
+epoch 4 | error: 0.002646807006618779
+epoch 5 | error: 0.0006348547060446406
+agents_comm_v.step_count: 1
+agent_pos: 32
+prey_pos: 47
+pred_pos: 20
+Agent position before update: 32
+temp_vals
+[[31, 1.9577143532118164], [33, 1.963731710772716], [28, 2.253659884552284], [32, 1.9605466137288623]]
+Some temp_vals +ve
+Agent position after update: 28
+Prey position before update: 47
+Prey possible_next: [46, 48, 2, 47]
+Prey position after update: 46
+Pred position before update: 20
+Predator Position: 20
+Predators new position: 21
+Pred position after update: 21
+agents_comm_v.step_count: 2
+agent_pos: 28
+prey_pos: 46
+pred_pos: 21
+Agent position before update: 28
+temp_vals
+[[27, 2.2069522547032427], [29, 2.0061915821369007], [32, 1.964651940207367], [28, 2.0951013028174037]]
+Some temp_vals +ve
+Agent position after update: 27
+Prey position before update: 46
+Prey possible_next: [45, 47, 46]
+Prey position after update: 47
+Pred position before update: 21
+Predator Position: 21
+Predators new position: 22
+Pred position after update: 22
+agents_comm_v.step_count: 3
+agent_pos: 27
+prey_pos: 47
+pred_pos: 22
+Agent position before update: 27
+temp_vals
+[[26, 2.4458760561330126], [28, 2.210881022515746], [30, 2.009872662433868], [27, 2.3283785393243797]]
+Some temp_vals +ve
+Agent position after update: 26
+Prey position before update: 47
+Prey possible_next: [46, 48, 2, 47]
+Prey position after update: 46
+Pred position before update: 22
+Predator Position: 22
+Predators new position: 21
+Pred position after update: 21
+agents_comm_v.step_count: 4
+agent_pos: 26
+prey_pos: 46
+pred_pos: 21
+Agent position before update: 26
+temp_vals
+[[25, 2.4419472883205064], [27, 2.2069522547032427], [24, 2.5594448051291403], [26, 2.3244497715118753]]
+Some temp_vals +ve
+Agent position after update: 24
+Prey position before update: 46
+Prey possible_next: [45, 47, 46]
+Prey position after update: 46
+Pred position before update: 21
+Predator Position: 21
+Predators new position: 25
+Pred position after update: 25
+agents_comm_v.step_count: 5
+agent_pos: 24
+prey_pos: 46
+pred_pos: 25
+Agent position before update: 24
+temp_vals
+[[23, 2.591384597864699], [25, 2.3563895642474333], [26, 2.2388920474387994], [24, 2.4738870810560663]]
+Some temp_vals +ve
+Agent position after update: 23
+Prey position before update: 46
+Prey possible_next: [45, 47, 46]
+Prey position after update: 45
+Pred position before update: 25
+Predator Position: 25
+Predators new position: 24
+Pred position after update: 24
+agents_comm_v.step_count: 6
+agent_pos: 23
+prey_pos: 45
+pred_pos: 24
+Agent position before update: 23
+temp_vals
+[[22, 2.5874558300521944], [24, 2.3524607964349293], [19, 2.9399483804780937], [23, 2.469958313243562]]
+Some temp_vals +ve
+Agent position after update: 19
+Prey position before update: 45
+Prey possible_next: [44, 46, 45]
+Prey position after update: 45
+Pred position before update: 24
+Predator Position: 24
+Predators new position: 23
+Pred position after update: 23
+agents_comm_v.step_count: 7
+agent_pos: 19
+prey_pos: 45
+pred_pos: 23
+Agent position before update: 19
+temp_vals
+[[18, 3.0788353283049963], [20, 2.8438402946877295], [23, 2.4913477442618306], [19, 2.961337811496362]]
+Some temp_vals +ve
+Agent position after update: 18
+Prey position before update: 45
+Prey possible_next: [44, 46, 45]
+Prey position after update: 45
+Pred position before update: 23
+Predator Position: 23
+Predators new position: 19
+Pred position after update: 19
+agents_comm_v.step_count: 8
+agent_pos: 18
+prey_pos: 45
+pred_pos: 19
+Agent position before update: 18
+temp_vals
+[[17, 3.281890569186702], [19, 3.0468955355694365], [15, 3.5002475043801935], [18, 3.1643930523780703]]
+Some temp_vals +ve
+Agent position after update: 15
+Prey position before update: 45
+Prey possible_next: [44, 46, 45]
+Prey position after update: 46
+Pred position before update: 19
+Predator Position: 19
+Predators new position: 20
+Pred position after update: 20
+agents_comm_v.step_count: 9
+agent_pos: 15
+prey_pos: 46
+pred_pos: 20
+Agent position before update: 15
+temp_vals
+[[14, 3.560913444458131], [16, 3.5208143706164736], [18, 3.2858193369992073], [15, 3.5870205380071267]]
+Some temp_vals +ve
+Agent position after update: 15
+Prey position before update: 46
+Prey possible_next: [45, 47, 46]
+Prey position after update: 47
+Pred position before update: 20
+Predator Position: 20
+Predators new position: 19
+Pred position after update: 19
+agents_comm_v.step_count: 10
+agent_pos: 15
+prey_pos: 47
+pred_pos: 19
+Agent position before update: 15
+temp_vals
+[[14, 3.65522555987123], [16, 3.6756197606304415], [18, 3.447224142369351], [15, 3.681332653420228]]
+Some temp_vals +ve
+Agent position after update: 15
+Prey position before update: 47
+Prey possible_next: [46, 48, 2, 47]
+Prey position after update: 46
+Pred position before update: 19
+Predator Position: 19
+Predators new position: 23
+Pred position after update: 23
+agents_comm_v.step_count: 11
+agent_pos: 15
+prey_pos: 46
+pred_pos: 23
+Agent position before update: 15
+temp_vals
+[[14, 3.504217761859612], [16, 3.456646077561666], [18, 3.221651043944403], [15, 3.5303248554086064]]
+Some temp_vals +ve
+Agent position after update: 15
+Prey position before update: 46
+Prey possible_next: [45, 47, 46]
+Prey position after update: 47
+Pred position before update: 23
+Predator Position: 23
+Predators new position: 19
+Pred position after update: 19
+agents_comm_v.step_count: 12
+agent_pos: 15
+prey_pos: 47
+pred_pos: 19
+Agent position before update: 15
+temp_vals
+[[14, 3.65522555987123], [16, 3.6756197606304415], [18, 3.447224142369351], [15, 3.681332653420228]]
+Some temp_vals +ve
+Agent position after update: 15
+Prey position before update: 47
+Prey possible_next: [46, 48, 2, 47]
+Prey position after update: 2
+Pred position before update: 19
+Predator Position: 19
+Predators new position: 18
+Pred position after update: 18
+agents_comm_v.step_count: 13
+agent_pos: 15
+prey_pos: 2
+pred_pos: 18
+Agent position before update: 15
+temp_vals
+[[14, 5.209021398032389], [16, 4.782656176404382], [18, 4.356290954776374], [15, 4.995838787218386]]
+Some temp_vals +ve
+Agent position after update: 14
+Prey position before update: 2
+Prey possible_next: [1, 3, 47, 2]
+Prey position after update: 1
+Pred position before update: 18
+Predator Position: 18
+Predators new position: 15
+Pred position after update: 15
+agents_comm_v.step_count: 14
+agent_pos: 14
+prey_pos: 1
+pred_pos: 15
+Agent position before update: 14
+temp_vals
+[[13, 5.148933780833585], [15, 4.722568559205578], [16, 4.190367653965197], [14, 4.93575117001958]]
+Some temp_vals +ve
+Agent position after update: 13
+Prey position before update: 1
+Prey possible_next: [0, 2, 49, 1]
+Prey position after update: 49
+Pred position before update: 15
+Predator Position: 15
+Predators new position: 14
+Pred position after update: 14
+agents_comm_v.step_count: 15
+agent_pos: 13
+prey_pos: 49
+pred_pos: 14
+Agent position before update: 13
+temp_vals
+[[12, 3.848331286197956], [14, 3.900545473295952], [17, 3.8977975675241394], [13, 3.8744383797469553]]
+Some temp_vals +ve
+Agent position after update: 14
+Predator caught the agent! Agent V lost!
+2
+agents_comm_v.step_count: 1
+agent_pos: 13
+prey_pos: 21
+pred_pos: 15
+Agent position before update: 13
+temp_vals
+[[12, 4.250929426213359], [14, 5.289385534583124], [17, 7.148404284957359], [13, 4.749563549569605]]
+Some temp_vals +ve
+Agent position after update: 17
+Prey position before update: 21
+Prey possible_next: [20, 22, 25, 21]
+Prey position after update: 25
+Pred position before update: 15
+Predator Position: 15
+Predators new position: 16
+Pred position after update: 16
+agents_comm_v.step_count: 2
+agent_pos: 17
+prey_pos: 25
+pred_pos: 16
+Agent position before update: 17
+temp_vals
+[[16, 4.038468136136866], [18, 5.06416262470179], [13, 2.7184396743715653], [17, 4.524341590711029]]
+Some temp_vals +ve
+Agent position after update: 18
+Prey position before update: 25
+Prey possible_next: [24, 26, 21, 25]
+Prey position after update: 25
+Pred position before update: 16
+Predator Position: 16
+Predators new position: 15
+Pred position after update: 15
+agents_comm_v.step_count: 3
+agent_pos: 18
+prey_pos: 25
+pred_pos: 15
+Agent position before update: 18
+temp_vals
+[[17, 4.444799311679058], [19, 5.622097064546254], [15, 3.5260401633784966], [18, 4.984620345669821]]
+Some temp_vals +ve
+Agent position after update: 19
+Prey position before update: 25
+Prey possible_next: [24, 26, 21, 25]
+Prey position after update: 21
+Pred position before update: 15
+Predator Position: 15
+Predators new position: 18
+Pred position after update: 18
+agents_comm_v.step_count: 4
+agent_pos: 19
+prey_pos: 21
+pred_pos: 18
+Agent position before update: 19
+temp_vals
+[[18, 7.250914264419353], [20, 7.407312611687051], [23, 6.490466601320791], [19, 7.299412318734855]]
+Some temp_vals +ve
+Agent position after update: 20
+Prey position before update: 21
+Prey possible_next: [20, 22, 25, 21]
+Prey position after update: 25
+Pred position before update: 18
+Predator Position: 18
+Predators new position: 19
+Pred position after update: 19
+agents_comm_v.step_count: 5
+agent_pos: 20
+prey_pos: 25
+pred_pos: 19
+Agent position before update: 20
+temp_vals
+[[19, 6.57014008511635], [21, 7.060194511144716], [22, 7.282688618583109], [20, 6.8747956841914615]]
+Some temp_vals +ve
+Agent position after update: 22
+Prey position before update: 25
+Prey possible_next: [24, 26, 21, 25]
+Prey position after update: 24
+Pred position before update: 19
+Predator Position: 19
+Predators new position: 20
+Pred position after update: 20
+agents_comm_v.step_count: 6
+agent_pos: 22
+prey_pos: 24
+pred_pos: 20
+Agent position before update: 22
+temp_vals
+[[21, 7.254639073963868], [23, 7.3273575202365935], [20, 7.110641415013802], [22, 7.306935444273128]]
+Some temp_vals +ve
+Agent position after update: 23
+Prey position before update: 24
+Prey possible_next: [23, 25, 26, 24]
+Prey position after update: 25
+Pred position before update: 20
+Predator Position: 20
+Predators new position: 19
+Pred position after update: 19
+agents_comm_v.step_count: 7
+agent_pos: 23
+prey_pos: 25
+pred_pos: 19
+Agent position before update: 23
+temp_vals
+[[22, 7.282688618583109], [24, 7.396910107471617], [19, 6.57014008511635], [23, 7.306118669053298]]
+Some temp_vals +ve
+Agent position after update: 24
+Prey position before update: 25
+Prey possible_next: [24, 26, 21, 25]
+Prey position after update: 24
+Agent V partial caught the Prey! Agent V won!
+1
+agents_comm_v.step_count: 1
+agent_pos: 45
+prey_pos: 33
+pred_pos: 14
+Agent position before update: 45
+temp_vals
+[[44, 5.412965312349824], [46, 5.051838502786074], [45, 5.232401907567948]]
+Some temp_vals +ve
+Agent position after update: 44
+Prey position before update: 33
+Prey possible_next: [32, 34, 29, 33]
+Prey position after update: 32
+Pred position before update: 14
+Predator Position: 14
+Predators new position: 13
+Pred position after update: 13
+agents_comm_v.step_count: 2
+agent_pos: 44
+prey_pos: 32
+pred_pos: 13
+Agent position before update: 44
+temp_vals
+[[43, 5.464835235494964], [45, 5.103708425931207], [39, 6.187088854622467], [44, 5.284271830713084]]
+Some temp_vals +ve
+Agent position after update: 39
+Prey position before update: 32
+Prey possible_next: [31, 33, 28, 32]
+Prey position after update: 28
+Pred position before update: 13
+Predator Position: 13
+Predators new position: 12
+Pred position after update: 12
+agents_comm_v.step_count: 3
+agent_pos: 39
+prey_pos: 28
+pred_pos: 12
+Agent position before update: 39
+temp_vals
+[[38, 5.627152750197666], [40, 5.266025940633915], [44, 4.543772321506404], [39, 5.446589345415791]]
+Some temp_vals +ve
+Agent position after update: 38
+Prey position before update: 28
+Prey possible_next: [27, 29, 32, 28]
+Prey position after update: 29
+Pred position before update: 12
+Predator Position: 12
+Predators new position: 11
+Pred position after update: 11
+agents_comm_v.step_count: 4
+agent_pos: 38
+prey_pos: 29
+pred_pos: 11
+Agent position before update: 38
+temp_vals
+[[37, 6.086893358389428], [39, 5.725766548825672], [42, 5.184076334480043], [38, 5.9063299536075515]]
+Some temp_vals +ve
+Agent position after update: 37
+Prey position before update: 29
+Prey possible_next: [28, 30, 33, 29]
+Prey position after update: 29
+Pred position before update: 11
+Predator Position: 11
+Predators new position: 10
+Pred position after update: 10
+agents_comm_v.step_count: 5
+agent_pos: 37
+prey_pos: 29
+pred_pos: 10
+Agent position before update: 37
+temp_vals
+[[36, 6.342698624057873], [38, 5.981571814494122], [35, 6.523262028839752], [37, 6.162135219275998]]
+Some temp_vals +ve
+Agent position after update: 35
+Prey position before update: 29
+Prey possible_next: [28, 30, 33, 29]
+Prey position after update: 28
+Pred position before update: 10
+Predator Position: 10
+Predators new position: 11
+Pred position after update: 11
+agents_comm_v.step_count: 6
+agent_pos: 35
+prey_pos: 28
+pred_pos: 11
+Agent position before update: 35
+temp_vals
+[[34, 6.424648230211748], [36, 6.063521420647992], [37, 5.882958015866115], [35, 6.24408482542987]]
+Some temp_vals +ve
+Agent position after update: 34
+Prey position before update: 28
+Prey possible_next: [27, 29, 32, 28]
+Prey position after update: 27
+Pred position before update: 11
+Predator Position: 11
+Predators new position: 8
+Pred position after update: 8
+agents_comm_v.step_count: 7
+agent_pos: 34
+prey_pos: 27
+pred_pos: 8
+Agent position before update: 34
+temp_vals
+[[33, 6.653680083181617], [35, 6.265875065566267], [31, 7.098580352456348], [34, 6.446438470348145]]
+Some temp_vals +ve
+Agent position after update: 31
+Prey position before update: 27
+Prey possible_next: [26, 28, 30, 27]
+Prey position after update: 26
+Pred position before update: 8
+Predator Position: 8
+Predators new position: 7
+Pred position after update: 7
+agents_comm_v.step_count: 8
+agent_pos: 31
+prey_pos: 26
+pred_pos: 7
+Agent position before update: 31
+temp_vals
+[[30, 7.169176471524147], [32, 6.724276202249418], [34, 6.317744988711401], [31, 6.946726336886782]]
+Some temp_vals +ve
+Agent position after update: 30
+Prey position before update: 26
+Prey possible_next: [25, 27, 24, 26]
+Prey position after update: 27
+Pred position before update: 7
+Predator Position: 7
+Predators new position: 12
+Pred position after update: 12
+agents_comm_v.step_count: 9
+agent_pos: 30
+prey_pos: 27
+pred_pos: 12
+Agent position before update: 30
+temp_vals
+[[29, 7.302490807741374], [31, 6.729432668752073], [27, 7.501045134501196], [30, 6.951882803389437]]
+Some temp_vals +ve
+Agent position after update: 27
+Agent V partial caught the Prey! Agent V won!
+1
+agents_comm_v.step_count: 1
+agent_pos: 20
+prey_pos: 12
+pred_pos: 22
+Agent position before update: 20
+temp_vals
+[[19, 5.411977844982527], [21, 4.9149496158687755], [22, 4.332898388855155], [20, 5.158142903867813]]
+Some temp_vals +ve
+Agent position after update: 19
+Prey position before update: 12
+Prey possible_next: [11, 13, 7, 12]
+Prey position after update: 12
+Pred position before update: 22
+Predator Position: 22
+Predators new position: 20
+Pred position after update: 20
+agents_comm_v.step_count: 2
+agent_pos: 19
+prey_pos: 12
+pred_pos: 20
+Agent position before update: 19
+temp_vals
+[[18, 5.552152375470001], [20, 4.571585490886205], [23, 3.1966009432721214], [19, 5.134570531644544]]
+Some temp_vals +ve
+Agent position after update: 18
+Prey position before update: 12
+Prey possible_next: [11, 13, 7, 12]
+Prey position after update: 13
+Pred position before update: 20
+Predator Position: 20
+Predators new position: 19
+Pred position after update: 19
+agents_comm_v.step_count: 3
+agent_pos: 18
+prey_pos: 13
+pred_pos: 19
+Agent position before update: 18
+temp_vals
+[[17, 5.932283732009554], [19, 4.730277808283737], [15, 6.577779770185102], [18, 5.275376970080292]]
+Some temp_vals +ve
+Agent position after update: 15
+Prey position before update: 13
+Prey possible_next: [12, 14, 17, 13]
+Prey position after update: 14
+Pred position before update: 19
+Predator Position: 19
+Predators new position: 23
+Pred position after update: 23
+agents_comm_v.step_count: 4
+agent_pos: 15
+prey_pos: 14
+pred_pos: 23
+Agent position before update: 15
+temp_vals
+[[14, 7.569403825581916], [16, 6.828462431253402], [18, 6.123352771874319], [15, 7.208982065119659]]
+Some temp_vals +ve
+Agent position after update: 14
+Agent V partial caught the Prey! Agent V won!
+1
+agents_comm_v.step_count: 1
+agent_pos: 23
+prey_pos: 15
+pred_pos: 4
+Agent position before update: 23
+temp_vals
+[[22, 6.540088009949324], [24, 6.105815851433452], [19, 7.207438413861419], [23, 6.31763787531196]]
+Some temp_vals +ve
+Agent position after update: 19
+Prey position before update: 15
+Prey possible_next: [14, 16, 18, 15]
+Prey position after update: 18
+Pred position before update: 4
+Predator Position: 4
+Predators new position: 5
+Pred position after update: 5
+agents_comm_v.step_count: 2
+agent_pos: 19
+prey_pos: 18
+pred_pos: 5
+Agent position before update: 19
+temp_vals
+[[18, 7.607882314110308], [20, 7.658122682624548], [23, 6.957773763872785], [19, 7.647114394860902]]
+Some temp_vals +ve
+Agent position after update: 20
+Prey position before update: 18
+Prey possible_next: [17, 19, 15, 18]
+Prey position after update: 15
+Pred position before update: 5
+Predator Position: 5
+Predators new position: 6
+Pred position after update: 6
+agents_comm_v.step_count: 3
+agent_pos: 20
+prey_pos: 15
+pred_pos: 6
+Agent position before update: 20
+temp_vals
+[[19, 7.02286457200928], [21, 6.577964302734554], [22, 6.355514168097185], [20, 6.800414437371917]]
+Some temp_vals +ve
+Agent position after update: 19
+Prey position before update: 15
+Prey possible_next: [14, 16, 18, 15]
+Prey position after update: 16
+Pred position before update: 6
+Predator Position: 6
+Predators new position: 7
+Pred position after update: 7
+agents_comm_v.step_count: 4
+agent_pos: 19
+prey_pos: 16
+pred_pos: 7
+Agent position before update: 19
+temp_vals
+[[18, 7.3971687222162075], [20, 6.952268452941479], [23, 6.284918049029386], [19, 7.174718587578844]]
+Some temp_vals +ve
+Agent position after update: 18
+Prey position before update: 16
+Prey possible_next: [15, 17, 14, 16]
+Prey position after update: 17
+Pred position before update: 7
+Predator Position: 7
+Predators new position: 12
+Pred position after update: 12
+agents_comm_v.step_count: 5
+agent_pos: 18
+prey_pos: 17
+pred_pos: 12
+Agent position before update: 18
+temp_vals
+[[17, 7.533510460942792], [19, 6.957424919444132], [15, 7.425654687674097], [18, 7.179875054081498]]
+Some temp_vals +ve
+Agent position after update: 17
+Agent V partial caught the Prey! Agent V won!
+1
+agents_comm_v.step_count: 1
+agent_pos: 40
+prey_pos: 39
+pred_pos: 16
+Agent position before update: 40
+temp_vals
+[[39, 7.443316986900321], [41, 7.4383672380464425], [43, 6.712834561580816], [40, 7.534108425318633]]
+Some temp_vals +ve
+Agent position after update: 40
+Prey position before update: 39
+Prey possible_next: [38, 40, 44, 39]
+Prey position after update: 39
+Pred position before update: 16
+Predator Position: 16
+Predators new position: 15
+Pred position after update: 15
+agents_comm_v.step_count: 2
+agent_pos: 40
+prey_pos: 39
+pred_pos: 15
+Agent position before update: 40
+temp_vals
+[[39, 7.471376654073341], [41, 7.552752037449436], [43, 6.827219360983811], [40, 7.537103853128818]]
+Some temp_vals +ve
+Agent position after update: 41
+Prey position before update: 39
+Prey possible_next: [38, 40, 44, 39]
+Prey position after update: 38
+Pred position before update: 15
+Predator Position: 15
+Predators new position: 18
+Pred position after update: 18
+agents_comm_v.step_count: 3
+agent_pos: 41
+prey_pos: 38
+pred_pos: 18
+Agent position before update: 41
+temp_vals
+[[40, 7.160146336914034], [42, 6.494336477450081], [36, 7.172355414304348], [41, 6.797379998681218]]
+Some temp_vals +ve
+Agent position after update: 36
+Prey position before update: 38
+Prey possible_next: [37, 39, 42, 38]
+Prey position after update: 39
+Pred position before update: 18
+Predator Position: 18
+Predators new position: 19
+Pred position after update: 19
+agents_comm_v.step_count: 4
+agent_pos: 36
+prey_pos: 39
+pred_pos: 19
+Agent position before update: 36
+temp_vals
+[[35, 6.65211201770633], [37, 7.175288039535162], [41, 7.095212839837457], [36, 6.936103306300806]]
+Some temp_vals +ve
+Agent position after update: 37
+Prey position before update: 39
+Prey possible_next: [38, 40, 44, 39]
+Prey position after update: 44
+Pred position before update: 19
+Predator Position: 19
+Predators new position: 23
+Pred position after update: 23
+agents_comm_v.step_count: 5
+agent_pos: 37
+prey_pos: 44
+pred_pos: 23
+Agent position before update: 37
+temp_vals
+[[36, 4.134950799183775], [38, 5.990073145621198], [35, 3.3424901200872017], [37, 5.196052187894521]]
+Some temp_vals +ve
+Agent position after update: 38
+Prey position before update: 44
+Prey possible_next: [43, 45, 39, 44]
+Prey position after update: 44
+Pred position before update: 23
+Predator Position: 23
+Predators new position: 24
+Pred position after update: 24
+agents_comm_v.step_count: 6
+agent_pos: 38
+prey_pos: 44
+pred_pos: 24
+Agent position before update: 38
+temp_vals
+[[37, 5.4750511994507685], [39, 6.432948835429504], [42, 7.189951165689229], [38, 6.071489495433477]]
+Some temp_vals +ve
+Agent position after update: 42
+Prey position before update: 44
+Prey possible_next: [43, 45, 39, 44]
+Prey position after update: 44
+Pred position before update: 24
+Predator Position: 24
+Predators new position: 26
+Pred position after update: 26
+agents_comm_v.step_count: 7
+agent_pos: 42
+prey_pos: 44
+pred_pos: 26
+Agent position before update: 42
+temp_vals
+[[41, 7.0182237081692325], [43, 7.303510255230104], [38, 6.222030250620802], [42, 7.2127188168117895]]
+Some temp_vals +ve
+Agent position after update: 43
+Prey position before update: 44
+Prey possible_next: [43, 45, 39, 44]
+Prey position after update: 43
+Agent V partial caught the Prey! Agent V won!
+1
+agents_comm_v.step_count: 1
+agent_pos: 8
+prey_pos: 48
+pred_pos: 9
+Agent position before update: 8
+temp_vals
+[[7, 3.73687506823691], [9, 3.7890892553349054], [11, 3.8413034424328973], [8, 3.762982161785907]]
+Some temp_vals +ve
+Agent position after update: 11
+Prey position before update: 48
+Prey possible_next: [47, 49, 3, 48]
+Prey position after update: 48
+Pred position before update: 9
+Predator Position: 9
+Predators new position: 8
+Pred position after update: 8
+agents_comm_v.step_count: 2
+agent_pos: 11
+prey_pos: 48
+pred_pos: 8
+Agent position before update: 11
+temp_vals
+[[10, 3.834094909750072], [12, 3.886309096848068], [8, 3.78188072265208], [11, 3.8602020032990705]]
+Some temp_vals +ve
+Agent position after update: 12
+Prey position before update: 48
+Prey possible_next: [47, 49, 3, 48]
+Prey position after update: 3
+Pred position before update: 8
+Predator Position: 8
+Predators new position: 7
+Pred position after update: 7
+agents_comm_v.step_count: 3
+agent_pos: 12
+prey_pos: 3
+pred_pos: 7
+Agent position before update: 12
+temp_vals
+[[11, 4.74247496080126], [13, 4.373244166353892], [7, 5.935331490480402], [12, 4.557859563577576]]
+Some temp_vals +ve
+Agent position after update: 7
+Predator caught the agent! Agent V lost!
+2
+agents_comm_v.step_count: 1
+agent_pos: 27
+prey_pos: 41
+pred_pos: 5
+Agent position before update: 27
+temp_vals
+[[26, 1.9907676248545965], [28, 1.9629954725272003], [30, 1.9699680591335573], [27, 1.9596939183864661]]
+Some temp_vals +ve
+Agent position after update: 26
+Prey position before update: 41
+Prey possible_next: [40, 42, 36, 41]
+Prey position after update: 36
+Pred position before update: 5
+Predator Position: 5
+Predators new position: 6
+Pred position after update: 6
+agents_comm_v.step_count: 2
+agent_pos: 26
+prey_pos: 36
+pred_pos: 6
+Agent position before update: 26
+temp_vals
+[[25, 1.9727132238007936], [27, 2.6132002314926037], [24, 1.9692269304976153], [26, 2.2219329465698094]]
+Some temp_vals +ve
+Agent position after update: 27
+Prey position before update: 36
+Prey possible_next: [35, 37, 41, 36]
+Prey position after update: 36
+Pred position before update: 6
+Predator Position: 6
+Predators new position: 7
+Pred position after update: 7
+agents_comm_v.step_count: 3
+agent_pos: 27
+prey_pos: 36
+pred_pos: 7
+Agent position before update: 27
+temp_vals
+[[26, 2.273931122314898], [28, 3.117147094834152], [30, 4.065056238396315], [27, 2.679964644051324]]
+Some temp_vals +ve
+Agent position after update: 30
+Prey position before update: 36
+Prey possible_next: [35, 37, 41, 36]
+Prey position after update: 37
+Pred position before update: 7
+Predator Position: 7
+Predators new position: 12
+Pred position after update: 12
+agents_comm_v.step_count: 4
+agent_pos: 30
+prey_pos: 37
+pred_pos: 12
+Agent position before update: 30
+temp_vals
+[[29, 3.3828652785695397], [31, 4.371521828893041], [27, 2.5085003770038883], [30, 3.8501289108980257]]
+Some temp_vals +ve
+Agent position after update: 31
+Prey position before update: 37
+Prey possible_next: [36, 38, 35, 37]
+Prey position after update: 38
+Pred position before update: 12
+Predator Position: 12
+Predators new position: 13
+Pred position after update: 13
+agents_comm_v.step_count: 5
+agent_pos: 31
+prey_pos: 38
+pred_pos: 13
+Agent position before update: 31
+temp_vals
+[[30, 3.381525812070055], [32, 4.374873048452374], [34, 6.274610121072161], [31, 3.8530468542423804]]
+Some temp_vals +ve
+Agent position after update: 34
+Prey position before update: 38
+Prey possible_next: [37, 39, 42, 38]
+Prey position after update: 42
+Pred position before update: 13
+Predator Position: 13
+Predators new position: 14
+Pred position after update: 14
+agents_comm_v.step_count: 6
+agent_pos: 34
+prey_pos: 42
+pred_pos: 14
+Agent position before update: 34
+temp_vals
+[[33, 2.7386922576131303], [35, 3.6465534677566946], [31, 1.9736877859639543], [34, 3.175874708395957]]
+Some temp_vals +ve
+Agent position after update: 35
+Prey position before update: 42
+Prey possible_next: [41, 43, 38, 42]
+Prey position after update: 41
+Pred position before update: 14
+Predator Position: 14
+Predators new position: 16
+Pred position after update: 16
+agents_comm_v.step_count: 7
+agent_pos: 35
+prey_pos: 41
+pred_pos: 16
+Agent position before update: 35
+temp_vals
+[[34, 3.861800684275431], [36, 5.7517540759681784], [37, 6.447909175580981], [35, 4.692516877974709]]
+Some temp_vals +ve
+Agent position after update: 37
+Prey position before update: 41
+Prey possible_next: [40, 42, 36, 41]
+Prey position after update: 41
+Pred position before update: 16
+Predator Position: 16
+Predators new position: 15
+Pred position after update: 15
+agents_comm_v.step_count: 8
+agent_pos: 37
+prey_pos: 41
+pred_pos: 15
+Agent position before update: 37
+temp_vals
+[[36, 5.4819482252880904], [38, 6.71058838648205], [35, 4.489011252540192], [37, 6.378734579193845]]
+Some temp_vals +ve
+Agent position after update: 38
+Prey position before update: 41
+Prey possible_next: [40, 42, 36, 41]
+Prey position after update: 42
+Pred position before update: 15
+Predator Position: 15
+Predators new position: 14
+Pred position after update: 14
+agents_comm_v.step_count: 9
+agent_pos: 38
+prey_pos: 42
+pred_pos: 14
+Agent position before update: 38
+temp_vals
+[[37, 5.147924796375663], [39, 6.6399284803095595], [42, 7.423532785208278], [38, 6.187914359024122]]
+Some temp_vals +ve
+Agent position after update: 42
+Agent V partial caught the Prey! Agent V won!
+1
+agents_comm_v.step_count: 1
+agent_pos: 41
+prey_pos: 25
+pred_pos: 9
+Agent position before update: 41
+temp_vals
+[[40, 4.879945495723688], [42, 4.518818686159935], [36, 5.602199114851199], [41, 4.6993820909418105]]
+Some temp_vals +ve
+Agent position after update: 36
+Prey position before update: 25
+Prey possible_next: [24, 26, 21, 25]
+Prey position after update: 26
+Pred position before update: 9
+Predator Position: 9
+Predators new position: 4
+Pred position after update: 4
+agents_comm_v.step_count: 2
+agent_pos: 36
+prey_pos: 26
+pred_pos: 4
+Agent position before update: 36
+temp_vals
+[[35, 6.3629071665892365], [37, 6.001780357025483], [41, 5.2795267378979736], [36, 6.18234376180736]]
+Some temp_vals +ve
+Agent position after update: 35
+Prey position before update: 26
+Prey possible_next: [25, 27, 24, 26]
+Prey position after update: 25
+Pred position before update: 4
+Predator Position: 4
+Predators new position: 9
+Pred position after update: 9
+agents_comm_v.step_count: 3
+agent_pos: 35
+prey_pos: 25
+pred_pos: 9
+Agent position before update: 35
+temp_vals
+[[34, 5.963325924414951], [36, 5.602199114851199], [37, 5.421635710069321], [35, 5.782762519633073]]
+Some temp_vals +ve
+Agent position after update: 34
+Prey position before update: 25
+Prey possible_next: [24, 26, 21, 25]
+Prey position after update: 25
+Pred position before update: 9
+Predator Position: 9
+Predators new position: 4
+Pred position after update: 4
+agents_comm_v.step_count: 4
+agent_pos: 34
+prey_pos: 25
+pred_pos: 4
+Agent position before update: 34
+temp_vals
+[[33, 6.53454589389463], [35, 6.158971824065925], [31, 6.979446163169355], [34, 6.339535228847803]]
+Some temp_vals +ve
+Agent position after update: 31
+Prey position before update: 25
+Prey possible_next: [24, 26, 21, 25]
+Prey position after update: 26
+Pred position before update: 4
+Predator Position: 4
+Predators new position: 3
+Pred position after update: 3
+agents_comm_v.step_count: 5
+agent_pos: 31
+prey_pos: 26
+pred_pos: 3
+Agent position before update: 31
+temp_vals
+[[30, 7.556970023576275], [32, 7.093423885953692], [34, 6.648523616678962], [31, 7.315874020591057]]
+Some temp_vals +ve
+Agent position after update: 30
+Prey position before update: 26
+Prey possible_next: [25, 27, 24, 26]
+Prey position after update: 25
+Pred position before update: 3
+Predator Position: 3
+Predators new position: 2
+Pred position after update: 2
+agents_comm_v.step_count: 6
+agent_pos: 30
+prey_pos: 25
+pred_pos: 2
+Agent position before update: 30
+temp_vals
+[[29, 7.621903520652849], [31, 7.164020005021493], [27, 7.723817126863442], [30, 7.386470139658858]]
+Some temp_vals +ve
+Agent position after update: 27
+Prey position before update: 25
+Prey possible_next: [24, 26, 21, 25]
+Prey position after update: 24
+Pred position before update: 2
+Predator Position: 2
+Predators new position: 47
+Pred position after update: 47
+agents_comm_v.step_count: 7
+agent_pos: 27
+prey_pos: 24
+pred_pos: 47
+Agent position before update: 27
+temp_vals
+[[26, 7.862225010737189], [28, 6.743030115961834], [30, 5.98648384700785], [27, 7.080548379969357]]
+Some temp_vals +ve
+Agent position after update: 26
+Prey position before update: 24
+Prey possible_next: [23, 25, 26, 24]
+Prey position after update: 24
+Pred position before update: 47
+Predator Position: 47
+Predators new position: 46
+Pred position after update: 46
+agents_comm_v.step_count: 8
+agent_pos: 26
+prey_pos: 24
+pred_pos: 46
+Agent position before update: 26
+temp_vals
+[[25, 8.153922498590893], [27, 7.000010954601524], [24, 8.572767301216592], [26, 7.652794276650735]]
+Some temp_vals +ve
+Agent position after update: 24
+Agent V partial caught the Prey! Agent V won!
+1
+agents_comm_v.step_count: 1
+agent_pos: 1
+prey_pos: 39
+pred_pos: 12
+Agent position before update: 1
+temp_vals
+[[0, 3.0006614352203305], [2, 2.870921926971052], [49, 5.884244065353449], [1, 2.928834741343078]]
+Some temp_vals +ve
+Agent position after update: 49
+Prey position before update: 39
+Prey possible_next: [38, 40, 44, 39]
+Prey position after update: 38
+Pred position before update: 12
+Predator Position: 12
+Predators new position: 7
+Pred position after update: 7
+agents_comm_v.step_count: 2
+agent_pos: 49
+prey_pos: 38
+pred_pos: 7
+Agent position before update: 49
+temp_vals
+[[48, 6.237081432044865], [0, 2.9832872074840964], [1, 2.9114605136068423], [49, 6.056518027262987]]
+Some temp_vals +ve
+Agent position after update: 48
+Prey position before update: 38
+Prey possible_next: [37, 39, 42, 38]
+Prey position after update: 42
+Pred position before update: 7
+Predator Position: 7
+Predators new position: 6
+Pred position after update: 6
+agents_comm_v.step_count: 3
+agent_pos: 48
+prey_pos: 42
+pred_pos: 6
+Agent position before update: 48
+temp_vals
+[[47, 7.642270124357211], [49, 6.947501258242802], [3, 3.236661049357871], [48, 7.279503786124396]]
+Some temp_vals +ve
+Agent position after update: 47
+Prey position before update: 42
+Prey possible_next: [41, 43, 38, 42]
+Prey position after update: 41
+Pred position before update: 6
+Predator Position: 6
+Predators new position: 10
+Pred position after update: 10
+agents_comm_v.step_count: 4
+agent_pos: 47
+prey_pos: 41
+pred_pos: 10
+Agent position before update: 47
+temp_vals
+[[46, 7.135279624418811], [48, 6.62316187695509], [2, 3.0595461577972545], [47, 6.803725281736969]]
+Some temp_vals +ve
+Agent position after update: 46
+Prey position before update: 41
+Prey possible_next: [40, 42, 36, 41]
+Prey position after update: 40
+Pred position before update: 10
+Predator Position: 10
+Predators new position: 9
+Pred position after update: 9
+agents_comm_v.step_count: 5
+agent_pos: 46
+prey_pos: 40
+pred_pos: 9
+Agent position before update: 46
+temp_vals
+[[45, 7.200213121495383], [47, 6.675031800100222], [46, 6.855595204882101]]
+Some temp_vals +ve
+Agent position after update: 45
+Prey position before update: 40
+Prey possible_next: [39, 41, 43, 40]
+Prey position after update: 43
+Pred position before update: 9
+Predator Position: 9
+Predators new position: 4
+Pred position after update: 4
+agents_comm_v.step_count: 6
+agent_pos: 45
+prey_pos: 43
+pred_pos: 4
+Agent position before update: 45
+temp_vals
+[[44, 7.334237909894991], [46, 7.785713899727723], [45, 7.587906246625279]]
+Some temp_vals +ve
+Agent position after update: 46
+Prey position before update: 43
+Prey possible_next: [42, 44, 40, 43]
+Prey position after update: 44
+Pred position before update: 4
+Predator Position: 4
+Predators new position: 3
+Pred position after update: 3
+agents_comm_v.step_count: 7
+agent_pos: 46
+prey_pos: 44
+pred_pos: 3
+Agent position before update: 46
+temp_vals
+[[45, 7.263578003722499], [47, 7.762566329376086], [46, 7.538834849326435]]
+Some temp_vals +ve
+Agent position after update: 47
+Prey position before update: 44
+Prey possible_next: [43, 45, 39, 44]
+Prey position after update: 44
+Pred position before update: 3
+Predator Position: 3
+Predators new position: 2
+Pred position after update: 2
+agents_comm_v.step_count: 8
+agent_pos: 47
+prey_pos: 44
+pred_pos: 2
+Agent position before update: 47
+temp_vals
+[[46, 7.507442279833087], [48, 7.840020686466146], [2, 3.4369753083674226], [47, 7.736564318111259]]
+Some temp_vals +ve
+Agent position after update: 48
+Prey position before update: 44
+Prey possible_next: [43, 45, 39, 44]
+Prey position after update: 44
+Pred position before update: 2
+Predator Position: 2
+Predators new position: 3
+Pred position after update: 3
+agents_comm_v.step_count: 9
+agent_pos: 48
+prey_pos: 44
+pred_pos: 3
+Agent position before update: 48
+temp_vals
+[[47, 7.762566329376086], [49, 7.917153725374227], [3, 3.444183841050247], [48, 7.826362286955912]]
+Some temp_vals +ve
+Agent position after update: 49
+Prey position before update: 44
+Prey possible_next: [43, 45, 39, 44]
+Prey position after update: 44
+Pred position before update: 3
+Predator Position: 3
+Predators new position: 48
+Pred position after update: 48
+agents_comm_v.step_count: 10
+agent_pos: 49
+prey_pos: 44
+pred_pos: 48
+Agent position before update: 49
+temp_vals
+[[48, 2.297590076346136], [0, 2.280931249026161], [1, 2.2206659493577026], [49, 2.0734005499467987]]
+Some temp_vals +ve
+Agent position after update: 48
+Predator caught the agent! Agent V lost!
+2
+agents_comm_v.step_count: 1
+agent_pos: 26
+prey_pos: 41
+pred_pos: 21
+Agent position before update: 26
+temp_vals
+[[25, 1.9612742727682808], [27, 1.966938793802373], [24, 1.9584420122512345], [26, 1.9641065332853271]]
+Some temp_vals +ve
+Agent position after update: 27
+Prey position before update: 41
+Prey possible_next: [40, 42, 36, 41]
+Prey position after update: 36
+Pred position before update: 21
+Predator Position: 21
+Predators new position: 25
+Pred position after update: 25
+agents_comm_v.step_count: 2
+agent_pos: 27
+prey_pos: 36
+pred_pos: 25
+Agent position before update: 27
+temp_vals
+[[26, 3.4591041885201683], [28, 5.215400389882552], [30, 6.42430103765521], [27, 4.235109816718181]]
+Some temp_vals +ve
+Agent position after update: 30
+Prey position before update: 36
+Prey possible_next: [35, 37, 41, 36]
+Prey position after update: 41
+Pred position before update: 25
+Predator Position: 25
+Predators new position: 26
+Pred position after update: 26
+agents_comm_v.step_count: 3
+agent_pos: 30
+prey_pos: 41
+pred_pos: 26
+Agent position before update: 30
+temp_vals
+[[29, 2.2964217350274896], [31, 3.3194867038992495], [27, 1.969253087380622], [30, 2.733604185810316]]
+Some temp_vals +ve
+Agent position after update: 31
+Prey position before update: 41
+Prey possible_next: [40, 42, 36, 41]
+Prey position after update: 40
+Pred position before update: 26
+Predator Position: 26
+Predators new position: 27
+Pred position after update: 27
+agents_comm_v.step_count: 4
+agent_pos: 31
+prey_pos: 40
+pred_pos: 27
+Agent position before update: 31
+temp_vals
+[[30, 3.570591360902309], [32, 5.4346606181493735], [34, 6.391915219232227], [31, 4.360547733100544]]
+Some temp_vals +ve
+Agent position after update: 34
+Prey position before update: 40
+Prey possible_next: [39, 41, 43, 40]
+Prey position after update: 41
+Pred position before update: 27
+Predator Position: 27
+Predators new position: 30
+Pred position after update: 30
+agents_comm_v.step_count: 5
+agent_pos: 34
+prey_pos: 41
+pred_pos: 30
+Agent position before update: 34
+temp_vals
+[[33, 5.747191189549863], [35, 6.489080239254314], [31, 4.095983922573996], [34, 6.203164722687392]]
+Some temp_vals +ve
+Agent position after update: 35
+Prey position before update: 41
+Prey possible_next: [40, 42, 36, 41]
+Prey position after update: 41
+Pred position before update: 30
+Predator Position: 30
+Predators new position: 31
+Pred position after update: 31
+agents_comm_v.step_count: 6
+agent_pos: 35
+prey_pos: 41
+pred_pos: 31
+Agent position before update: 35
+temp_vals
+[[34, 6.247242445229516], [36, 6.772880588900204], [37, 6.994592622978308], [35, 6.531184829105449]]
+Some temp_vals +ve
+Agent position after update: 37
+Prey position before update: 41
+Prey possible_next: [40, 42, 36, 41]
+Prey position after update: 36
+Pred position before update: 31
+Predator Position: 31
+Predators new position: 34
+Pred position after update: 34
+agents_comm_v.step_count: 7
+agent_pos: 37
+prey_pos: 36
+pred_pos: 34
+Agent position before update: 37
+temp_vals
+[[36, 5.209305014671159], [38, 4.84887898275367], [35, 5.393606474845977], [37, 5.025003554496337]]
+Some temp_vals +ve
+Agent position after update: 35
+Prey position before update: 36
+Prey possible_next: [35, 37, 41, 36]
+Prey position after update: 35
+Agent V partial caught the Prey! Agent V won!
+1
+agents_comm_v.step_count: 1
+agent_pos: 45
+prey_pos: 16
+pred_pos: 46
+Agent position before update: 45
+temp_vals
+[[44, 1.98449886777775], [46, 1.9824922953823392], [45, 1.9834955815800446]]
+Some temp_vals +ve
+Agent position after update: 44
+Prey position before update: 16
+Prey possible_next: [15, 17, 14, 16]
+Prey position after update: 17
+Pred position before update: 46
+Predator Position: 46
+Predators new position: 45
+Pred position after update: 45
+agents_comm_v.step_count: 2
+agent_pos: 44
+prey_pos: 17
+pred_pos: 45
+Agent position before update: 44
+temp_vals
+[[43, 2.0842124904124195], [45, 1.9842335446473083], [39, 2.936942933668434], [44, 1.9852368308450137]]
+Some temp_vals +ve
+Agent position after update: 39
+Prey position before update: 17
+Prey possible_next: [16, 18, 13, 17]
+Prey position after update: 18
+Pred position before update: 45
+Predator Position: 45
+Predators new position: 44
+Pred position after update: 44
+agents_comm_v.step_count: 3
+agent_pos: 39
+prey_pos: 18
+pred_pos: 44
+Agent position before update: 39
+temp_vals
+[[38, 3.1919365248939178], [40, 2.765571303265908], [44, 1.985974793912277], [39, 2.9787539140799137]]
+Some temp_vals +ve
+Agent position after update: 38
+Prey position before update: 18
+Prey possible_next: [17, 19, 15, 18]
+Prey position after update: 15
+Pred position before update: 44
+Predator Position: 44
+Predators new position: 39
+Pred position after update: 39
+agents_comm_v.step_count: 4
+agent_pos: 38
+prey_pos: 15
+pred_pos: 39
+Agent position before update: 38
+temp_vals
+[[37, 2.8167676992708266], [39, 2.3904024776428177], [42, 1.9716799622917143], [38, 2.603585088456824]]
+Some temp_vals +ve
+Agent position after update: 37
+Prey position before update: 15
+Prey possible_next: [14, 16, 18, 15]
+Prey position after update: 16
+Pred position before update: 39
+Predator Position: 39
+Predators new position: 38
+Pred position after update: 38
+agents_comm_v.step_count: 5
+agent_pos: 37
+prey_pos: 16
+pred_pos: 38
+Agent position before update: 37
+temp_vals
+[[36, 3.0717612904963105], [38, 2.6453960688683], [35, 3.284943901310314], [37, 2.8585786796823056]]
+Some temp_vals +ve
+Agent position after update: 35
+Prey position before update: 16
+Prey possible_next: [15, 17, 14, 16]
+Prey position after update: 16
+Pred position before update: 38
+Predator Position: 38
+Predators new position: 42
+Pred position after update: 42
+agents_comm_v.step_count: 6
+agent_pos: 35
+prey_pos: 16
+pred_pos: 42
+Agent position before update: 35
+temp_vals
+[[34, 3.7295857597256434], [36, 3.303220538097638], [37, 3.0900379272836327], [35, 3.5164031489116443]]
+Some temp_vals +ve
+Agent position after update: 34
+Prey position before update: 16
+Prey possible_next: [15, 17, 14, 16]
+Prey position after update: 14
+Pred position before update: 42
+Predator Position: 42
+Predators new position: 41
+Pred position after update: 41
+agents_comm_v.step_count: 7
+agent_pos: 34
+prey_pos: 14
+pred_pos: 41
+Agent position before update: 34
+temp_vals
+[[33, 3.6855519740156915], [35, 3.2591867523876856], [31, 4.111917195643701], [34, 3.472369363201688]]
+Some temp_vals +ve
+Agent position after update: 31
+Prey position before update: 14
+Prey possible_next: [13, 15, 16, 14]
+Prey position after update: 13
+Pred position before update: 41
+Predator Position: 41
+Predators new position: 36
+Pred position after update: 36
+agents_comm_v.step_count: 8
+agent_pos: 31
+prey_pos: 13
+pred_pos: 36
+Agent position before update: 31
+temp_vals
+[[30, 3.936099954644232], [32, 3.5097347330162254], [34, 3.083369511388218], [31, 3.7229173438302294]]
+Some temp_vals +ve
+Agent position after update: 30
+Prey position before update: 13
+Prey possible_next: [12, 14, 17, 13]
+Prey position after update: 17
+Pred position before update: 36
+Predator Position: 36
+Predators new position: 35
+Pred position after update: 35
+agents_comm_v.step_count: 9
+agent_pos: 30
+prey_pos: 17
+pred_pos: 35
+Agent position before update: 30
+temp_vals
+[[29, 4.490120922805151], [31, 4.063755701177146], [27, 4.9164861444331605], [30, 4.276938311991147]]
+Some temp_vals +ve
+Agent position after update: 27
+Prey position before update: 17
+Prey possible_next: [16, 18, 13, 17]
+Prey position after update: 13
+Pred position before update: 35
+Predator Position: 35
+Predators new position: 34
+Pred position after update: 34
+agents_comm_v.step_count: 10
+agent_pos: 27
+prey_pos: 13
+pred_pos: 34
+Agent position before update: 27
+temp_vals
+[[26, 4.673100774099583], [28, 4.246735552471574], [30, 3.8203703308435712], [27, 4.45991816328558]]
+Some temp_vals +ve
+Agent position after update: 26
+Prey position before update: 13
+Prey possible_next: [12, 14, 17, 13]
+Prey position after update: 13
+Pred position before update: 34
+Predator Position: 34
+Predators new position: 31
+Pred position after update: 31
+agents_comm_v.step_count: 11
+agent_pos: 26
+prey_pos: 13
+pred_pos: 31
+Agent position before update: 26
+temp_vals
+[[25, 4.71268894921259], [27, 4.286323727584586], [24, 4.925871560026595], [26, 4.4995063383985885]]
+Some temp_vals +ve
+Agent position after update: 24
+Prey position before update: 13
+Prey possible_next: [12, 14, 17, 13]
+Prey position after update: 12
+Pred position before update: 31
+Predator Position: 31
+Predators new position: 30
+Pred position after update: 30
+agents_comm_v.step_count: 12
+agent_pos: 24
+prey_pos: 12
+pred_pos: 30
+Agent position before update: 24
+temp_vals
+[[23, 4.981513566628457], [25, 4.555148345000447], [26, 4.341965734186449], [24, 4.768330955814451]]
+Some temp_vals +ve
+Agent position after update: 23
+Prey position before update: 12
+Prey possible_next: [11, 13, 7, 12]
+Prey position after update: 7
+Pred position before update: 30
+Predator Position: 30
+Predators new position: 27
+Pred position after update: 27
+agents_comm_v.step_count: 13
+agent_pos: 23
+prey_pos: 7
+pred_pos: 27
+Agent position before update: 23
+temp_vals
+[[22, 4.522722780182405], [24, 4.096357558554398], [19, 5.162270612624414], [23, 4.3095401693684]]
+Some temp_vals +ve
+Agent position after update: 19
+Prey position before update: 7
+Prey possible_next: [6, 8, 12, 7]
+Prey position after update: 6
+Pred position before update: 27
+Predator Position: 27
+Predators new position: 26
+Pred position after update: 26
+agents_comm_v.step_count: 14
+agent_pos: 19
+prey_pos: 6
+pred_pos: 26
+Agent position before update: 19
+temp_vals
+[[18, 5.217912619226276], [20, 4.791547397598267], [23, 4.151999565156259], [19, 5.004730008412272]]
+Some temp_vals +ve
+Agent position after update: 18
+Prey position before update: 6
+Prey possible_next: [5, 7, 10, 6]
+Prey position after update: 7
+Pred position before update: 26
+Predator Position: 26
+Predators new position: 27
+Pred position after update: 27
+agents_comm_v.step_count: 15
+agent_pos: 18
+prey_pos: 7
+pred_pos: 27
+Agent position before update: 18
+temp_vals
+[[17, 5.770557195899176], [19, 5.162270612624414], [15, 6.4770886892450195], [18, 5.447809176811401]]
+Some temp_vals +ve
+Agent position after update: 15
+Prey position before update: 7
+Prey possible_next: [6, 8, 12, 7]
+Prey position after update: 6
+Pred position before update: 27
+Predator Position: 27
+Predators new position: 26
+Pred position after update: 26
+agents_comm_v.step_count: 16
+agent_pos: 15
+prey_pos: 6
+pred_pos: 26
+Agent position before update: 15
+temp_vals
+[[14, 6.572031699808802], [16, 5.853348388934867], [18, 5.217912619226276], [15, 6.189273607267962]]
+Some temp_vals +ve
+Agent position after update: 14
+Prey position before update: 6
+Prey possible_next: [5, 7, 10, 6]
+Prey position after update: 10
+Pred position before update: 26
+Predator Position: 26
+Predators new position: 24
+Pred position after update: 24
+agents_comm_v.step_count: 17
+agent_pos: 14
+prey_pos: 10
+pred_pos: 24
+Agent position before update: 14
+temp_vals
+[[13, 7.389859562306286], [15, 6.6420391682906414], [16, 6.265455227342292], [14, 7.02479726083148]]
+Some temp_vals +ve
+Agent position after update: 13
+Prey position before update: 10
+Prey possible_next: [9, 11, 6, 10]
+Prey position after update: 10
+Pred position before update: 24
+Predator Position: 24
+Predators new position: 23
+Pred position after update: 23
+agents_comm_v.step_count: 18
+agent_pos: 13
+prey_pos: 10
+pred_pos: 23
+Agent position before update: 13
+temp_vals
+[[12, 7.756362949265468], [14, 6.908381466350555], [17, 5.851420463954365], [13, 7.277315270176284]]
+Some temp_vals +ve
+Agent position after update: 12
+Prey position before update: 10
+Prey possible_next: [9, 11, 6, 10]
+Prey position after update: 11
+Pred position before update: 23
+Predator Position: 23
+Predators new position: 19
+Pred position after update: 19
+agents_comm_v.step_count: 19
+agent_pos: 12
+prey_pos: 11
+pred_pos: 19
+Agent position before update: 12
+temp_vals
+[[11, 7.831788340401912], [13, 6.996875668463826], [7, 10.02833815339116], [12, 7.372940521181818]]
+Some temp_vals +ve
+Agent position after update: 7
+Prey position before update: 11
+Prey possible_next: [10, 12, 8, 11]
+Prey position after update: 10
+Pred position before update: 19
+Predator Position: 19
+Predators new position: 18
+Pred position after update: 18
+agents_comm_v.step_count: 20
+agent_pos: 7
+prey_pos: 10
+pred_pos: 18
+Agent position before update: 7
+temp_vals
+[[6, 10.120045823524487], [8, 9.446786056448808], [12, 7.091818679027605], [7, 9.778138042596689]]
+Some temp_vals +ve
+Agent position after update: 6
+Prey position before update: 10
+Prey possible_next: [9, 11, 6, 10]
+Prey position after update: 11
+Pred position before update: 18
+Predator Position: 18
+Predators new position: 17
+Pred position after update: 17
+agents_comm_v.step_count: 21
+agent_pos: 6
+prey_pos: 11
+pred_pos: 17
+Agent position before update: 6
+temp_vals
+[[5, 10.406542649392618], [7, 9.888592779978813], [10, 8.19538116749935], [6, 10.235053718925741]]
+Some temp_vals +ve
+Agent position after update: 5
+Prey position before update: 11
+Prey possible_next: [10, 12, 8, 11]
+Prey position after update: 10
+Pred position before update: 17
+Predator Position: 17
+Predators new position: 13
+Pred position after update: 13
+agents_comm_v.step_count: 22
+agent_pos: 5
+prey_pos: 10
+pred_pos: 13
+Agent position before update: 5
+temp_vals
+[[4, 10.19406453502623], [6, 9.774758064190667], [0, 6.704354683926905], [5, 10.117143328940548]]
+Some temp_vals +ve
+Agent position after update: 4
+Prey position before update: 10
+Prey possible_next: [9, 11, 6, 10]
+Prey position after update: 10
+Pred position before update: 13
+Predator Position: 13
+Predators new position: 12
+Pred position after update: 12
+agents_comm_v.step_count: 23
+agent_pos: 4
+prey_pos: 10
+pred_pos: 12
+Agent position before update: 4
+temp_vals
+[[3, 9.460564504558791], [5, 10.03579714505858], [9, 7.580712217184834], [4, 9.979464516677831]]
+Some temp_vals +ve
+Agent position after update: 5
+Prey position before update: 10
+Prey possible_next: [9, 11, 6, 10]
+Prey position after update: 9
+Pred position before update: 12
+Predator Position: 12
+Predators new position: 7
+Pred position after update: 7
+agents_comm_v.step_count: 24
+agent_pos: 5
+prey_pos: 9
+pred_pos: 7
+Agent position before update: 5
+temp_vals
+[[4, 8.751222832229079], [6, 8.499594583901484], [0, 4.716214296934024], [5, 8.539484814656486]]
+Some temp_vals +ve
+Agent position after update: 4
+Prey position before update: 9
+Prey possible_next: [8, 10, 4, 9]
+Prey position after update: 4
+Agent V partial caught the Prey! Agent V won!
+1
+agents_comm_v.step_count: 1
+agent_pos: 33
+prey_pos: 39
+pred_pos: 41
+Agent position before update: 33
+temp_vals
+[[32, 7.061801323481898], [34, 6.2377912422240165], [29, 8.528689902573507], [33, 6.6653245868024165]]
+Some temp_vals +ve
+Agent position after update: 29
+Prey position before update: 39
+Prey possible_next: [38, 40, 44, 39]
+Prey position after update: 38
+Pred position before update: 41
+Predator Position: 41
+Predators new position: 36
+Pred position after update: 36
+agents_comm_v.step_count: 2
+agent_pos: 29
+prey_pos: 38
+pred_pos: 36
+Agent position before update: 29
+temp_vals
+[[28, 7.558118864639488], [30, 6.615736100265954], [33, 5.704861767856408], [29, 7.036572441953656]]
+Some temp_vals +ve
+Agent position after update: 28
+Prey position before update: 38
+Prey possible_next: [37, 39, 42, 38]
+Prey position after update: 38
+Pred position before update: 36
+Predator Position: 36
+Predators new position: 35
+Pred position after update: 35
+agents_comm_v.step_count: 3
+agent_pos: 28
+prey_pos: 38
+pred_pos: 35
+Agent position before update: 28
+temp_vals
+[[27, 7.83832674063141], [29, 6.634792525033109], [32, 5.804382860012378], [28, 7.074725034450509]]
+Some temp_vals +ve
+Agent position after update: 27
+Prey position before update: 38
+Prey possible_next: [37, 39, 42, 38]
+Prey position after update: 39
+Pred position before update: 35
+Predator Position: 35
+Predators new position: 34
+Pred position after update: 34
+agents_comm_v.step_count: 4
+agent_pos: 27
+prey_pos: 39
+pred_pos: 34
+Agent position before update: 27
+temp_vals
+[[26, 6.375532220466746], [28, 5.706902654331237], [30, 5.97346188312652], [27, 5.6565976004085865]]
+Some temp_vals +ve
+Agent position after update: 26
+Prey position before update: 39
+Prey possible_next: [38, 40, 44, 39]
+Prey position after update: 44
+Pred position before update: 34
+Predator Position: 34
+Predators new position: 31
+Pred position after update: 31
+agents_comm_v.step_count: 5
+agent_pos: 26
+prey_pos: 44
+pred_pos: 31
+Agent position before update: 26
+temp_vals
+[[25, 1.9794115331982938], [27, 1.9614165019646914], [24, 2.068321253878797], [26, 1.958584241447645]]
+Some temp_vals +ve
+Agent position after update: 24
+Prey position before update: 44
+Prey possible_next: [43, 45, 39, 44]
+Prey position after update: 44
+Pred position before update: 31
+Predator Position: 31
+Predators new position: 30
+Pred position after update: 30
+agents_comm_v.step_count: 6
+agent_pos: 24
+prey_pos: 44
+pred_pos: 30
+Agent position before update: 24
+temp_vals
+[[23, 2.1988060114945434], [25, 1.9958479773404343], [26, 1.958131436734151], [24, 2.0847576980209377]]
+Some temp_vals +ve
+Agent position after update: 23
+Prey position before update: 44
+Prey possible_next: [43, 45, 39, 44]
+Prey position after update: 44
+Pred position before update: 30
+Predator Position: 30
+Predators new position: 27
+Pred position after update: 27
+agents_comm_v.step_count: 7
+agent_pos: 23
+prey_pos: 44
+pred_pos: 27
+Agent position before update: 23
+temp_vals
+[[22, 2.380471821357981], [24, 2.145476787740716], [19, 2.7329643717838827], [23, 2.2629743045493482]]
+Some temp_vals +ve
+Agent position after update: 19
+Prey position before update: 44
+Prey possible_next: [43, 45, 39, 44]
+Prey position after update: 39
+Pred position before update: 27
+Predator Position: 27
+Predators new position: 26
+Pred position after update: 26
+agents_comm_v.step_count: 8
+agent_pos: 19
+prey_pos: 39
+pred_pos: 26
+Agent position before update: 19
+temp_vals
+[[18, 2.108787503405933], [20, 1.9610061317134577], [23, 1.9645740012834083], [19, 2.049915852393961]]
+Some temp_vals +ve
+Agent position after update: 18
+Prey position before update: 39
+Prey possible_next: [38, 40, 44, 39]
+Prey position after update: 40
+Pred position before update: 26
+Predator Position: 26
+Predators new position: 27
+Pred position after update: 27
+agents_comm_v.step_count: 9
+agent_pos: 18
+prey_pos: 40
+pred_pos: 27
+Agent position before update: 18
+temp_vals
+[[17, 2.015234583673629], [19, 2.1021307136741947], [15, 1.9961033472990506], [18, 2.0482698153590393]]
+Some temp_vals +ve
+Agent position after update: 19
+Prey position before update: 40
+Prey possible_next: [39, 41, 43, 40]
+Prey position after update: 43
+Pred position before update: 27
+Predator Position: 27
+Predators new position: 26
+Pred position after update: 26
+agents_comm_v.step_count: 10
+agent_pos: 19
+prey_pos: 43
+pred_pos: 26
+Agent position before update: 19
+temp_vals
+[[18, 2.729035603971377], [20, 2.49404057035411], [23, 2.141548019928212], [19, 2.611538087162743]]
+Some temp_vals +ve
+Agent position after update: 18
+Prey position before update: 43
+Prey possible_next: [42, 44, 40, 43]
+Prey position after update: 43
+Pred position before update: 26
+Predator Position: 26
+Predators new position: 25
+Pred position after update: 25
+agents_comm_v.step_count: 11
+agent_pos: 18
+prey_pos: 43
+pred_pos: 25
+Agent position before update: 18
+temp_vals
+[[17, 2.8679225517982787], [19, 2.6329275181810115], [15, 3.102917585415544], [18, 2.7504250349896453]]
+Some temp_vals +ve
+Agent position after update: 15
+Prey position before update: 43
+Prey possible_next: [42, 44, 40, 43]
+Prey position after update: 43
+Pred position before update: 25
+Predator Position: 25
+Predators new position: 24
+Pred position after update: 24
+agents_comm_v.step_count: 12
+agent_pos: 15
+prey_pos: 43
+pred_pos: 24
+Agent position before update: 15
+temp_vals
+[[14, 3.2118041659212953], [16, 3.0068094996251804], [18, 2.7718144660079145], [15, 3.1243070164338143]]
+Some temp_vals +ve
+Agent position after update: 14
+Prey position before update: 43
+Prey possible_next: [42, 44, 40, 43]
+Prey position after update: 40
+Pred position before update: 24
+Predator Position: 24
+Predators new position: 26
+Pred position after update: 26
+agents_comm_v.step_count: 13
+agent_pos: 14
+prey_pos: 40
+pred_pos: 26
+Agent position before update: 14
+temp_vals
+[[13, 2.1653913051472857], [15, 2.2245627436372173], [16, 2.2643545161411165], [14, 2.184770971133319]]
+Some temp_vals +ve
+Agent position after update: 16
+Prey position before update: 40
+Prey possible_next: [39, 41, 43, 40]
+Prey position after update: 39
+Pred position before update: 26
+Predator Position: 26
+Predators new position: 24
+Pred position after update: 24
+agents_comm_v.step_count: 14
+agent_pos: 16
+prey_pos: 39
+pred_pos: 24
+Agent position before update: 16
+temp_vals
+[[15, 2.553044153876186], [17, 2.3180491202589217], [14, 2.5247982297649734], [16, 2.4355466370675543]]
+Some temp_vals +ve
+Agent position after update: 15
+Prey position before update: 39
+Prey possible_next: [38, 40, 44, 39]
+Prey position after update: 38
+Pred position before update: 24
+Predator Position: 24
+Predators new position: 23
+Pred position after update: 23
+agents_comm_v.step_count: 15
+agent_pos: 15
+prey_pos: 38
+pred_pos: 23
+Agent position before update: 15
+temp_vals
+[[14, 2.549115386063683], [16, 2.314120352446417], [18, 2.079125318829151], [15, 2.4316178692550494]]
+Some temp_vals +ve
+Agent position after update: 14
+Prey position before update: 38
+Prey possible_next: [37, 39, 42, 38]
+Prey position after update: 38
+Pred position before update: 23
+Predator Position: 23
+Predators new position: 24
+Pred position after update: 24
+agents_comm_v.step_count: 16
+agent_pos: 14
+prey_pos: 38
+pred_pos: 24
+Agent position before update: 14
+temp_vals
+[[13, 2.2327919683692894], [15, 2.313280769320781], [16, 2.2927309214281477], [14, 2.2734889968168828]]
+Some temp_vals +ve
+Agent position after update: 15
+Prey position before update: 38
+Prey possible_next: [37, 39, 42, 38]
+Prey position after update: 37
+Pred position before update: 24
+Predator Position: 24
+Predators new position: 25
+Pred position after update: 25
+agents_comm_v.step_count: 17
+agent_pos: 15
+prey_pos: 37
+pred_pos: 25
+Agent position before update: 15
+temp_vals
+[[14, 1.9583086200127182], [16, 1.9575296173875483], [18, 1.9566601199664326], [15, 1.9577324368952245]]
+Some temp_vals +ve
+Agent position after update: 14
+Prey position before update: 37
+Prey possible_next: [36, 38, 35, 37]
+Prey position after update: 38
+Pred position before update: 25
+Predator Position: 25
+Predators new position: 24
+Pred position after update: 24
+agents_comm_v.step_count: 18
+agent_pos: 14
+prey_pos: 38
+pred_pos: 24
+Agent position before update: 14
+temp_vals
+[[13, 2.2327919683692894], [15, 2.313280769320781], [16, 2.2927309214281477], [14, 2.2734889968168828]]
+Some temp_vals +ve
+Agent position after update: 15
+Prey position before update: 38
+Prey possible_next: [37, 39, 42, 38]
+Prey position after update: 38
+Pred position before update: 24
+Predator Position: 24
+Predators new position: 26
+Pred position after update: 26
+agents_comm_v.step_count: 19
+agent_pos: 15
+prey_pos: 38
+pred_pos: 26
+Agent position before update: 15
+temp_vals
+[[14, 1.9593032291848926], [16, 1.957839155628211], [18, 1.9574335166128582], [15, 1.9584598656265824]]
+Some temp_vals +ve
+Agent position after update: 14
+Prey position before update: 38
+Prey possible_next: [37, 39, 42, 38]
+Prey position after update: 39
+Pred position before update: 26
+Predator Position: 26
+Predators new position: 24
+Pred position after update: 24
+agents_comm_v.step_count: 20
+agent_pos: 14
+prey_pos: 39
+pred_pos: 24
+Agent position before update: 14
+temp_vals
+[[13, 2.4745924072540664], [15, 2.553044153876186], [16, 2.4355466370675543], [14, 2.5247982297649734]]
+Some temp_vals +ve
+Agent position after update: 15
+Prey position before update: 39
+Prey possible_next: [38, 40, 44, 39]
+Prey position after update: 44
+Pred position before update: 24
+Predator Position: 24
+Predators new position: 23
+Pred position after update: 23
+agents_comm_v.step_count: 21
+agent_pos: 15
+prey_pos: 44
+pred_pos: 23
+Agent position before update: 15
+temp_vals
+[[14, 3.353390652765754], [16, 3.1710146462828552], [18, 2.9360196126655884], [15, 3.2885121630914877]]
+Some temp_vals +ve
+Agent position after update: 14
+Prey position before update: 44
+Prey possible_next: [43, 45, 39, 44]
+Prey position after update: 39
+Pred position before update: 23
+Predator Position: 23
+Predators new position: 19
+Pred position after update: 19
+agents_comm_v.step_count: 22
+agent_pos: 14
+prey_pos: 39
+pred_pos: 19
+Agent position before update: 14
+temp_vals
+[[13, 2.874263593583827], [15, 2.659991308967531], [16, 2.5424937921588984], [14, 2.7774888257761634]]
+Some temp_vals +ve
+Agent position after update: 13
+Prey position before update: 39
+Prey possible_next: [38, 40, 44, 39]
+Prey position after update: 39
+Pred position before update: 19
+Predator Position: 19
+Predators new position: 18
+Pred position after update: 18
+agents_comm_v.step_count: 23
+agent_pos: 13
+prey_pos: 39
+pred_pos: 18
+Agent position before update: 13
+temp_vals
+[[12, 2.981630684400858], [14, 2.798878256794431], [17, 2.4463857063685333], [13, 2.8965221987572334]]
+Some temp_vals +ve
+Agent position after update: 12
+Prey position before update: 39
+Prey possible_next: [38, 40, 44, 39]
+Prey position after update: 40
+Pred position before update: 18
+Predator Position: 18
+Predators new position: 17
+Pred position after update: 17
+agents_comm_v.step_count: 24
+agent_pos: 12
+prey_pos: 40
+pred_pos: 17
+Agent position before update: 12
+temp_vals
+[[11, 3.086806519128089], [13, 3.0471966173857674], [7, 2.9823781449320985], [12, 3.1129136126770875]]
+Some temp_vals +ve
+Agent position after update: 12
+Prey position before update: 40
+Prey possible_next: [39, 41, 43, 40]
+Prey position after update: 43
+Pred position before update: 17
+Predator Position: 17
+Predators new position: 18
+Pred position after update: 18
+agents_comm_v.step_count: 25
+agent_pos: 12
+prey_pos: 43
+pred_pos: 18
+Agent position before update: 12
+temp_vals
+[[11, 3.294148621902699], [13, 3.3463628090006945], [7, 3.1897202477067133], [12, 3.320255715451697]]
+Some temp_vals +ve
+Agent position after update: 13
+Prey position before update: 43
+Prey possible_next: [42, 44, 40, 43]
+Prey position after update: 44
+Pred position before update: 18
+Predator Position: 18
+Predators new position: 17
+Pred position after update: 17
+agents_comm_v.step_count: 26
+agent_pos: 13
+prey_pos: 44
+pred_pos: 17
+Agent position before update: 13
+temp_vals
+[[12, 3.4145678308647973], [14, 3.466782017962792], [17, 3.181853715583833], [13, 3.4406749244137953]]
+Some temp_vals +ve
+Agent position after update: 14
+Prey position before update: 44
+Prey possible_next: [43, 45, 39, 44]
+Prey position after update: 45
+Pred position before update: 17
+Predator Position: 17
+Predators new position: 18
+Pred position after update: 18
+agents_comm_v.step_count: 27
+agent_pos: 14
+prey_pos: 45
+pred_pos: 18
+Agent position before update: 14
+temp_vals
+[[13, 3.49718991809455], [15, 3.522506109553599], [16, 3.420777517013605], [14, 3.5232970116435474]]
+Some temp_vals +ve
+Agent position after update: 14
+Prey position before update: 45
+Prey possible_next: [44, 46, 45]
+Prey position after update: 46
+Pred position before update: 18
+Predator Position: 18
+Predators new position: 19
+Pred position after update: 19
+agents_comm_v.step_count: 28
+agent_pos: 14
+prey_pos: 46
+pred_pos: 19
+Agent position before update: 14
+temp_vals
+[[13, 3.553704911775304], [15, 3.6059190988733003], [16, 3.5415453712776395], [14, 3.5798120053243014]]
+Some temp_vals +ve
+Agent position after update: 15
+Prey position before update: 46
+Prey possible_next: [45, 47, 46]
+Prey position after update: 45
+Pred position before update: 19
+Predator Position: 19
+Predators new position: 20
+Pred position after update: 20
+agents_comm_v.step_count: 29
+agent_pos: 15
+prey_pos: 45
+pred_pos: 20
+Agent position before update: 15
+temp_vals
+[[14, 3.4854998899112015], [16, 3.377998654977067], [18, 3.143003621359802], [15, 3.4779888992067876]]
+Some temp_vals +ve
+Agent position after update: 14
+Prey position before update: 45
+Prey possible_next: [44, 46, 45]
+Prey position after update: 45
+Pred position before update: 20
+Predator Position: 20
+Predators new position: 19
+Pred position after update: 19
+agents_comm_v.step_count: 30
+agent_pos: 14
+prey_pos: 45
+pred_pos: 19
+Agent position before update: 14
+temp_vals
+[[13, 3.4782913572283767], [15, 3.5002475043801935], [16, 3.399388085995336], [14, 3.5043984507773747]]
+Some temp_vals +ve
+Agent position after update: 14
+Prey position before update: 45
+Prey possible_next: [44, 46, 45]
+Prey position after update: 45
+Pred position before update: 19
+Predator Position: 19
+Predators new position: 18
+Pred position after update: 18
+agents_comm_v.step_count: 31
+agent_pos: 14
+prey_pos: 45
+pred_pos: 18
+Agent position before update: 14
+temp_vals
+[[13, 3.49718991809455], [15, 3.522506109553599], [16, 3.420777517013605], [14, 3.5232970116435474]]
+Some temp_vals +ve
+Agent position after update: 14
+Prey position before update: 45
+Prey possible_next: [44, 46, 45]
+Prey position after update: 44
+Pred position before update: 18
+Predator Position: 18
+Predators new position: 15
+Pred position after update: 15
+agents_comm_v.step_count: 32
+agent_pos: 14
+prey_pos: 44
+pred_pos: 15
+Agent position before update: 14
+temp_vals
+[[13, 3.478472046146142], [15, 3.459627611237638], [16, 3.3421300944290033], [14, 3.5045791396951396]]
+Some temp_vals +ve
+Agent position after update: 14
+Prey position before update: 44
+Prey possible_next: [43, 45, 39, 44]
+Prey position after update: 39
+Pred position before update: 15
+Predator Position: 15
+Predators new position: 14
+Pred position after update: 14
+Predator caught the agent! Agent V lost!
+2
+agents_comm_v.step_count: 1
+agent_pos: 22
+prey_pos: 0
+pred_pos: 19
+Agent position before update: 22
+temp_vals
+[[21, 3.1285455217245355], [23, 2.0383471981314276], [20, 3.6987405938265043], [22, 2.5834463599279824]]
+Some temp_vals +ve
+Agent position after update: 20
+Prey position before update: 0
+Prey possible_next: [49, 1, 5, 0]
+Prey position after update: 1
+Pred position before update: 19
+Predator Position: 19
+Predators new position: 20
+Pred position after update: 20
+Predator caught the agent! Agent V lost!
+2
+agents_comm_v.step_count: 1
+agent_pos: 16
+prey_pos: 23
+pred_pos: 15
+Agent position before update: 16
+temp_vals
+[[15, 4.597181430624332], [17, 5.766225362750549], [14, 4.110076510309885], [16, 5.137002464615096]]
+Some temp_vals +ve
+Agent position after update: 17
+Prey position before update: 23
+Prey possible_next: [22, 24, 19, 23]
+Prey position after update: 22
+Pred position before update: 15
+Predator Position: 15
+Predators new position: 16
+Pred position after update: 16
+agents_comm_v.step_count: 2
+agent_pos: 17
+prey_pos: 22
+pred_pos: 16
+Agent position before update: 17
+temp_vals
+[[16, 6.097647941251878], [18, 7.107395828117257], [13, 4.2497475099920825], [17, 6.990417891699731]]
+Some temp_vals +ve
+Agent position after update: 18
+Prey position before update: 22
+Prey possible_next: [21, 23, 20, 22]
+Prey position after update: 23
+Pred position before update: 16
+Predator Position: 16
+Predators new position: 15
+Pred position after update: 15
+agents_comm_v.step_count: 3
+agent_pos: 18
+prey_pos: 23
+pred_pos: 15
+Agent position before update: 18
+temp_vals
+[[17, 5.766225362750549], [19, 7.076127377931373], [15, 4.597181430624332], [18, 6.802638531675386]]
+Some temp_vals +ve
+Agent position after update: 19
+Prey position before update: 23
+Prey possible_next: [22, 24, 19, 23]
+Prey position after update: 24
+Pred position before update: 15
+Predator Position: 15
+Predators new position: 14
+Pred position after update: 14
+agents_comm_v.step_count: 4
+agent_pos: 19
+prey_pos: 24
+pred_pos: 14
+Agent position before update: 19
+temp_vals
+[[18, 5.521090160101253], [20, 7.044858927745491], [23, 7.415699449552546], [19, 6.516930649348346]]
+Some temp_vals +ve
+Agent position after update: 23
+Prey position before update: 24
+Prey possible_next: [23, 25, 26, 24]
+Prey position after update: 24
+Pred position before update: 14
+Predator Position: 14
+Predators new position: 15
+Pred position after update: 15
+agents_comm_v.step_count: 5
+agent_pos: 23
+prey_pos: 24
+pred_pos: 15
+Agent position before update: 23
+temp_vals
+[[22, 7.388695321525451], [24, 7.503495460160677], [19, 6.737144537689376], [23, 7.412704021742363]]
+Some temp_vals +ve
+Agent position after update: 24
+Agent V partial caught the Prey! Agent V won!
+1
+agents_comm_v.step_count: 1
+agent_pos: 38
+prey_pos: 36
+pred_pos: 49
+Agent position before update: 38
+temp_vals
+[[37, 5.635337559553057], [39, 5.062242235194183], [42, 4.422694402752174], [38, 5.312589540465283]]
+Some temp_vals +ve
+Agent position after update: 37
+Prey position before update: 36
+Prey possible_next: [35, 37, 41, 36]
+Prey position after update: 35
+Pred position before update: 49
+Predator Position: 49
+Predators new position: 48
+Pred position after update: 48
+agents_comm_v.step_count: 2
+agent_pos: 37
+prey_pos: 35
+pred_pos: 48
+Agent position before update: 37
+temp_vals
+[[36, 5.718128752588745], [38, 5.117884241796042], [35, 6.065838572419355], [37, 5.395380733500973]]
+Some temp_vals +ve
+Agent position after update: 35
+Agent V partial caught the Prey! Agent V won!
+1
+agents_comm_v.step_count: 1
+agent_pos: 34
+prey_pos: 26
+pred_pos: 9
+Agent position before update: 34
+temp_vals
+[[33, 6.347824671720138], [35, 5.9866978621563876], [31, 6.762152495034647], [34, 6.1672612669382625]]
+Some temp_vals +ve
+Agent position after update: 31
+Prey position before update: 26
+Prey possible_next: [25, 27, 24, 26]
+Prey position after update: 24
+Pred position before update: 9
+Predator Position: 9
+Predators new position: 8
+Pred position after update: 8
+agents_comm_v.step_count: 2
+agent_pos: 31
+prey_pos: 24
+pred_pos: 8
+Agent position before update: 31
+temp_vals
+[[30, 6.588607677606816], [32, 6.195759252341962], [34, 5.834632442778209], [31, 6.376322657123839]]
+Some temp_vals +ve
+Agent position after update: 30
+Prey position before update: 24
+Prey possible_next: [23, 25, 26, 24]
+Prey position after update: 23
+Pred position before update: 8
+Predator Position: 8
+Predators new position: 11
+Pred position after update: 11
+agents_comm_v.step_count: 3
+agent_pos: 30
+prey_pos: 23
+pred_pos: 11
+Agent position before update: 30
+temp_vals
+[[29, 6.307788541504574], [31, 5.946661731940819], [27, 6.734956382245074], [30, 6.127225136722697]]
+Some temp_vals +ve
+Agent position after update: 27
+Prey position before update: 23
+Prey possible_next: [22, 24, 19, 23]
+Prey position after update: 19
+Pred position before update: 11
+Predator Position: 11
+Predators new position: 12
+Pred position after update: 12
+agents_comm_v.step_count: 4
+agent_pos: 27
+prey_pos: 19
+pred_pos: 12
+Agent position before update: 27
+temp_vals
+[[26, 5.9584955248703855], [28, 5.597368715306631], [30, 5.236241905742881], [27, 5.777932120088509]]
+Some temp_vals +ve
+Agent position after update: 26
+Prey position before update: 19
+Prey possible_next: [18, 20, 23, 19]
+Prey position after update: 23
+Pred position before update: 12
+Predator Position: 12
+Predators new position: 7
+Pred position after update: 7
+agents_comm_v.step_count: 5
+agent_pos: 26
+prey_pos: 23
+pred_pos: 7
+Agent position before update: 26
+temp_vals
+[[25, 7.676609595450662], [27, 7.104104065949349], [24, 7.622062524090476], [26, 7.32655420058671]]
+Some temp_vals +ve
+Agent position after update: 25
+Prey position before update: 23
+Prey possible_next: [22, 24, 19, 23]
+Prey position after update: 24
+Pred position before update: 7
+Predator Position: 7
+Predators new position: 12
+Pred position after update: 12
+agents_comm_v.step_count: 6
+agent_pos: 25
+prey_pos: 24
+pred_pos: 12
+Agent position before update: 25
+temp_vals
+[[24, 7.512481743591229], [26, 7.154136900762112], [21, 7.164173707805192], [25, 7.516903238994922]]
+Some temp_vals +ve
+Agent position after update: 25
+Prey position before update: 24
+Prey possible_next: [23, 25, 26, 24]
+Prey position after update: 25
+Agent V partial caught the Prey! Agent V won!
+1
+agents_comm_v.step_count: 1
+agent_pos: 17
+prey_pos: 6
+pred_pos: 49
+Agent position before update: 17
+temp_vals
+[[16, 8.572724009421696], [18, 8.16771278315855], [13, 8.44254808436211], [17, 8.368927587925976]]
+Some temp_vals +ve
+Agent position after update: 16
+Prey position before update: 6
+Prey possible_next: [5, 7, 10, 6]
+Prey position after update: 6
+Pred position before update: 49
+Predator Position: 49
+Predators new position: 0
+Pred position after update: 0
+agents_comm_v.step_count: 2
+agent_pos: 16
+prey_pos: 6
+pred_pos: 0
+Agent position before update: 16
+temp_vals
+[[15, 6.269118207654467], [17, 5.835309045743065], [14, 6.491568342291831], [16, 6.046668073017101]]
+Some temp_vals +ve
+Agent position after update: 14
+Prey position before update: 6
+Prey possible_next: [5, 7, 10, 6]
+Prey position after update: 7
+Pred position before update: 0
+Predator Position: 0
+Predators new position: 5
+Pred position after update: 5
+agents_comm_v.step_count: 3
+agent_pos: 14
+prey_pos: 7
+pred_pos: 5
+Agent position before update: 14
+temp_vals
+[[13, 6.496724808794487], [15, 6.051824539519758], [16, 5.843598488615402], [14, 6.2742746741571205]]
+Some temp_vals +ve
+Agent position after update: 13
+Prey position before update: 7
+Prey possible_next: [6, 8, 12, 7]
+Prey position after update: 7
+Pred position before update: 5
+Predator Position: 5
+Predators new position: 6
+Pred position after update: 6
+agents_comm_v.step_count: 4
+agent_pos: 13
+prey_pos: 7
+pred_pos: 6
+Agent position before update: 13
+temp_vals
+[[12, 6.626888022505783], [14, 6.181987753231055], [17, 5.587793222946956], [13, 6.4044378878684185]]
+Some temp_vals +ve
+Agent position after update: 12
+Prey position before update: 7
+Prey possible_next: [6, 8, 12, 7]
+Prey position after update: 8
+Pred position before update: 6
+Predator Position: 6
+Predators new position: 7
+Pred position after update: 7
+agents_comm_v.step_count: 5
+agent_pos: 12
+prey_pos: 8
+pred_pos: 7
+Agent position before update: 12
+temp_vals
+[[11, 6.921765731917346], [13, 6.509189448062455], [7, 7.3127918961465], [12, 6.7154775899898995]]
+Some temp_vals +ve
+Agent position after update: 7
+Predator caught the agent! Agent V lost!
+2
+agents_comm_v.step_count: 1
+agent_pos: 24
+prey_pos: 14
+pred_pos: 45
+Agent position before update: 24
+temp_vals
+[[23, 6.730328694785303], [25, 5.962429713749444], [26, 5.569833800277538], [24, 6.347807200344263]]
+Some temp_vals +ve
+Agent position after update: 23
+Prey position before update: 14
+Prey possible_next: [13, 15, 16, 14]
+Prey position after update: 14
+Pred position before update: 45
+Predator Position: 45
+Predators new position: 44
+Pred position after update: 44
+agents_comm_v.step_count: 2
+agent_pos: 23
+prey_pos: 14
+pred_pos: 44
+Agent position before update: 23
+temp_vals
+[[22, 6.993689766173239], [24, 6.235262908214258], [19, 8.500532889604484], [23, 6.604788038983946]]
+Some temp_vals +ve
+Agent position after update: 19
+Prey position before update: 14
+Prey possible_next: [13, 15, 16, 14]
+Prey position after update: 14
+Pred position before update: 44
+Predator Position: 44
+Predators new position: 39
+Pred position after update: 39
+agents_comm_v.step_count: 3
+agent_pos: 19
+prey_pos: 14
+pred_pos: 39
+Agent position before update: 19
+temp_vals
+[[18, 8.34403584644292], [20, 7.148642342317716], [23, 6.016059459035934], [19, 7.887859945098342]]
+Some temp_vals +ve
+Agent position after update: 18
+Prey position before update: 14
+Prey possible_next: [13, 15, 16, 14]
+Prey position after update: 13
+Pred position before update: 39
+Predator Position: 39
+Predators new position: 38
+Pred position after update: 38
+agents_comm_v.step_count: 4
+agent_pos: 18
+prey_pos: 13
+pred_pos: 38
+Agent position before update: 18
+temp_vals
+[[17, 8.458624157543465], [19, 7.229254294980387], [15, 9.098343649826273], [18, 8.022439427167543]]
+Some temp_vals +ve
+Agent position after update: 15
+Prey position before update: 13
+Prey possible_next: [12, 14, 17, 13]
+Prey position after update: 13
+Pred position before update: 38
+Predator Position: 38
+Predators new position: 37
+Pred position after update: 37
+agents_comm_v.step_count: 5
+agent_pos: 15
+prey_pos: 13
+pred_pos: 37
+Agent position before update: 15
+temp_vals
+[[14, 9.34288316737743], [16, 8.706730904310307], [18, 7.822872849960067], [15, 9.027846035449036]]
+Some temp_vals +ve
+Agent position after update: 14
+Prey position before update: 13
+Prey possible_next: [12, 14, 17, 13]
+Prey position after update: 13
+Pred position before update: 37
+Predator Position: 37
+Predators new position: 35
+Pred position after update: 35
+agents_comm_v.step_count: 6
+agent_pos: 14
+prey_pos: 13
+pred_pos: 35
+Agent position before update: 14
+temp_vals
+[[13, 9.517773335964241], [15, 8.886064225439549], [16, 8.496209324365307], [14, 9.203584469448742]]
+Some temp_vals +ve
+Agent position after update: 13
+Agent V partial caught the Prey! Agent V won!
+1
+agents_comm_v.step_count: 1
+agent_pos: 8
+prey_pos: 39
+pred_pos: 32
+Agent position before update: 8
+temp_vals
+[[7, 3.560039200990532], [9, 4.320455651845339], [11, 4.567073071051567], [8, 3.906131424595703]]
+Some temp_vals +ve
+Agent position after update: 11
+Prey position before update: 39
+Prey possible_next: [38, 40, 44, 39]
+Prey position after update: 39
+Pred position before update: 32
+Predator Position: 32
+Predators new position: 33
+Pred position after update: 33
+agents_comm_v.step_count: 2
+agent_pos: 11
+prey_pos: 39
+pred_pos: 33
+Agent position before update: 11
+temp_vals
+[[10, 5.321794151022755], [12, 6.772299879398013], [8, 4.523821241978353], [11, 5.535360130904321]]
+Some temp_vals +ve
+Agent position after update: 12
+Prey position before update: 39
+Prey possible_next: [38, 40, 44, 39]
+Prey position after update: 44
+Pred position before update: 33
+Predator Position: 33
+Predators new position: 32
+Pred position after update: 32
+agents_comm_v.step_count: 3
+agent_pos: 12
+prey_pos: 44
+pred_pos: 32
+Agent position before update: 12
+temp_vals
+[[11, 2.524490487612255], [13, 2.4515157651369055], [7, 2.545254827008102], [12, 2.5381833504470537]]
+Some temp_vals +ve
+Agent position after update: 7
+Prey position before update: 44
+Prey possible_next: [43, 45, 39, 44]
+Prey position after update: 45
+Pred position before update: 32
+Predator Position: 32
+Predators new position: 28
+Pred position after update: 28
+agents_comm_v.step_count: 4
+agent_pos: 7
+prey_pos: 45
+pred_pos: 28
+Agent position before update: 7
+temp_vals
+[[6, 2.545282977694194], [8, 2.521713723259041], [12, 2.576485174598234], [7, 2.5080208604242453]]
+Some temp_vals +ve
+Agent position after update: 12
+Prey position before update: 45
+Prey possible_next: [44, 46, 45]
+Prey position after update: 44
+Pred position before update: 28
+Predator Position: 28
+Predators new position: 27
+Pred position after update: 27
+agents_comm_v.step_count: 5
+agent_pos: 12
+prey_pos: 44
+pred_pos: 27
+Agent position before update: 12
+temp_vals
+[[11, 2.520571280817631], [13, 2.7559471276292324], [7, 2.465799829478441], [12, 2.592536460417241]]
+Some temp_vals +ve
+Agent position after update: 13
+Prey position before update: 44
+Prey possible_next: [43, 45, 39, 44]
+Prey position after update: 44
+Pred position before update: 27
+Predator Position: 27
+Predators new position: 26
+Pred position after update: 26
+agents_comm_v.step_count: 6
+agent_pos: 13
+prey_pos: 44
+pred_pos: 26
+Agent position before update: 13
+temp_vals
+[[12, 2.846897489227279], [14, 3.160702543441667], [17, 2.989348836419416], [13, 3.0103081564392684]]
+Some temp_vals +ve
+Agent position after update: 14
+Prey position before update: 44
+Prey possible_next: [43, 45, 39, 44]
+Prey position after update: 39
+Pred position before update: 26
+Predator Position: 26
+Predators new position: 25
+Pred position after update: 25
+agents_comm_v.step_count: 7
+agent_pos: 14
+prey_pos: 39
+pred_pos: 25
+Agent position before update: 14
+temp_vals
+[[13, 2.1785630876118214], [15, 2.2689217564789987], [16, 2.3087135289828984], [14, 2.229129983975101]]
+Some temp_vals +ve
+Agent position after update: 16
+Prey position before update: 39
+Prey possible_next: [38, 40, 44, 39]
+Prey position after update: 44
+Pred position before update: 25
+Predator Position: 25
+Predators new position: 21
+Pred position after update: 21
+agents_comm_v.step_count: 8
+agent_pos: 16
+prey_pos: 44
+pred_pos: 21
+Agent position before update: 16
+temp_vals
+[[15, 3.331291025128025], [17, 3.096295991510759], [14, 3.3911877744981], [16, 3.213793508319393]]
+Some temp_vals +ve
+Agent position after update: 14
+Prey position before update: 44
+Prey possible_next: [43, 45, 39, 44]
+Prey position after update: 44
+Pred position before update: 21
+Predator Position: 21
+Predators new position: 25
+Pred position after update: 25
+agents_comm_v.step_count: 9
+agent_pos: 14
+prey_pos: 44
+pred_pos: 25
+Agent position before update: 14
+temp_vals
+[[13, 3.264669185249305], [15, 3.2457333010549494], [16, 3.1282357842463178], [14, 3.315593531033408]]
+Some temp_vals +ve
+Agent position after update: 14
+Prey position before update: 44
+Prey possible_next: [43, 45, 39, 44]
+Prey position after update: 44
+Pred position before update: 25
+Predator Position: 25
+Predators new position: 24
+Pred position after update: 24
+agents_comm_v.step_count: 10
+agent_pos: 14
+prey_pos: 44
+pred_pos: 24
+Agent position before update: 14
+temp_vals
+[[13, 3.3083849983505846], [15, 3.2671227320732203], [16, 3.1496252152645856], [14, 3.334492091899582]]
+Some temp_vals +ve
+Agent position after update: 14
+Prey position before update: 44
+Prey possible_next: [43, 45, 39, 44]
+Prey position after update: 39
+Pred position before update: 24
+Predator Position: 24
+Predators new position: 25
+Pred position after update: 25
+agents_comm_v.step_count: 11
+agent_pos: 14
+prey_pos: 39
+pred_pos: 25
+Agent position before update: 14
+temp_vals
+[[13, 2.1785630876118214], [15, 2.2689217564789987], [16, 2.3087135289828984], [14, 2.229129983975101]]
+Some temp_vals +ve
+Agent position after update: 16
+Prey position before update: 39
+Prey possible_next: [38, 40, 44, 39]
+Prey position after update: 44
+Pred position before update: 25
+Predator Position: 25
+Predators new position: 24
+Pred position after update: 24
+agents_comm_v.step_count: 12
+agent_pos: 16
+prey_pos: 44
+pred_pos: 24
+Agent position before update: 16
+temp_vals
+[[15, 3.2671227320732203], [17, 3.0321276984559526], [14, 3.334492091899582], [16, 3.1496252152645856]]
+Some temp_vals +ve
+Agent position after update: 14
+Prey position before update: 44
+Prey possible_next: [43, 45, 39, 44]
+Prey position after update: 45
+Pred position before update: 24
+Predator Position: 24
+Predators new position: 25
+Pred position after update: 25
+agents_comm_v.step_count: 13
+agent_pos: 14
+prey_pos: 45
+pred_pos: 25
+Agent position before update: 14
+temp_vals
+[[13, 3.3648999920313383], [15, 3.3696985041203464], [16, 3.2710514998857234], [14, 3.3910070855803354]]
+Some temp_vals +ve
+Agent position after update: 14
+Prey position before update: 45
+Prey possible_next: [44, 46, 45]
+Prey position after update: 46
+Pred position before update: 25
+Predator Position: 25
+Predators new position: 24
+Pred position after update: 24
+agents_comm_v.step_count: 14
+agent_pos: 14
+prey_pos: 46
+pred_pos: 24
+Agent position before update: 14
+temp_vals
+[[13, 3.45921210744444], [15, 3.5114262945424346], [16, 3.435256646543399], [14, 3.4853192009934375]]
+Some temp_vals +ve
+Agent position after update: 15
+Prey position before update: 46
+Prey possible_next: [45, 47, 46]
+Prey position after update: 46
+Pred position before update: 24
+Predator Position: 24
+Predators new position: 23
+Pred position after update: 23
+agents_comm_v.step_count: 15
+agent_pos: 15
+prey_pos: 46
+pred_pos: 23
+Agent position before update: 15
+temp_vals
+[[14, 3.504217761859612], [16, 3.456646077561666], [18, 3.221651043944403], [15, 3.5303248554086064]]
+Some temp_vals +ve
+Agent position after update: 15
+Prey position before update: 46
+Prey possible_next: [45, 47, 46]
+Prey position after update: 45
+Pred position before update: 23
+Predator Position: 23
+Predators new position: 19
+Pred position after update: 19
+agents_comm_v.step_count: 16
+agent_pos: 15
+prey_pos: 45
+pred_pos: 19
+Agent position before update: 15
+temp_vals
+[[14, 3.5043984507773747], [16, 3.399388085995336], [18, 3.1643930523780703], [15, 3.5002475043801935]]
+Some temp_vals +ve
+Agent position after update: 14
+Prey position before update: 45
+Prey possible_next: [44, 46, 45]
+Prey position after update: 45
+Pred position before update: 19
+Predator Position: 19
+Predators new position: 18
+Pred position after update: 18
+agents_comm_v.step_count: 17
+agent_pos: 14
+prey_pos: 45
+pred_pos: 18
+Agent position before update: 14
+temp_vals
+[[13, 3.49718991809455], [15, 3.522506109553599], [16, 3.420777517013605], [14, 3.5232970116435474]]
+Some temp_vals +ve
+Agent position after update: 14
+Prey position before update: 45
+Prey possible_next: [44, 46, 45]
+Prey position after update: 44
+Pred position before update: 18
+Predator Position: 18
+Predators new position: 15
+Pred position after update: 15
+agents_comm_v.step_count: 18
+agent_pos: 14
+prey_pos: 44
+pred_pos: 15
+Agent position before update: 14
+temp_vals
+[[13, 3.478472046146142], [15, 3.459627611237638], [16, 3.3421300944290033], [14, 3.5045791396951396]]
+Some temp_vals +ve
+Agent position after update: 14
+Prey position before update: 44
+Prey possible_next: [43, 45, 39, 44]
+Prey position after update: 45
+Pred position before update: 15
+Predator Position: 15
+Predators new position: 14
+Pred position after update: 14
+Predator caught the agent! Agent V lost!
+2
+agents_comm_v.step_count: 1
+agent_pos: 37
+prey_pos: 36
+pred_pos: 1
+Agent position before update: 37
+temp_vals
+[[36, 7.121919885886077], [38, 7.671385915068902], [35, 6.550983604868796], [37, 7.407881715733554]]
+Some temp_vals +ve
+Agent position after update: 38
+Prey position before update: 36
+Prey possible_next: [35, 37, 41, 36]
+Prey position after update: 36
+Pred position before update: 1
+Predator Position: 1
+Predators new position: 49
+Pred position after update: 49
+agents_comm_v.step_count: 2
+agent_pos: 38
+prey_pos: 36
+pred_pos: 49
+Agent position before update: 38
+temp_vals
+[[37, 5.635337559553057], [39, 5.062242235194183], [42, 4.422694402752174], [38, 5.312589540465283]]
+Some temp_vals +ve
+Agent position after update: 37
+Prey position before update: 36
+Prey possible_next: [35, 37, 41, 36]
+Prey position after update: 37
+Agent V partial caught the Prey! Agent V won!
+1
+agents_comm_v.step_count: 1
+agent_pos: 34
+prey_pos: 4
+pred_pos: 8
+Agent position before update: 34
+temp_vals
+[[33, 1.9495436270920323], [35, 1.9453692615369857], [31, 1.9537179926470785], [34, 1.947456444314509]]
+Some temp_vals +ve
+Agent position after update: 31
+Prey position before update: 4
+Prey possible_next: [3, 5, 9, 4]
+Prey position after update: 9
+Pred position before update: 8
+Predator Position: 8
+Predators new position: 7
+Pred position after update: 7
+agents_comm_v.step_count: 2
+agent_pos: 31
+prey_pos: 9
+pred_pos: 7
+Agent position before update: 31
+temp_vals
+[[30, 3.573097784942611], [32, 3.2119709753788532], [34, 2.8508441658151003], [31, 3.392534380160737]]
+Some temp_vals +ve
+Agent position after update: 30
+Prey position before update: 9
+Prey possible_next: [8, 10, 4, 9]
+Prey position after update: 8
+Pred position before update: 7
+Predator Position: 7
+Predators new position: 12
+Pred position after update: 12
+agents_comm_v.step_count: 3
+agent_pos: 30
+prey_pos: 8
+pred_pos: 12
+Agent position before update: 30
+temp_vals
+[[29, 1.9856492822834575], [31, 1.958132604817441], [27, 2.3330346374648285], [30, 1.9602197875949643]]
+Some temp_vals +ve
+Agent position after update: 27
+Prey position before update: 8
+Prey possible_next: [7, 9, 11, 8]
+Prey position after update: 8
+Pred position before update: 12
+Predator Position: 12
+Predators new position: 13
+Pred position after update: 13
+agents_comm_v.step_count: 4
+agent_pos: 27
+prey_pos: 8
+pred_pos: 13
+Agent position before update: 27
+temp_vals
+[[26, 2.2253922344739565], [28, 1.9617435416222468], [30, 1.9568253560825686], [27, 2.0407768372502706]]
+Some temp_vals +ve
+Agent position after update: 26
+Prey position before update: 8
+Prey possible_next: [7, 9, 11, 8]
+Prey position after update: 7
+Pred position before update: 13
+Predator Position: 13
+Predators new position: 17
+Pred position after update: 17
+agents_comm_v.step_count: 5
+agent_pos: 26
+prey_pos: 7
+pred_pos: 17
+Agent position before update: 26
+temp_vals
+[[25, 2.339598558235515], [27, 2.3183068795582575], [24, 2.3371528057890756], [26, 2.335579430331494]]
+Some temp_vals +ve
+Agent position after update: 25
+Prey position before update: 7
+Prey possible_next: [6, 8, 12, 7]
+Prey position after update: 12
+Pred position before update: 17
+Predator Position: 17
+Predators new position: 18
+Pred position after update: 18
+agents_comm_v.step_count: 6
+agent_pos: 25
+prey_pos: 12
+pred_pos: 18
+Agent position before update: 25
+temp_vals
+[[24, 2.9104440635280904], [26, 2.511586353073927], [21, 3.5994240243095454], [25, 2.7110152083010086]]
+Some temp_vals +ve
+Agent position after update: 21
+Prey position before update: 12
+Prey possible_next: [11, 13, 7, 12]
+Prey position after update: 7
+Pred position before update: 18
+Predator Position: 18
+Predators new position: 19
+Pred position after update: 19
+agents_comm_v.step_count: 7
+agent_pos: 21
+prey_pos: 7
+pred_pos: 19
+Agent position before update: 21
+temp_vals
+[[20, 3.949086048195138], [22, 2.8089804238460196], [25, 2.237836880668433], [21, 3.4039868863985867]]
+Some temp_vals +ve
+Agent position after update: 20
+Prey position before update: 7
+Prey possible_next: [6, 8, 12, 7]
+Prey position after update: 6
+Pred position before update: 19
+Predator Position: 19
+Predators new position: 20
+Pred position after update: 20
+Predator caught the agent! Agent V lost!
+2
+agents_comm_v.step_count: 1
+agent_pos: 41
+prey_pos: 9
+pred_pos: 13
+Agent position before update: 41
+temp_vals
+[[40, 1.9404516128623235], [42, 1.9362772473072773], [36, 1.9488003439724162], [41, 1.9383644300848002]]
+Some temp_vals +ve
+Agent position after update: 36
+Prey position before update: 9
+Prey possible_next: [8, 10, 4, 9]
+Prey position after update: 10
+Pred position before update: 13
+Predator Position: 13
+Predators new position: 17
+Pred position after update: 17
+agents_comm_v.step_count: 2
+agent_pos: 36
+prey_pos: 10
+pred_pos: 17
+Agent position before update: 36
+temp_vals
+[[35, 1.991170515307553], [37, 1.95662541376108], [41, 1.9301722087692363], [36, 1.9738979645343164]]
+Some temp_vals +ve
+Agent position after update: 35
+Prey position before update: 10
+Prey possible_next: [9, 11, 6, 10]
+Prey position after update: 11
+Pred position before update: 17
+Predator Position: 17
+Predators new position: 18
+Pred position after update: 18
+agents_comm_v.step_count: 3
+agent_pos: 35
+prey_pos: 11
+pred_pos: 18
+Agent position before update: 35
+temp_vals
+[[34, 2.034975996594069], [36, 2.0004308950475953], [37, 1.9831583442743588], [35, 2.017703445820832]]
+Some temp_vals +ve
+Agent position after update: 34
+Prey position before update: 11
+Prey possible_next: [10, 12, 8, 11]
+Prey position after update: 8
+Pred position before update: 18
+Predator Position: 18
+Predators new position: 19
+Pred position after update: 19
+agents_comm_v.step_count: 4
+agent_pos: 34
+prey_pos: 8
+pred_pos: 19
+Agent position before update: 34
+temp_vals
+[[33, 2.3307227553003336], [35, 2.296177653753861], [31, 2.3652678568468075], [34, 2.3134502045270975]]
+Some temp_vals +ve
+Agent position after update: 31
+Prey position before update: 8
+Prey possible_next: [7, 9, 11, 8]
+Prey position after update: 8
+Pred position before update: 19
+Predator Position: 19
+Predators new position: 23
+Pred position after update: 23
+agents_comm_v.step_count: 5
+agent_pos: 31
+prey_pos: 8
+pred_pos: 23
+Agent position before update: 31
+temp_vals
+[[30, 2.3088234091848543], [32, 2.475882247676453], [34, 2.619525838968214], [31, 2.3923528284306537]]
+Some temp_vals +ve
+Agent position after update: 34
+Prey position before update: 8
+Prey possible_next: [7, 9, 11, 8]
+Prey position after update: 9
+Pred position before update: 23
+Predator Position: 23
+Predators new position: 24
+Pred position after update: 24
+agents_comm_v.step_count: 6
+agent_pos: 34
+prey_pos: 9
+pred_pos: 24
+Agent position before update: 34
+temp_vals
+[[33, 2.4814224928082766], [35, 2.6292917364614175], [31, 2.314363654316679], [34, 2.564951912054076]]
+Some temp_vals +ve
+Agent position after update: 35
+Prey position before update: 9
+Prey possible_next: [8, 10, 4, 9]
+Prey position after update: 8
+Pred position before update: 24
+Predator Position: 24
+Predators new position: 26
+Pred position after update: 26
+agents_comm_v.step_count: 7
+agent_pos: 35
+prey_pos: 8
+pred_pos: 26
+Agent position before update: 35
+temp_vals
+[[34, 2.374269692569452], [36, 2.5413285310610503], [37, 2.62485795030685], [35, 2.4577991118152522]]
+Some temp_vals +ve
+Agent position after update: 37
+Prey position before update: 8
+Prey possible_next: [7, 9, 11, 8]
+Prey position after update: 11
+Pred position before update: 26
+Predator Position: 26
+Predators new position: 24
+Pred position after update: 24
+agents_comm_v.step_count: 8
+agent_pos: 37
+prey_pos: 11
+pred_pos: 24
+Agent position before update: 37
+temp_vals
+[[36, 2.534163804950284], [38, 2.5029952927104224], [35, 2.5371616109510766], [37, 2.520267843483658]]
+Some temp_vals +ve
+Agent position after update: 35
+Prey position before update: 11
+Prey possible_next: [10, 12, 8, 11]
+Prey position after update: 8
+Pred position before update: 24
+Predator Position: 24
+Predators new position: 26
+Pred position after update: 26
+agents_comm_v.step_count: 9
+agent_pos: 35
+prey_pos: 8
+pred_pos: 26
+Agent position before update: 35
+temp_vals
+[[34, 2.374269692569452], [36, 2.5413285310610503], [37, 2.62485795030685], [35, 2.4577991118152522]]
+Some temp_vals +ve
+Agent position after update: 37
+Prey position before update: 8
+Prey possible_next: [7, 9, 11, 8]
+Prey position after update: 9
+Pred position before update: 26
+Predator Position: 26
+Predators new position: 27
+Pred position after update: 27
+agents_comm_v.step_count: 10
+agent_pos: 37
+prey_pos: 9
+pred_pos: 27
+Agent position before update: 37
+temp_vals
+[[36, 2.4633393569470754], [38, 2.6303981954386737], [35, 2.3798099377012765], [37, 2.546868776192875]]
+Some temp_vals +ve
+Agent position after update: 38
+Prey position before update: 9
+Prey possible_next: [8, 10, 4, 9]
+Prey position after update: 10
+Pred position before update: 27
+Predator Position: 27
+Predators new position: 30
+Pred position after update: 30
+agents_comm_v.step_count: 11
+agent_pos: 38
+prey_pos: 10
+pred_pos: 30
+Agent position before update: 38
+temp_vals
+[[37, 2.2897653396798345], [39, 2.4568241781714333], [42, 2.707412435908831], [38, 2.373294758925634]]
+Some temp_vals +ve
+Agent position after update: 42
+Prey position before update: 10
+Prey possible_next: [9, 11, 6, 10]
+Prey position after update: 6
+Pred position before update: 30
+Predator Position: 30
+Predators new position: 31
+Pred position after update: 31
+agents_comm_v.step_count: 12
+agent_pos: 42
+prey_pos: 6
+pred_pos: 31
+Agent position before update: 42
+temp_vals
+[[41, 2.488054057121267], [43, 2.6551128956128656], [38, 2.24474166504518], [42, 2.5715834763670657]]
+Some temp_vals +ve
+Agent position after update: 43
+Prey position before update: 6
+Prey possible_next: [5, 7, 10, 6]
+Prey position after update: 5
+Pred position before update: 31
+Predator Position: 31
+Predators new position: 34
+Pred position after update: 34
+agents_comm_v.step_count: 13
+agent_pos: 43
+prey_pos: 5
+pred_pos: 34
+Agent position before update: 43
+temp_vals
+[[42, 2.2990751571023624], [44, 2.458402964174509], [40, 2.0689543707614853], [43, 2.380320288236967]]
+Some temp_vals +ve
+Agent position after update: 44
+Prey position before update: 5
+Prey possible_next: [4, 6, 0, 5]
+Prey position after update: 5
+Pred position before update: 34
+Predator Position: 34
+Predators new position: 35
+Pred position after update: 35
+agents_comm_v.step_count: 14
+agent_pos: 44
+prey_pos: 5
+pred_pos: 35
+Agent position before update: 44
+temp_vals
+[[43, 2.282641003924467], [45, 2.454481558306552], [39, 1.97036450614819], [44, 2.3767827422821637]]
+Some temp_vals +ve
+Agent position after update: 45
+Prey position before update: 5
+Prey possible_next: [4, 6, 0, 5]
+Prey position after update: 0
+Pred position before update: 35
+Predator Position: 35
+Predators new position: 37
+Pred position after update: 37
+agents_comm_v.step_count: 15
+agent_pos: 45
+prey_pos: 0
+pred_pos: 37
+Agent position before update: 45
+temp_vals
+[[44, 2.0213172862303037], [46, 2.2514380725711796], [45, 2.136377679400741]]
+Some temp_vals +ve
+Agent position after update: 46
+Prey position before update: 0
+Prey possible_next: [49, 1, 5, 0]
+Prey position after update: 49
+Pred position before update: 37
+Predator Position: 37
+Predators new position: 38
+Pred position after update: 38
+agents_comm_v.step_count: 16
+agent_pos: 46
+prey_pos: 49
+pred_pos: 38
+Agent position before update: 46
+temp_vals
+[[45, 6.976129791102892], [47, 6.867480027376023], [46, 7.066921229521207]]
+Some temp_vals +ve
+Agent position after update: 46
+Prey position before update: 49
+Prey possible_next: [48, 0, 1, 49]
+Prey position after update: 49
+Pred position before update: 38
+Predator Position: 38
+Predators new position: 39
+Pred position after update: 39
+agents_comm_v.step_count: 17
+agent_pos: 46
+prey_pos: 49
+pred_pos: 39
+Agent position before update: 46
+temp_vals
+[[45, 6.973134363292708], [47, 6.753095227973024], [46, 7.063925801711024]]
+Some temp_vals +ve
+Agent position after update: 46
+Prey position before update: 49
+Prey possible_next: [48, 0, 1, 49]
+Prey position after update: 1
+Pred position before update: 39
+Predator Position: 39
+Predators new position: 44
+Pred position after update: 44
+agents_comm_v.step_count: 18
+agent_pos: 46
+prey_pos: 1
+pred_pos: 44
+Agent position before update: 46
+temp_vals
+[[45, 1.973731422847289], [47, 1.9717248504518783], [46, 1.9727281366495837]]
+Some temp_vals +ve
+Agent position after update: 45
+Prey position before update: 1
+Prey possible_next: [0, 2, 49, 1]
+Prey position after update: 49
+Pred position before update: 44
+Predator Position: 44
+Predators new position: 45
+Pred position after update: 45
+Predator caught the agent! Agent V lost!
+2
+agents_comm_v.step_count: 1
+agent_pos: 36
+prey_pos: 24
+pred_pos: 44
+Agent position before update: 36
+temp_vals
+[[35, 4.429539111206798], [37, 4.003173889578789], [41, 3.1504434463227757], [36, 4.216356500392793]]
+Some temp_vals +ve
+Agent position after update: 35
+Prey position before update: 24
+Prey possible_next: [23, 25, 26, 24]
+Prey position after update: 24
+Pred position before update: 44
+Predator Position: 44
+Predators new position: 39
+Pred position after update: 39
+agents_comm_v.step_count: 2
+agent_pos: 35
+prey_pos: 24
+pred_pos: 39
+Agent position before update: 35
+temp_vals
+[[34, 4.353397662519141], [36, 3.927032440891135], [37, 3.713849830077134], [35, 4.140215051705141]]
+Some temp_vals +ve
+Agent position after update: 34
+Prey position before update: 24
+Prey possible_next: [23, 25, 26, 24]
+Prey position after update: 23
+Pred position before update: 39
+Predator Position: 39
+Predators new position: 38
+Pred position after update: 38
+agents_comm_v.step_count: 3
+agent_pos: 34
+prey_pos: 23
+pred_pos: 38
+Agent position before update: 34
+temp_vals
+[[33, 4.409039669121004], [35, 3.982674447492998], [31, 4.835404890749013], [34, 4.195857058306999]]
+Some temp_vals +ve
+Agent position after update: 31
+Prey position before update: 23
+Prey possible_next: [22, 24, 19, 23]
+Prey position after update: 24
+Pred position before update: 38
+Predator Position: 38
+Predators new position: 39
+Pred position after update: 39
+agents_comm_v.step_count: 4
+agent_pos: 31
+prey_pos: 24
+pred_pos: 39
+Agent position before update: 31
+temp_vals
+[[30, 5.206128105775157], [32, 4.779762884147152], [34, 4.353397662519141], [31, 4.9929454949611545]]
+Some temp_vals +ve
+Agent position after update: 30
+Prey position before update: 24
+Prey possible_next: [23, 25, 26, 24]
+Prey position after update: 25
+Pred position before update: 39
+Predator Position: 39
+Predators new position: 38
+Pred position after update: 38
+agents_comm_v.step_count: 5
+agent_pos: 30
+prey_pos: 25
+pred_pos: 38
+Agent position before update: 30
+temp_vals
+[[29, 5.57779662568233], [31, 5.0347564753726335], [27, 6.249752492975499], [30, 5.255048606594556]]
+Some temp_vals +ve
+Agent position after update: 27
+Prey position before update: 25
+Prey possible_next: [24, 26, 21, 25]
+Prey position after update: 26
+Pred position before update: 38
+Predator Position: 38
+Predators new position: 37
+Pred position after update: 37
+agents_comm_v.step_count: 6
+agent_pos: 27
+prey_pos: 26
+pred_pos: 37
+Agent position before update: 27
+temp_vals
+[[26, 6.687494078531547], [28, 5.957927982221884], [30, 5.312431944046336], [27, 6.304735985990707]]
+Some temp_vals +ve
+Agent position after update: 26
+Agent V partial caught the Prey! Agent V won!
+1
+agents_comm_v.step_count: 1
+agent_pos: 48
+prey_pos: 24
+pred_pos: 27
+Agent position before update: 48
+temp_vals
+[[47, 1.9459870543556832], [49, 1.9418126888006366], [3, 6.755902837226177], [48, 1.94389987157816]]
+Some temp_vals +ve
+Agent position after update: 3
+Prey position before update: 24
+Prey possible_next: [23, 25, 26, 24]
+Prey position after update: 23
+Pred position before update: 27
+Predator Position: 27
+Predators new position: 30
+Pred position after update: 30
+agents_comm_v.step_count: 2
+agent_pos: 3
+prey_pos: 23
+pred_pos: 30
+Agent position before update: 3
+temp_vals
+[[2, 5.559634000135015], [4, 7.6205992733138945], [48, 2.111555451928106], [3, 6.590116636724453]]
+Some temp_vals +ve
+Agent position after update: 4
+Prey position before update: 23
+Prey possible_next: [22, 24, 19, 23]
+Prey position after update: 24
+Pred position before update: 30
+Predator Position: 30
+Predators new position: 29
+Pred position after update: 29
+agents_comm_v.step_count: 3
+agent_pos: 4
+prey_pos: 24
+pred_pos: 29
+Agent position before update: 4
+temp_vals
+[[3, 6.314257864953183], [5, 8.301879017655391], [9, 10.373102893979754], [4, 7.344740501542623]]
+Some temp_vals +ve
+Agent position after update: 9
+Prey position before update: 24
+Prey possible_next: [23, 25, 26, 24]
+Prey position after update: 26
+Pred position before update: 29
+Predator Position: 29
+Predators new position: 33
+Pred position after update: 33
+agents_comm_v.step_count: 4
+agent_pos: 9
+prey_pos: 26
+pred_pos: 33
+Agent position before update: 9
+temp_vals
+[[8, 10.325067152665547], [10, 10.349640489710927], [4, 6.923090474095373], [9, 10.34341330159537]]
+Some temp_vals +ve
+Agent position after update: 10
+Prey position before update: 26
+Prey possible_next: [25, 27, 24, 26]
+Prey position after update: 24
+Pred position before update: 33
+Predator Position: 33
+Predators new position: 32
+Pred position after update: 32
+agents_comm_v.step_count: 5
+agent_pos: 10
+prey_pos: 24
+pred_pos: 32
+Agent position before update: 10
+temp_vals
+[[9, 10.348163140381224], [11, 10.352234786096837], [6, 9.347942737736739], [10, 10.350198963239034]]
+Some temp_vals +ve
+Agent position after update: 11
+Prey position before update: 24
+Prey possible_next: [23, 25, 26, 24]
+Prey position after update: 25
+Pred position before update: 32
+Predator Position: 32
+Predators new position: 28
+Pred position after update: 28
+agents_comm_v.step_count: 6
+agent_pos: 11
+prey_pos: 25
+pred_pos: 28
+Agent position before update: 11
+temp_vals
+[[10, 10.476190062611346], [12, 10.386806438349995], [8, 10.17272314394539], [11, 10.386174898820881]]
+Some temp_vals +ve
+Agent position after update: 10
+Prey position before update: 25
+Prey possible_next: [24, 26, 21, 25]
+Prey position after update: 24
+Pred position before update: 28
+Predator Position: 28
+Predators new position: 27
+Pred position after update: 27
+agents_comm_v.step_count: 7
+agent_pos: 10
+prey_pos: 24
+pred_pos: 27
+Agent position before update: 10
+temp_vals
+[[9, 10.52168537251417], [11, 10.389206610347657], [6, 8.922346229808108], [10, 10.397167936663374]]
+Some temp_vals +ve
+Agent position after update: 9
+Prey position before update: 24
+Prey possible_next: [23, 25, 26, 24]
+Prey position after update: 26
+Pred position before update: 27
+Predator Position: 27
+Predators new position: 30
+Pred position after update: 30
+agents_comm_v.step_count: 8
+agent_pos: 9
+prey_pos: 26
+pred_pos: 30
+Agent position before update: 9
+temp_vals
+[[8, 9.964609338921097], [10, 10.374580243309454], [4, 6.983366185825487], [9, 10.36895451262223]]
+Some temp_vals +ve
+Agent position after update: 10
+Prey position before update: 26
+Prey possible_next: [25, 27, 24, 26]
+Prey position after update: 25
+Pred position before update: 30
+Predator Position: 30
+Predators new position: 27
+Pred position after update: 27
+agents_comm_v.step_count: 9
+agent_pos: 10
+prey_pos: 25
+pred_pos: 27
+Agent position before update: 10
+temp_vals
+[[9, 10.946825898637268], [11, 10.722505127780403], [6, 9.078586213283613], [10, 10.842140253085564]]
+Some temp_vals +ve
+Agent position after update: 9
+Prey position before update: 25
+Prey possible_next: [24, 26, 21, 25]
+Prey position after update: 24
+Pred position before update: 27
+Predator Position: 27
+Predators new position: 26
+Pred position after update: 26
+agents_comm_v.step_count: 10
+agent_pos: 9
+prey_pos: 24
+pred_pos: 26
+Agent position before update: 9
+temp_vals
+[[8, 10.623179123442416], [10, 10.753504240768857], [4, 7.799370993255999], [9, 10.858189886320567]]
+Some temp_vals +ve
+Agent position after update: 9
+Prey position before update: 24
+Prey possible_next: [23, 25, 26, 24]
+Prey position after update: 24
+Pred position before update: 26
+Predator Position: 26
+Predators new position: 24
+Pred position after update: 24
+agents_comm_v.step_count: 11
+agent_pos: 9
+prey_pos: 24
+pred_pos: 24
+Agent position before update: 9
+temp_vals
+[[8, 11.140730203943084], [10, 11.204682850043683], [4, 6.222565601537678], [9, 11.296122898141359]]
+Some temp_vals +ve
+Agent position after update: 9
+Prey position before update: 24
+Prey possible_next: [23, 25, 26, 24]
+Prey position after update: 26
+Pred position before update: 24
+Predator Position: 24
+Predators new position: 23
+Pred position after update: 23
+agents_comm_v.step_count: 12
+agent_pos: 9
+prey_pos: 26
+pred_pos: 23
+Agent position before update: 9
+temp_vals
+[[8, 9.004935366492871], [10, 10.509580793607629], [4, 5.074511386488516], [9, 10.524922979313034]]
+Some temp_vals +ve
+Agent position after update: 9
+Prey position before update: 26
+Prey possible_next: [25, 27, 24, 26]
+Prey position after update: 25
+Pred position before update: 23
+Predator Position: 23
+Predators new position: 19
+Pred position after update: 19
+agents_comm_v.step_count: 13
+agent_pos: 9
+prey_pos: 25
+pred_pos: 19
+Agent position before update: 9
+temp_vals
+[[8, 4.583343907766826], [10, 4.965711846029794], [4, 3.617076289654586], [9, 5.362867746375767]]
+Some temp_vals +ve
+Agent position after update: 9
+Prey position before update: 25
+Prey possible_next: [24, 26, 21, 25]
+Prey position after update: 21
+Pred position before update: 19
+Predator Position: 19
+Predators new position: 18
+Pred position after update: 18
+agents_comm_v.step_count: 14
+agent_pos: 9
+prey_pos: 21
+pred_pos: 18
+Agent position before update: 9
+temp_vals
+[[8, 9.955988401205733], [10, 9.163981120878374], [4, 5.443955927333117], [9, 9.554679596268462]]
+Some temp_vals +ve
+Agent position after update: 8
+Prey position before update: 21
+Prey possible_next: [20, 22, 25, 21]
+Prey position after update: 25
+Pred position before update: 18
+Predator Position: 18
+Predators new position: 17
+Pred position after update: 17
+agents_comm_v.step_count: 15
+agent_pos: 8
+prey_pos: 25
+pred_pos: 17
+Agent position before update: 8
+temp_vals
+[[7, 2.65350089708501], [9, 2.95345112479745], [11, 2.724101476164513], [8, 2.718755716903417]]
+Some temp_vals +ve
+Agent position after update: 9
+Prey position before update: 25
+Prey possible_next: [24, 26, 21, 25]
+Prey position after update: 21
+Pred position before update: 17
+Predator Position: 17
+Predators new position: 13
+Pred position after update: 13
+agents_comm_v.step_count: 16
+agent_pos: 9
+prey_pos: 21
+pred_pos: 13
+Agent position before update: 9
+temp_vals
+[[8, 2.438171485407829], [10, 3.2277444037110485], [4, 2.2692605798766667], [9, 2.792357632699197]]
+Some temp_vals +ve
+Agent position after update: 10
+Prey position before update: 21
+Prey possible_next: [20, 22, 25, 21]
+Prey position after update: 25
+Pred position before update: 13
+Predator Position: 13
+Predators new position: 12
+Pred position after update: 12
+agents_comm_v.step_count: 17
+agent_pos: 10
+prey_pos: 25
+pred_pos: 12
+Agent position before update: 10
+temp_vals
+[[9, 1.9654846699280877], [11, 1.9711491909621799], [6, 2.0742194191666607], [10, 1.968316930445134]]
+Some temp_vals +ve
+Agent position after update: 6
+Prey position before update: 25
+Prey possible_next: [24, 26, 21, 25]
+Prey position after update: 21
+Pred position before update: 12
+Predator Position: 12
+Predators new position: 7
+Pred position after update: 7
+agents_comm_v.step_count: 18
+agent_pos: 6
+prey_pos: 21
+pred_pos: 7
+Agent position before update: 6
+temp_vals
+[[5, 1.9799013671249237], [7, 1.969938218063933], [10, 2.827157928358734], [6, 1.9633264242471982]]
+Some temp_vals +ve
+Agent position after update: 10
+Prey position before update: 21
+Prey possible_next: [20, 22, 25, 21]
+Prey position after update: 20
+Pred position before update: 7
+Predator Position: 7
+Predators new position: 6
+Pred position after update: 6
+agents_comm_v.step_count: 19
+agent_pos: 10
+prey_pos: 20
+pred_pos: 6
+Agent position before update: 10
+temp_vals
+[[9, 2.8284973948582186], [11, 3.7028622964238704], [6, 1.9677611567730509], [10, 3.2656798456410456]]
+Some temp_vals +ve
+Agent position after update: 11
+Prey position before update: 20
+Prey possible_next: [19, 21, 22, 20]
+Prey position after update: 21
+Pred position before update: 6
+Predator Position: 6
+Predators new position: 5
+Pred position after update: 5
+agents_comm_v.step_count: 20
+agent_pos: 11
+prey_pos: 21
+pred_pos: 5
+Agent position before update: 11
+temp_vals
+[[10, 2.6936291032412973], [12, 3.567994004806945], [8, 2.0014915404890647], [11, 3.130811554024121]]
+Some temp_vals +ve
+Agent position after update: 12
+Prey position before update: 21
+Prey possible_next: [20, 22, 25, 21]
+Prey position after update: 20
+Pred position before update: 5
+Predator Position: 5
+Predators new position: 6
+Pred position after update: 6
+agents_comm_v.step_count: 21
+agent_pos: 12
+prey_pos: 20
+pred_pos: 6
+Agent position before update: 12
+temp_vals
+[[11, 3.7028622964238704], [13, 4.649695131745285], [7, 2.120731507483861], [12, 4.146642169968321]]
+Some temp_vals +ve
+Agent position after update: 13
+Prey position before update: 20
+Prey possible_next: [19, 21, 22, 20]
+Prey position after update: 19
+Pred position before update: 6
+Predator Position: 6
+Predators new position: 7
+Pred position after update: 7
+agents_comm_v.step_count: 22
+agent_pos: 13
+prey_pos: 19
+pred_pos: 7
+Agent position before update: 13
+temp_vals
+[[12, 4.8054284702498915], [14, 5.9253611930738215], [17, 7.579137068660646], [13, 5.345249504240653]]
+Some temp_vals +ve
+Agent position after update: 17
+Prey position before update: 19
+Prey possible_next: [18, 20, 23, 19]
+Prey position after update: 20
+Pred position before update: 7
+Predator Position: 7
+Predators new position: 8
+Pred position after update: 8
+agents_comm_v.step_count: 23
+agent_pos: 17
+prey_pos: 20
+pred_pos: 8
+Agent position before update: 17
+temp_vals
+[[16, 6.750566418121853], [18, 7.437782308571093], [13, 4.808779689809223], [17, 7.516511804745984]]
+Some temp_vals +ve
+Agent position after update: 17
+Prey position before update: 20
+Prey possible_next: [19, 21, 22, 20]
+Prey position after update: 20
+Pred position before update: 8
+Predator Position: 8
+Predators new position: 9
+Pred position after update: 9
+agents_comm_v.step_count: 24
+agent_pos: 17
+prey_pos: 20
+pred_pos: 9
+Agent position before update: 17
+temp_vals
+[[16, 6.891021146031487], [18, 7.432912305243982], [13, 4.8883219688411925], [17, 7.421271005318159]]
+Some temp_vals +ve
+Agent position after update: 18
+Prey position before update: 20
+Prey possible_next: [19, 21, 22, 20]
+Prey position after update: 21
+Pred position before update: 9
+Predator Position: 9
+Predators new position: 8
+Pred position after update: 8
+agents_comm_v.step_count: 25
+agent_pos: 18
+prey_pos: 21
+pred_pos: 8
+Agent position before update: 18
+temp_vals
+[[17, 6.624342488830479], [19, 7.401643855058098], [15, 5.272409664327348], [18, 7.422776251510688]]
+Some temp_vals +ve
+Agent position after update: 18
+Prey position before update: 21
+Prey possible_next: [20, 22, 25, 21]
+Prey position after update: 22
+Pred position before update: 8
+Predator Position: 8
+Predators new position: 11
+Pred position after update: 11
+agents_comm_v.step_count: 26
+agent_pos: 18
+prey_pos: 22
+pred_pos: 11
+Agent position before update: 18
+temp_vals
+[[17, 6.072063945829148], [19, 7.241320618158291], [15, 4.895024407959856], [18, 6.992503433939425]]
+Some temp_vals +ve
+Agent position after update: 19
+Prey position before update: 22
+Prey possible_next: [21, 23, 20, 22]
+Prey position after update: 20
+Pred position before update: 11
+Predator Position: 11
+Predators new position: 10
+Pred position after update: 10
+agents_comm_v.step_count: 27
+agent_pos: 19
+prey_pos: 20
+pred_pos: 10
+Agent position before update: 19
+temp_vals
+[[18, 7.42138707871274], [20, 7.533721411331645], [23, 6.984621032233707], [19, 7.488759361283569]]
+Some temp_vals +ve
+Agent position after update: 20
+Agent V partial caught the Prey! Agent V won!
+1
+agents_comm_v.step_count: 1
+agent_pos: 23
+prey_pos: 43
+pred_pos: 43
+Agent position before update: 23
+temp_vals
+[[22, 11.379176025753726], [24, 11.155591605080987], [19, 11.725447185343501], [23, 11.264177464200674]]
+Some temp_vals +ve
+Agent position after update: 19
+Prey position before update: 43
+Prey possible_next: [42, 44, 40, 43]
+Prey position after update: 43
+Pred position before update: 43
+Predator Position: 43
+Predators new position: 42
+Pred position after update: 42
+agents_comm_v.step_count: 2
+agent_pos: 19
+prey_pos: 43
+pred_pos: 42
+Agent position before update: 19
+temp_vals
+[[18, 12.119639256249474], [20, 11.936759160054127], [23, 11.597490460552851], [19, 12.0281992081518]]
+Some temp_vals +ve
+Agent position after update: 18
+Prey position before update: 43
+Prey possible_next: [42, 44, 40, 43]
+Prey position after update: 40
+Pred position before update: 42
+Predator Position: 42
+Predators new position: 38
+Pred position after update: 38
+agents_comm_v.step_count: 3
+agent_pos: 18
+prey_pos: 40
+pred_pos: 38
+Agent position before update: 18
+temp_vals
+[[17, 12.231287043742688], [19, 11.943373237285321], [15, 12.41416713993803], [18, 12.103660282371267]]
+Some temp_vals +ve
+Agent position after update: 15
+Prey position before update: 40
+Prey possible_next: [39, 41, 43, 40]
+Prey position after update: 40
+Pred position before update: 38
+Predator Position: 38
+Predators new position: 37
+Pred position after update: 37
+agents_comm_v.step_count: 4
+agent_pos: 15
+prey_pos: 40
+pred_pos: 37
+Agent position before update: 15
+temp_vals
+[[14, 12.049883259664082], [16, 11.729754446761726], [18, 11.378404486366883], [15, 11.89004149184767]]
+Some temp_vals +ve
+Agent position after update: 14
+Prey position before update: 40
+Prey possible_next: [39, 41, 43, 40]
+Prey position after update: 41
+Pred position before update: 37
+Predator Position: 37
+Predators new position: 35
+Pred position after update: 35
+agents_comm_v.step_count: 5
+agent_pos: 14
+prey_pos: 41
+pred_pos: 35
+Agent position before update: 14
+temp_vals
+[[13, 7.608310818354271], [15, 9.280805582882593], [16, 9.034107878513707], [14, 9.266284882824493]]
+Some temp_vals +ve
+Agent position after update: 15
+Prey position before update: 41
+Prey possible_next: [40, 42, 36, 41]
+Prey position after update: 42
+Pred position before update: 35
+Predator Position: 35
+Predators new position: 34
+Pred position after update: 34
+agents_comm_v.step_count: 6
+agent_pos: 15
+prey_pos: 42
+pred_pos: 34
+Agent position before update: 15
+temp_vals
+[[14, 6.0964036043021945], [16, 6.435793756682379], [18, 5.518405386821896], [15, 6.693278401773872]]
+Some temp_vals +ve
+Agent position after update: 15
+Prey position before update: 42
+Prey possible_next: [41, 43, 38, 42]
+Prey position after update: 42
+Pred position before update: 34
+Predator Position: 34
+Predators new position: 31
+Pred position after update: 31
+agents_comm_v.step_count: 7
+agent_pos: 15
+prey_pos: 42
+pred_pos: 31
+Agent position before update: 15
+temp_vals
+[[14, 2.184803585934932], [16, 2.140648658052538], [18, 1.9672038006308545], [15, 2.2107935505000094]]
+Some temp_vals +ve
+Agent position after update: 15
+Prey position before update: 42
+Prey possible_next: [41, 43, 38, 42]
+Prey position after update: 41
+Pred position before update: 31
+Predator Position: 31
+Predators new position: 34
+Pred position after update: 34
+agents_comm_v.step_count: 8
+agent_pos: 15
+prey_pos: 41
+pred_pos: 34
+Agent position before update: 15
+temp_vals
+[[14, 7.931825521791672], [16, 7.65466249457301], [18, 7.139693204390016], [15, 7.912147139664503]]
+Some temp_vals +ve
+Agent position after update: 14
+Prey position before update: 41
+Prey possible_next: [40, 42, 36, 41]
+Prey position after update: 41
+Pred position before update: 34
+Predator Position: 34
+Predators new position: 31
+Pred position after update: 31
+agents_comm_v.step_count: 9
+agent_pos: 14
+prey_pos: 41
+pred_pos: 31
+Agent position before update: 14
+temp_vals
+[[13, 2.5598377956314518], [15, 2.66595238353307], [16, 2.5064932415773122], [14, 2.777519569643604]]
+Some temp_vals +ve
+Agent position after update: 14
+Prey position before update: 41
+Prey possible_next: [40, 42, 36, 41]
+Prey position after update: 36
+Pred position before update: 31
+Predator Position: 31
+Predators new position: 30
+Pred position after update: 30
+agents_comm_v.step_count: 10
+agent_pos: 14
+prey_pos: 36
+pred_pos: 30
+Agent position before update: 14
+temp_vals
+[[13, 8.433307359426681], [15, 7.91833806924369], [16, 7.584014900148911], [14, 8.175822714335188]]
+Some temp_vals +ve
+Agent position after update: 13
+Prey position before update: 36
+Prey possible_next: [35, 37, 41, 36]
+Prey position after update: 35
+Pred position before update: 30
+Predator Position: 30
+Predators new position: 27
+Pred position after update: 27
+agents_comm_v.step_count: 11
+agent_pos: 13
+prey_pos: 35
+pred_pos: 27
+Agent position before update: 13
+temp_vals
+[[12, 4.423559477185022], [14, 3.842576324706741], [17, 3.414828130578686], [13, 4.192200592211854]]
+Some temp_vals +ve
+Agent position after update: 12
+Prey position before update: 35
+Prey possible_next: [34, 36, 37, 35]
+Prey position after update: 37
+Pred position before update: 27
+Predator Position: 27
+Predators new position: 26
+Pred position after update: 26
+agents_comm_v.step_count: 12
+agent_pos: 12
+prey_pos: 37
+pred_pos: 26
+Agent position before update: 12
+temp_vals
+[[11, 2.020683258943387], [13, 1.9664475725615338], [7, 2.216256198619386], [12, 1.9642593498505874]]
+Some temp_vals +ve
+Agent position after update: 7
+Prey position before update: 37
+Prey possible_next: [36, 38, 35, 37]
+Prey position after update: 35
+Pred position before update: 26
+Predator Position: 26
+Predators new position: 24
+Pred position after update: 24
+agents_comm_v.step_count: 13
+agent_pos: 7
+prey_pos: 35
+pred_pos: 24
+Agent position before update: 7
+temp_vals
+[[6, 2.223819336327478], [8, 2.154755497613526], [12, 1.9650543658120512], [7, 2.189287416970502]]
+Some temp_vals +ve
+Agent position after update: 6
+Prey position before update: 35
+Prey possible_next: [34, 36, 37, 35]
+Prey position after update: 36
+Pred position before update: 24
+Predator Position: 24
+Predators new position: 23
+Pred position after update: 23
+agents_comm_v.step_count: 14
+agent_pos: 6
+prey_pos: 36
+pred_pos: 23
+Agent position before update: 6
+temp_vals
+[[5, 2.300631183278243], [7, 2.2368719716055323], [10, 2.098755014025056], [6, 2.271403890962508]]
+Some temp_vals +ve
+Agent position after update: 5
+Prey position before update: 36
+Prey possible_next: [35, 37, 41, 36]
+Prey position after update: 37
+Pred position before update: 23
+Predator Position: 23
+Predators new position: 24
+Pred position after update: 24
+agents_comm_v.step_count: 15
+agent_pos: 5
+prey_pos: 37
+pred_pos: 24
+Agent position before update: 5
+temp_vals
+[[4, 2.336982185373449], [6, 2.2848882817869502], [0, 2.322838623741787], [5, 2.3117406136582366]]
+Some temp_vals +ve
+Agent position after update: 4
+Prey position before update: 37
+Prey possible_next: [36, 38, 35, 37]
+Prey position after update: 38
+Pred position before update: 24
+Predator Position: 24
+Predators new position: 23
+Pred position after update: 23
+agents_comm_v.step_count: 16
+agent_pos: 4
+prey_pos: 38
+pred_pos: 23
+Agent position before update: 4
+temp_vals
+[[3, 2.432781642344453], [5, 2.363229581767061], [9, 2.241427052191059], [4, 2.387986453302427]]
+Some temp_vals +ve
+Agent position after update: 3
+Prey position before update: 38
+Prey possible_next: [37, 39, 42, 38]
+Prey position after update: 38
+Pred position before update: 23
+Predator Position: 23
+Predators new position: 24
+Pred position after update: 24
+agents_comm_v.step_count: 17
+agent_pos: 3
+prey_pos: 38
+pred_pos: 24
+Agent position before update: 3
+temp_vals
+[[2, 2.523967596718032], [4, 2.369452203154105], [48, 4.957969796973176], [3, 2.4703814065725482]]
+Some temp_vals +ve
+Agent position after update: 48
+Prey position before update: 38
+Prey possible_next: [37, 39, 42, 38]
+Prey position after update: 38
+Pred position before update: 24
+Predator Position: 24
+Predators new position: 23
+Pred position after update: 23
+agents_comm_v.step_count: 18
+agent_pos: 48
+prey_pos: 38
+pred_pos: 23
+Agent position before update: 48
+temp_vals
+[[47, 5.213775062641626], [49, 4.852648253077871], [3, 2.432781642344453], [48, 5.033211657859749]]
+Some temp_vals +ve
+Agent position after update: 47
+Prey position before update: 38
+Prey possible_next: [37, 39, 42, 38]
+Prey position after update: 39
+Pred position before update: 23
+Predator Position: 23
+Predators new position: 19
+Pred position after update: 19
+agents_comm_v.step_count: 19
+agent_pos: 47
+prey_pos: 39
+pred_pos: 19
+Agent position before update: 47
+temp_vals
+[[46, 5.899241253493095], [48, 5.538114443929341], [2, 2.549558471075229], [47, 5.718677848711216]]
+Some temp_vals +ve
+Agent position after update: 46
+Prey position before update: 39
+Prey possible_next: [38, 40, 44, 39]
+Prey position after update: 40
+Pred position before update: 19
+Predator Position: 19
+Predators new position: 18
+Pred position after update: 18
+agents_comm_v.step_count: 20
+agent_pos: 46
+prey_pos: 40
+pred_pos: 18
+Agent position before update: 46
+temp_vals
+[[45, 6.358981861684854], [47, 5.9978550521211], [46, 6.1784184569029765]]
+Some temp_vals +ve
+Agent position after update: 45
+Prey position before update: 40
+Prey possible_next: [39, 41, 43, 40]
+Prey position after update: 43
+Pred position before update: 18
+Predator Position: 18
+Predators new position: 17
+Pred position after update: 17
+agents_comm_v.step_count: 21
+agent_pos: 45
+prey_pos: 43
+pred_pos: 17
+Agent position before update: 45
+temp_vals
+[[44, 7.515864185388403], [46, 7.159021309716317], [45, 7.52178764794913]]
+Some temp_vals +ve
+Agent position after update: 45
+Prey position before update: 43
+Prey possible_next: [42, 44, 40, 43]
+Prey position after update: 42
+Pred position before update: 17
+Predator Position: 17
+Predators new position: 13
+Pred position after update: 13
+agents_comm_v.step_count: 22
+agent_pos: 45
+prey_pos: 42
+pred_pos: 13
+Agent position before update: 45
+temp_vals
+[[44, 7.622449538077465], [46, 7.204342866769061], [45, 7.567109205001873]]
+Some temp_vals +ve
+Agent position after update: 44
+Prey position before update: 42
+Prey possible_next: [41, 43, 38, 42]
+Prey position after update: 43
+Pred position before update: 13
+Predator Position: 13
+Predators new position: 12
+Pred position after update: 12
+agents_comm_v.step_count: 23
+agent_pos: 44
+prey_pos: 43
+pred_pos: 12
+Agent position before update: 44
+temp_vals
+[[43, 7.3484593766446045], [45, 7.621632762857638], [39, 5.640694434927688], [44, 7.572190856694258]]
+Some temp_vals +ve
+Agent position after update: 45
+Prey position before update: 43
+Prey possible_next: [42, 44, 40, 43]
+Prey position after update: 42
+Pred position before update: 12
+Predator Position: 12
+Predators new position: 11
+Pred position after update: 11
+agents_comm_v.step_count: 24
+agent_pos: 45
+prey_pos: 42
+pred_pos: 11
+Agent position before update: 45
+temp_vals
+[[44, 7.628440393697834], [46, 7.433112465575047], [45, 7.719231832116149]]
+Some temp_vals +ve
+Agent position after update: 45
+Prey position before update: 42
+Prey possible_next: [41, 43, 38, 42]
+Prey position after update: 43
+Pred position before update: 11
+Predator Position: 11
+Predators new position: 10
+Pred position after update: 10
+agents_comm_v.step_count: 25
+agent_pos: 45
+prey_pos: 43
+pred_pos: 10
+Agent position before update: 45
+temp_vals
+[[44, 7.520186834164601], [46, 7.718415056896321], [45, 7.6276236184780055]]
+Some temp_vals +ve
+Agent position after update: 46
+Prey position before update: 43
+Prey possible_next: [42, 44, 40, 43]
+Prey position after update: 40
+Pred position before update: 10
+Predator Position: 10
+Predators new position: 9
+Pred position after update: 9
+agents_comm_v.step_count: 26
+agent_pos: 46
+prey_pos: 40
+pred_pos: 9
+Agent position before update: 46
+temp_vals
+[[45, 7.200213121495383], [47, 6.675031800100222], [46, 6.855595204882101]]
+Some temp_vals +ve
+Agent position after update: 45
+Prey position before update: 40
+Prey possible_next: [39, 41, 43, 40]
+Prey position after update: 39
+Pred position before update: 9
+Predator Position: 9
+Predators new position: 4
+Pred position after update: 4
+agents_comm_v.step_count: 27
+agent_pos: 45
+prey_pos: 39
+pred_pos: 4
+Agent position before update: 45
+temp_vals
+[[44, 7.722685816183935], [46, 7.06066725454773], [45, 7.3599194779511246]]
+Some temp_vals +ve
+Agent position after update: 44
+Prey position before update: 39
+Prey possible_next: [38, 40, 44, 39]
+Prey position after update: 40
+Pred position before update: 4
+Predator Position: 4
+Predators new position: 3
+Pred position after update: 3
+agents_comm_v.step_count: 28
+agent_pos: 44
+prey_pos: 40
+pred_pos: 3
+Agent position before update: 44
+temp_vals
+[[43, 7.79285597443763], [45, 7.886521917913352], [39, 6.726025565607652], [44, 7.84161109907596]]
+Some temp_vals +ve
+Agent position after update: 45
+Prey position before update: 40
+Prey possible_next: [39, 41, 43, 40]
+Prey position after update: 39
+Pred position before update: 3
+Predator Position: 3
+Predators new position: 48
+Pred position after update: 48
+agents_comm_v.step_count: 29
+agent_pos: 45
+prey_pos: 39
+pred_pos: 48
+Agent position before update: 45
+temp_vals
+[[44, 4.23749174615927], [46, 3.4103430634995995], [45, 4.0181217885345974]]
+Some temp_vals +ve
+Agent position after update: 44
+Prey position before update: 39
+Prey possible_next: [38, 40, 44, 39]
+Prey position after update: 40
+Pred position before update: 48
+Predator Position: 48
+Predators new position: 47
+Pred position after update: 47
+agents_comm_v.step_count: 30
+agent_pos: 44
+prey_pos: 40
+pred_pos: 47
+Agent position before update: 44
+temp_vals
+[[43, 4.4924853373847515], [45, 3.5476604335238124], [39, 5.363767108318411], [44, 4.15543915855881]]
+Some temp_vals +ve
+Agent position after update: 39
+Prey position before update: 40
+Prey possible_next: [39, 41, 43, 40]
+Prey position after update: 41
+Pred position before update: 47
+Predator Position: 47
+Predators new position: 46
+Pred position after update: 46
+agents_comm_v.step_count: 31
+agent_pos: 39
+prey_pos: 41
+pred_pos: 46
+Agent position before update: 39
+temp_vals
+[[38, 5.672653619559815], [40, 5.197121614169201], [44, 3.699965713153876], [39, 5.427824377998936]]
+Some temp_vals +ve
+Agent position after update: 38
+Prey position before update: 41
+Prey possible_next: [40, 42, 36, 41]
+Prey position after update: 41
+Pred position before update: 46
+Predator Position: 46
+Predators new position: 45
+Pred position after update: 45
+agents_comm_v.step_count: 32
+agent_pos: 38
+prey_pos: 41
+pred_pos: 45
+Agent position before update: 38
+temp_vals
+[[37, 5.874222463045457], [39, 5.372718750015489], [42, 4.402566986470908], [38, 5.607865342404136]]
+Some temp_vals +ve
+Agent position after update: 37
+Prey position before update: 41
+Prey possible_next: [40, 42, 36, 41]
+Prey position after update: 41
+Pred position before update: 45
+Predator Position: 45
+Predators new position: 46
+Pred position after update: 46
+agents_comm_v.step_count: 33
+agent_pos: 37
+prey_pos: 41
+pred_pos: 46
+Agent position before update: 37
+temp_vals
+[[36, 6.374842731681876], [38, 5.672653619559815], [35, 6.802694061442748], [37, 5.98477609846574]]
+Some temp_vals +ve
+Agent position after update: 35
+Prey position before update: 41
+Prey possible_next: [40, 42, 36, 41]
+Prey position after update: 40
+Pred position before update: 46
+Predator Position: 46
+Predators new position: 45
+Pred position after update: 45
+agents_comm_v.step_count: 34
+agent_pos: 35
+prey_pos: 40
+pred_pos: 45
+Agent position before update: 35
+temp_vals
+[[34, 6.906547356084528], [36, 6.076245611116016], [37, 5.762887489947811], [35, 6.475092986112556]]
+Some temp_vals +ve
+Agent position after update: 34
+Prey position before update: 40
+Prey possible_next: [39, 41, 43, 40]
+Prey position after update: 43
+Pred position before update: 45
+Predator Position: 45
+Predators new position: 44
+Pred position after update: 44
+agents_comm_v.step_count: 35
+agent_pos: 34
+prey_pos: 43
+pred_pos: 44
+Agent position before update: 34
+temp_vals
+[[33, 7.701260401795151], [35, 6.952599129578023], [31, 9.104943268673996], [34, 7.304098416077761]]
+Some temp_vals +ve
+Agent position after update: 31
+Prey position before update: 43
+Prey possible_next: [42, 44, 40, 43]
+Prey position after update: 40
+Pred position before update: 44
+Predator Position: 44
+Predators new position: 39
+Pred position after update: 39
+agents_comm_v.step_count: 36
+agent_pos: 31
+prey_pos: 40
+pred_pos: 39
+Agent position before update: 31
+temp_vals
+[[30, 7.564953617581106], [32, 6.931654129807891], [34, 6.2275223340525105], [31, 7.232469969578419]]
+Some temp_vals +ve
+Agent position after update: 30
+Prey position before update: 40
+Prey possible_next: [39, 41, 43, 40]
+Prey position after update: 40
+Pred position before update: 39
+Predator Position: 39
+Predators new position: 38
+Pred position after update: 38
+agents_comm_v.step_count: 37
+agent_pos: 30
+prey_pos: 40
+pred_pos: 38
+Agent position before update: 30
+temp_vals
+[[29, 8.118554817414552], [31, 6.826273436435377], [27, 10.276732939578427], [30, 7.297162008317256]]
+Some temp_vals +ve
+Agent position after update: 27
+Prey position before update: 40
+Prey possible_next: [39, 41, 43, 40]
+Prey position after update: 43
+Pred position before update: 38
+Predator Position: 38
+Predators new position: 37
+Pred position after update: 37
+agents_comm_v.step_count: 38
+agent_pos: 27
+prey_pos: 43
+pred_pos: 37
+Agent position before update: 27
+temp_vals
+[[26, 6.4638097651987625], [28, 5.670273396900691], [30, 4.98301319279472], [27, 6.071862973210919]]
+Some temp_vals +ve
+Agent position after update: 26
+Prey position before update: 43
+Prey possible_next: [42, 44, 40, 43]
+Prey position after update: 44
+Pred position before update: 37
+Predator Position: 37
+Predators new position: 35
+Pred position after update: 35
+agents_comm_v.step_count: 39
+agent_pos: 26
+prey_pos: 44
+pred_pos: 35
+Agent position before update: 26
+temp_vals
+[[25, 2.764442197327009], [27, 2.508252619770196], [24, 2.8932962515373926], [26, 2.635588143116627]]
+Some temp_vals +ve
+Agent position after update: 24
+Prey position before update: 44
+Prey possible_next: [43, 45, 39, 44]
+Prey position after update: 44
+Pred position before update: 35
+Predator Position: 35
+Predators new position: 36
+Pred position after update: 36
+agents_comm_v.step_count: 40
+agent_pos: 24
+prey_pos: 44
+pred_pos: 36
+Agent position before update: 24
+temp_vals
+[[23, 4.228870018033037], [25, 3.7104845561742357], [26, 3.601930158956485], [24, 3.8888112574167777]]
+Some temp_vals +ve
+Agent position after update: 23
+Prey position before update: 44
+Prey possible_next: [43, 45, 39, 44]
+Prey position after update: 44
+Pred position before update: 36
+Predator Position: 36
+Predators new position: 41
+Pred position after update: 41
+agents_comm_v.step_count: 41
+agent_pos: 23
+prey_pos: 44
+pred_pos: 41
+Agent position before update: 23
+temp_vals
+[[22, 11.273077978925366], [24, 10.880188110558535], [19, 11.788235097515784], [23, 11.07663304474195]]
+Some temp_vals +ve
+Agent position after update: 19
+Prey position before update: 44
+Prey possible_next: [43, 45, 39, 44]
+Prey position after update: 43
+Pred position before update: 41
+Predator Position: 41
+Predators new position: 36
+Pred position after update: 36
+agents_comm_v.step_count: 42
+agent_pos: 19
+prey_pos: 43
+pred_pos: 36
+Agent position before update: 19
+temp_vals
+[[18, 7.7460321085457355], [20, 7.231062818362742], [23, 5.830805806184548], [19, 7.488547463454239]]
+Some temp_vals +ve
+Agent position after update: 18
+Prey position before update: 43
+Prey possible_next: [42, 44, 40, 43]
+Prey position after update: 43
+Pred position before update: 36
+Predator Position: 36
+Predators new position: 35
+Pred position after update: 35
+agents_comm_v.step_count: 43
+agent_pos: 18
+prey_pos: 43
+pred_pos: 35
+Agent position before update: 18
+temp_vals
+[[17, 6.481478563668745], [19, 5.576662268544089], [15, 6.996447853851733], [18, 6.100833761019407]]
+Some temp_vals +ve
+Agent position after update: 15
+Prey position before update: 43
+Prey possible_next: [42, 44, 40, 43]
+Prey position after update: 40
+Pred position before update: 35
+Predator Position: 35
+Predators new position: 34
+Pred position after update: 34
+agents_comm_v.step_count: 44
+agent_pos: 15
+prey_pos: 40
+pred_pos: 34
+Agent position before update: 15
+temp_vals
+[[14, 9.289473349644199], [16, 8.796077940906418], [18, 8.302682532168642], [15, 9.04277564527531]]
+Some temp_vals +ve
+Agent position after update: 14
+Prey position before update: 40
+Prey possible_next: [39, 41, 43, 40]
+Prey position after update: 41
+Pred position before update: 34
+Predator Position: 34
+Predators new position: 33
+Pred position after update: 33
+agents_comm_v.step_count: 45
+agent_pos: 14
+prey_pos: 41
+pred_pos: 33
+Agent position before update: 14
+temp_vals
+[[13, 4.7860123495382405], [15, 6.3901089496960175], [16, 5.984319997575025], [14, 6.4331994732858515]]
+Some temp_vals +ve
+Agent position after update: 14
+Prey position before update: 41
+Prey possible_next: [40, 42, 36, 41]
+Prey position after update: 40
+Pred position before update: 33
+Predator Position: 33
+Predators new position: 32
+Pred position after update: 32
+agents_comm_v.step_count: 46
+agent_pos: 14
+prey_pos: 40
+pred_pos: 32
+Agent position before update: 14
+temp_vals
+[[13, 5.122808218521888], [15, 5.926063115852834], [16, 5.401891623377519], [14, 6.344424142709655]]
+Some temp_vals +ve
+Agent position after update: 14
+Prey position before update: 40
+Prey possible_next: [39, 41, 43, 40]
+Prey position after update: 41
+Pred position before update: 32
+Predator Position: 32
+Predators new position: 28
+Pred position after update: 28
+agents_comm_v.step_count: 47
+agent_pos: 14
+prey_pos: 41
+pred_pos: 28
+Agent position before update: 14
+temp_vals
+[[13, 2.2246551662600194], [15, 2.0692940417650414], [16, 2.0000889788975376], [14, 2.1357306545934214]]
+Some temp_vals +ve
+Agent position after update: 13
+Prey position before update: 41
+Prey possible_next: [40, 42, 36, 41]
+Prey position after update: 40
+Pred position before update: 28
+Predator Position: 28
+Predators new position: 32
+Pred position after update: 32
+agents_comm_v.step_count: 48
+agent_pos: 13
+prey_pos: 40
+pred_pos: 32
+Agent position before update: 13
+temp_vals
+[[12, 3.899611687920455], [14, 6.344424142709655], [17, 4.877720130902213], [13, 5.122808218521888]]
+Some temp_vals +ve
+Agent position after update: 14
+Prey position before update: 40
+Prey possible_next: [39, 41, 43, 40]
+Prey position after update: 41
+Pred position before update: 32
+Predator Position: 32
+Predators new position: 28
+Pred position after update: 28
+agents_comm_v.step_count: 49
+agent_pos: 14
+prey_pos: 41
+pred_pos: 28
+Agent position before update: 14
+temp_vals
+[[13, 2.2246551662600194], [15, 2.0692940417650414], [16, 2.0000889788975376], [14, 2.1357306545934214]]
+Some temp_vals +ve
+Agent position after update: 13
+Prey position before update: 41
+Prey possible_next: [40, 42, 36, 41]
+Prey position after update: 42
+Pred position before update: 28
+Predator Position: 28
+Predators new position: 27
+Pred position after update: 27
+agents_comm_v.step_count: 50
+agent_pos: 13
+prey_pos: 42
+pred_pos: 27
+Agent position before update: 13
+temp_vals
+[[12, 2.447667842555957], [14, 2.3810723460298697], [17, 2.5110965087513257], [13, 2.3575225506807787]]
+Some temp_vals +ve
+Agent position after update: 17
+Prey position before update: 42
+Prey possible_next: [41, 43, 38, 42]
+Prey position after update: 41
+Pred position before update: 27
+Predator Position: 27
+Predators new position: 26
+Pred position after update: 26
+agents_comm_v.step_count: 51
+agent_pos: 17
+prey_pos: 41
+pred_pos: 26
+Agent position before update: 17
+temp_vals
+[[16, 2.5156637490892066], [18, 2.4434041726925635], [13, 2.3661346457391317], [17, 2.5609016895011973]]
+Some temp_vals +ve
+Agent position after update: 17
+Prey position before update: 41
+Prey possible_next: [40, 42, 36, 41]
+Prey position after update: 42
+Pred position before update: 26
+Predator Position: 26
+Predators new position: 24
+Pred position after update: 24
+agents_comm_v.step_count: 52
+agent_pos: 17
+prey_pos: 42
+pred_pos: 24
+Agent position before update: 17
+temp_vals
+[[16, 2.8639937839857748], [18, 2.628998750368508], [13, 3.157557889256727], [17, 2.7464962671771405]]
+Some temp_vals +ve
+Agent position after update: 13
+Prey position before update: 42
+Prey possible_next: [41, 43, 38, 42]
+Prey position after update: 38
+Pred position before update: 24
+Predator Position: 24
+Predators new position: 23
+Pred position after update: 23
+agents_comm_v.step_count: 53
+agent_pos: 13
+prey_pos: 38
+pred_pos: 23
+Agent position before update: 13
+temp_vals
+[[12, 2.4596547069633297], [14, 2.549115386063683], [17, 2.1966228356377835], [13, 2.5288212880115335]]
+Some temp_vals +ve
+Agent position after update: 14
+Prey position before update: 38
+Prey possible_next: [37, 39, 42, 38]
+Prey position after update: 38
+Pred position before update: 23
+Predator Position: 23
+Predators new position: 19
+Pred position after update: 19
+agents_comm_v.step_count: 54
+agent_pos: 14
+prey_pos: 38
+pred_pos: 19
+Agent position before update: 14
+temp_vals
+[[13, 2.7521706269453903], [15, 2.5171755933281235], [16, 2.3996780765194914], [14, 2.6346731101367578]]
+Some temp_vals +ve
+Agent position after update: 13
+Prey position before update: 38
+Prey possible_next: [37, 39, 42, 38]
+Prey position after update: 37
+Pred position before update: 19
+Predator Position: 19
+Predators new position: 18
+Pred position after update: 18
+agents_comm_v.step_count: 55
+agent_pos: 13
+prey_pos: 37
+pred_pos: 18
+Agent position before update: 13
+temp_vals
+[[12, 2.7113586790949116], [14, 2.5132468255156195], [17, 2.160754275089721], [13, 2.6307443423242534]]
+Some temp_vals +ve
+Agent position after update: 12
+Prey position before update: 37
+Prey possible_next: [36, 38, 35, 37]
+Prey position after update: 35
+Pred position before update: 18
+Predator Position: 18
+Predators new position: 17
+Pred position after update: 17
+agents_comm_v.step_count: 56
+agent_pos: 12
+prey_pos: 35
+pred_pos: 17
+Agent position before update: 12
+temp_vals
+[[11, 2.5534643408958617], [13, 2.366502342063708], [7, 2.6053103721974593], [12, 2.483999858872342]]
+Some temp_vals +ve
+Agent position after update: 7
+Prey position before update: 35
+Prey possible_next: [34, 36, 37, 35]
+Prey position after update: 34
+Pred position before update: 17
+Predator Position: 17
+Predators new position: 18
+Pred position after update: 18
+agents_comm_v.step_count: 57
+agent_pos: 7
+prey_pos: 34
+pred_pos: 18
+Agent position before update: 7
+temp_vals
+[[6, 2.3187205980854717], [8, 2.5371053503333556], [12, 2.3197947122146667], [7, 2.3960616080735178]]
+Some temp_vals +ve
+Agent position after update: 8
+Prey position before update: 34
+Prey possible_next: [33, 35, 31, 34]
+Prey position after update: 35
+Pred position before update: 18
+Predator Position: 18
+Predators new position: 17
+Pred position after update: 17
+agents_comm_v.step_count: 58
+agent_pos: 8
+prey_pos: 35
+pred_pos: 17
+Agent position before update: 8
+temp_vals
+[[7, 2.6053103721974593], [9, 2.6575245592954544], [11, 2.5534643408958617], [8, 2.6314174657464564]]
+Some temp_vals +ve
+Agent position after update: 9
+Prey position before update: 35
+Prey possible_next: [34, 36, 37, 35]
+Prey position after update: 36
+Pred position before update: 17
+Predator Position: 17
+Predators new position: 16
+Pred position after update: 16
+agents_comm_v.step_count: 59
+agent_pos: 9
+prey_pos: 36
+pred_pos: 16
+Agent position before update: 9
+temp_vals
+[[8, 2.7257295811595563], [10, 2.7779437682575523], [4, 2.6213012069635675], [9, 2.751836674708555]]
+Some temp_vals +ve
+Agent position after update: 10
+Prey position before update: 36
+Prey possible_next: [35, 37, 41, 36]
+Prey position after update: 36
+Pred position before update: 16
+Predator Position: 16
+Predators new position: 17
+Pred position after update: 17
+agents_comm_v.step_count: 60
+agent_pos: 10
+prey_pos: 36
+pred_pos: 17
+Agent position before update: 10
+temp_vals
+[[9, 2.732938113842382], [11, 2.6886003435488335], [6, 2.65461683319539], [10, 2.7590452073913796]]
+Some temp_vals +ve
+Agent position after update: 10
+Prey position before update: 36
+Prey possible_next: [35, 37, 41, 36]
+Prey position after update: 35
+Pred position before update: 17
+Predator Position: 17
+Predators new position: 13
+Pred position after update: 13
+agents_comm_v.step_count: 61
+agent_pos: 10
+prey_pos: 35
+pred_pos: 13
+Agent position before update: 10
+temp_vals
+[[9, 2.733118802760146], [11, 2.6390795357735266], [6, 2.654797522113156], [10, 2.730053404161006]]
+Some temp_vals +ve
+Agent position after update: 9
+Prey position before update: 35
+Prey possible_next: [34, 36, 37, 35]
+Prey position after update: 37
+Pred position before update: 13
+Predator Position: 13
+Predators new position: 12
+Pred position after update: 12
+agents_comm_v.step_count: 62
+agent_pos: 9
+prey_pos: 37
+pred_pos: 12
+Agent position before update: 9
+temp_vals
+[[8, 2.876737379171178], [10, 2.9289515662691725], [4, 2.7723090049751926], [9, 2.9028444727201754]]
+Some temp_vals +ve
+Agent position after update: 10
+Prey position before update: 37
+Prey possible_next: [36, 38, 35, 37]
+Prey position after update: 37
+Pred position before update: 12
+Predator Position: 12
+Predators new position: 11
+Pred position after update: 11
+agents_comm_v.step_count: 63
+agent_pos: 10
+prey_pos: 37
+pred_pos: 11
+Agent position before update: 10
+temp_vals
+[[9, 2.9217430335863477], [11, 2.9521591385183057], [6, 2.843421752939357], [10, 2.947850127135346]]
+Some temp_vals +ve
+Agent position after update: 11
+Predator caught the agent! Agent V lost!
+2
+agents_comm_v.step_count: 1
+agent_pos: 41
+prey_pos: 26
+pred_pos: 28
+Agent position before update: 41
+temp_vals
+[[40, 2.32346691915444], [42, 1.9622211996256413], [36, 3.0619285080491836], [41, 2.1388515219307607]]
+Some temp_vals +ve
+Agent position after update: 36
+Prey position before update: 26
+Prey possible_next: [25, 27, 24, 26]
+Prey position after update: 26
+Pred position before update: 28
+Predator Position: 28
+Predators new position: 29
+Pred position after update: 29
+agents_comm_v.step_count: 2
+agent_pos: 36
+prey_pos: 26
+pred_pos: 29
+Agent position before update: 36
+temp_vals
+[[35, 3.0574436521127137], [37, 2.65858594165855], [41, 1.9630372808138126], [36, 2.858014796885635]]
+Some temp_vals +ve
+Agent position after update: 35
+Prey position before update: 26
+Prey possible_next: [25, 27, 24, 26]
+Prey position after update: 24
+Pred position before update: 29
+Predator Position: 29
+Predators new position: 33
+Pred position after update: 33
+agents_comm_v.step_count: 3
+agent_pos: 35
+prey_pos: 24
+pred_pos: 33
+Agent position before update: 35
+temp_vals
+[[34, 2.928756548525633], [36, 2.0995159260332463], [37, 2.1830453452790453], [35, 2.302592289055028]]
+Some temp_vals +ve
+Agent position after update: 34
+Prey position before update: 24
+Prey possible_next: [23, 25, 26, 24]
+Prey position after update: 23
+Pred position before update: 33
+Predator Position: 33
+Predators new position: 34
+Pred position after update: 34
+Predator caught the agent! Agent V lost!
+2
+agents_comm_v.step_count: 1
+agent_pos: 14
+prey_pos: 26
+pred_pos: 37
+Agent position before update: 14
+temp_vals
+[[13, 10.317410577176826], [15, 10.313032393555666], [16, 10.310843301745088], [14, 10.315221485366244]]
+Some temp_vals +ve
+Agent position after update: 13
+Prey position before update: 26
+Prey possible_next: [25, 27, 24, 26]
+Prey position after update: 26
+Pred position before update: 37
+Predator Position: 37
+Predators new position: 35
+Pred position after update: 35
+agents_comm_v.step_count: 2
+agent_pos: 13
+prey_pos: 26
+pred_pos: 35
+Agent position before update: 13
+temp_vals
+[[12, 10.337085633027524], [14, 10.334884087027863], [17, 10.328316811596125], [13, 10.337073178838441]]
+Some temp_vals +ve
+Agent position after update: 12
+Prey position before update: 26
+Prey possible_next: [25, 27, 24, 26]
+Prey position after update: 27
+Pred position before update: 35
+Predator Position: 35
+Predators new position: 34
+Pred position after update: 34
+agents_comm_v.step_count: 3
+agent_pos: 12
+prey_pos: 27
+pred_pos: 34
+Agent position before update: 12
+temp_vals
+[[11, 10.347240450204927], [13, 10.351312095920541], [7, 9.721826583343448], [12, 10.349276273062733]]
+Some temp_vals +ve
+Agent position after update: 13
+Prey position before update: 27
+Prey possible_next: [26, 28, 30, 27]
+Prey position after update: 28
+Pred position before update: 34
+Predator Position: 34
+Predators new position: 31
+Pred position after update: 31
+agents_comm_v.step_count: 4
+agent_pos: 13
+prey_pos: 28
+pred_pos: 31
+Agent position before update: 13
+temp_vals
+[[12, 10.46308488359379], [14, 10.37897438282788], [17, 10.376517440697741], [13, 10.378342843298768]]
+Some temp_vals +ve
+Agent position after update: 12
+Prey position before update: 28
+Prey possible_next: [27, 29, 32, 28]
+Prey position after update: 32
+Pred position before update: 31
+Predator Position: 31
+Predators new position: 30
+Pred position after update: 30
+agents_comm_v.step_count: 5
+agent_pos: 12
+prey_pos: 32
+pred_pos: 30
+Agent position before update: 12
+temp_vals
+[[11, 11.944213186079734], [13, 11.827650337086213], [7, 6.288535830550384], [12, 11.986698980863153]]
+Some temp_vals +ve
+Agent position after update: 12
+Prey position before update: 32
+Prey possible_next: [31, 33, 28, 32]
+Prey position after update: 32
+Pred position before update: 30
+Predator Position: 30
+Predators new position: 27
+Pred position after update: 27
+agents_comm_v.step_count: 6
+agent_pos: 12
+prey_pos: 32
+pred_pos: 27
+Agent position before update: 12
+temp_vals
+[[11, 9.007189634631612], [13, 8.773450366268904], [7, 5.058057379611114], [12, 8.999449893116086]]
+Some temp_vals +ve
+Agent position after update: 11
+Prey position before update: 32
+Prey possible_next: [31, 33, 28, 32]
+Prey position after update: 33
+Pred position before update: 27
+Predator Position: 27
+Predators new position: 26
+Pred position after update: 26
+agents_comm_v.step_count: 7
+agent_pos: 11
+prey_pos: 33
+pred_pos: 26
+Agent position before update: 11
+temp_vals
+[[10, 4.257143297215664], [12, 5.7400486648366575], [8, 3.855182598548431], [11, 5.413561529117264]]
+Some temp_vals +ve
+Agent position after update: 12
+Prey position before update: 33
+Prey possible_next: [32, 34, 29, 33]
+Prey position after update: 32
+Pred position before update: 26
+Predator Position: 26
+Predators new position: 24
+Pred position after update: 24
+agents_comm_v.step_count: 8
+agent_pos: 12
+prey_pos: 32
+pred_pos: 24
+Agent position before update: 12
+temp_vals
+[[11, 3.644972293598778], [13, 3.481314841996463], [7, 3.0935920407334363], [12, 3.5976640468197307]]
+Some temp_vals +ve
+Agent position after update: 11
+Prey position before update: 32
+Prey possible_next: [31, 33, 28, 32]
+Prey position after update: 31
+Pred position before update: 24
+Predator Position: 24
+Predators new position: 23
+Pred position after update: 23
+agents_comm_v.step_count: 9
+agent_pos: 11
+prey_pos: 31
+pred_pos: 23
+Agent position before update: 11
+temp_vals
+[[10, 3.237547821470032], [12, 3.4605257277322625], [8, 3.011664368907533], [11, 3.5806708841529766]]
+Some temp_vals +ve
+Agent position after update: 11
+Prey position before update: 31
+Prey possible_next: [30, 32, 34, 31]
+Prey position after update: 34
+Pred position before update: 23
+Predator Position: 23
+Predators new position: 22
+Pred position after update: 22
+agents_comm_v.step_count: 10
+agent_pos: 11
+prey_pos: 34
+pred_pos: 22
+Agent position before update: 11
+temp_vals
+[[10, 2.015789072499203], [12, 1.9574122806962642], [8, 2.158321188694378], [11, 1.954907342558772]]
+Some temp_vals +ve
+Agent position after update: 8
+Prey position before update: 34
+Prey possible_next: [33, 35, 31, 34]
+Prey position after update: 34
+Pred position before update: 22
+Predator Position: 22
+Predators new position: 23
+Pred position after update: 23
+agents_comm_v.step_count: 11
+agent_pos: 8
+prey_pos: 34
+pred_pos: 23
+Agent position before update: 8
+temp_vals
+[[7, 2.1758030261460597], [9, 2.061463329128729], [11, 1.9621520030963695], [8, 2.1332781831866967]]
+Some temp_vals +ve
+Agent position after update: 7
+Prey position before update: 34
+Prey possible_next: [33, 35, 31, 34]
+Prey position after update: 31
+Pred position before update: 23
+Predator Position: 23
+Predators new position: 19
+Pred position after update: 19
+agents_comm_v.step_count: 12
+agent_pos: 7
+prey_pos: 31
+pred_pos: 19
+Agent position before update: 7
+temp_vals
+[[6, 2.1869318549350036], [8, 2.074180764469022], [12, 1.9570504065284382], [7, 2.1459956185269897]]
+Some temp_vals +ve
+Agent position after update: 6
+Prey position before update: 31
+Prey possible_next: [30, 32, 34, 31]
+Prey position after update: 32
+Pred position before update: 19
+Predator Position: 19
+Predators new position: 23
+Pred position after update: 23
+agents_comm_v.step_count: 13
+agent_pos: 6
+prey_pos: 32
+pred_pos: 23
+Agent position before update: 6
+temp_vals
+[[5, 2.518034814379266], [7, 2.397784192994765], [10, 2.4617990115069888], [6, 2.5297902778662187]]
+Some temp_vals +ve
+Agent position after update: 6
+Prey position before update: 32
+Prey possible_next: [31, 33, 28, 32]
+Prey position after update: 31
+Pred position before update: 23
+Predator Position: 23
+Predators new position: 19
+Pred position after update: 19
+agents_comm_v.step_count: 14
+agent_pos: 6
+prey_pos: 31
+pred_pos: 19
+Agent position before update: 6
+temp_vals
+[[5, 2.221463774291979], [7, 2.1459956185269897], [10, 1.953853999155502], [6, 2.1869318549350036]]
+Some temp_vals +ve
+Agent position after update: 5
+Prey position before update: 31
+Prey possible_next: [30, 32, 34, 31]
+Prey position after update: 31
+Pred position before update: 19
+Predator Position: 19
+Predators new position: 18
+Pred position after update: 18
+agents_comm_v.step_count: 15
+agent_pos: 5
+prey_pos: 31
+pred_pos: 18
+Agent position before update: 5
+temp_vals
+[[4, 2.269840902913643], [6, 2.203981936840297], [0, 2.2864228353183975], [5, 2.2385138561972733]]
+Some temp_vals +ve
+Agent position after update: 0
+Prey position before update: 31
+Prey possible_next: [30, 32, 34, 31]
+Prey position after update: 30
+Pred position before update: 18
+Predator Position: 18
+Predators new position: 17
+Pred position after update: 17
+agents_comm_v.step_count: 16
+agent_pos: 0
+prey_pos: 30
+pred_pos: 17
+Agent position before update: 0
+temp_vals
+[[49, 3.672616678210796], [1, 2.3172834232700725], [5, 2.225029465372831], [0, 2.2845482652600935]]
+Some temp_vals +ve
+Agent position after update: 49
+Prey position before update: 30
+Prey possible_next: [29, 31, 27, 30]
+Prey position after update: 31
+Pred position before update: 17
+Predator Position: 17
+Predators new position: 13
+Pred position after update: 13
+agents_comm_v.step_count: 17
+agent_pos: 49
+prey_pos: 31
+pred_pos: 13
+Agent position before update: 49
+temp_vals
+[[48, 4.358082869062261], [0, 2.4965109184634695], [1, 2.4914318082046703], [49, 4.177519464280386]]
+Some temp_vals +ve
+Agent position after update: 48
+Prey position before update: 31
+Prey possible_next: [30, 32, 34, 31]
+Prey position after update: 30
+Pred position before update: 13
+Predator Position: 13
+Predators new position: 12
+Pred position after update: 12
+agents_comm_v.step_count: 18
+agent_pos: 48
+prey_pos: 30
+pred_pos: 12
+Agent position before update: 48
+temp_vals
+[[47, 4.4099527922074016], [49, 4.048825982643644], [3, 2.3983749738575253], [48, 4.229389387425516]]
+Some temp_vals +ve
+Agent position after update: 47
+Prey position before update: 30
+Prey possible_next: [29, 31, 27, 30]
+Prey position after update: 29
+Pred position before update: 12
+Predator Position: 12
+Predators new position: 11
+Pred position after update: 11
+agents_comm_v.step_count: 19
+agent_pos: 47
+prey_pos: 29
+pred_pos: 11
+Agent position before update: 47
+temp_vals
+[[46, 4.461822715352537], [48, 4.100695905788776], [2, 2.415245605897642], [47, 4.281259310570656]]
+Some temp_vals +ve
+Agent position after update: 46
+Prey position before update: 29
+Prey possible_next: [28, 30, 33, 29]
+Prey position after update: 29
+Pred position before update: 11
+Predator Position: 11
+Predators new position: 10
+Pred position after update: 10
+agents_comm_v.step_count: 20
+agent_pos: 46
+prey_pos: 29
+pred_pos: 10
+Agent position before update: 46
+temp_vals
+[[45, 4.717627981020982], [47, 4.356501171457227], [46, 4.537064576239107]]
+Some temp_vals +ve
+Agent position after update: 45
+Prey position before update: 29
+Prey possible_next: [28, 30, 33, 29]
+Prey position after update: 29
+Pred position before update: 10
+Predator Position: 10
+Predators new position: 9
+Pred position after update: 9
+agents_comm_v.step_count: 21
+agent_pos: 45
+prey_pos: 29
+pred_pos: 9
+Agent position before update: 45
+temp_vals
+[[44, 4.973433246689429], [46, 4.612306437125674], [45, 4.792869841907551]]
+Some temp_vals +ve
+Agent position after update: 44
+Prey position before update: 29
+Prey possible_next: [28, 30, 33, 29]
+Prey position after update: 30
+Pred position before update: 9
+Predator Position: 9
+Predators new position: 4
+Pred position after update: 4
+agents_comm_v.step_count: 22
+agent_pos: 44
+prey_pos: 30
+pred_pos: 4
+Agent position before update: 44
+temp_vals
+[[43, 5.734141298427466], [45, 5.373014488863711], [39, 6.456394917554971], [44, 5.553577893645592]]
+Some temp_vals +ve
+Agent position after update: 39
+Prey position before update: 30
+Prey possible_next: [29, 31, 27, 30]
+Prey position after update: 30
+Pred position before update: 4
+Predator Position: 4
+Predators new position: 3
+Pred position after update: 3
+agents_comm_v.step_count: 23
+agent_pos: 39
+prey_pos: 30
+pred_pos: 3
+Agent position before update: 39
+temp_vals
+[[38, 6.735286824112032], [40, 6.351073373659666], [44, 5.6288197545321585], [39, 6.531636778441543]]
+Some temp_vals +ve
+Agent position after update: 38
+Prey position before update: 30
+Prey possible_next: [29, 31, 27, 30]
+Prey position after update: 29
+Pred position before update: 3
+Predator Position: 3
+Predators new position: 48
+Pred position after update: 48
+agents_comm_v.step_count: 24
+agent_pos: 38
+prey_pos: 29
+pred_pos: 48
+Agent position before update: 38
+temp_vals
+[[37, 4.733012098739178], [39, 4.30664687711117], [42, 3.6670990446691603], [38, 4.519829487925172]]
+Some temp_vals +ve
+Agent position after update: 37
+Prey position before update: 29
+Prey possible_next: [28, 30, 33, 29]
+Prey position after update: 33
+Pred position before update: 48
+Predator Position: 48
+Predators new position: 47
+Pred position after update: 47
+agents_comm_v.step_count: 25
+agent_pos: 37
+prey_pos: 33
+pred_pos: 47
+Agent position before update: 37
+temp_vals
+[[36, 5.329501844784731], [38, 4.86066784527209], [35, 5.652249863872506], [37, 5.0738504560860935]]
+Some temp_vals +ve
+Agent position after update: 35
+Prey position before update: 33
+Prey possible_next: [32, 34, 29, 33]
+Prey position after update: 32
+Pred position before update: 47
+Predator Position: 47
+Predators new position: 46
+Pred position after update: 46
+agents_comm_v.step_count: 26
+agent_pos: 35
+prey_pos: 32
+pred_pos: 46
+Agent position before update: 35
+temp_vals
+[[34, 5.735041056908194], [36, 5.129492462687952], [37, 4.916309851873949], [35, 5.412293037820422]]
+Some temp_vals +ve
+Agent position after update: 34
+Prey position before update: 32
+Prey possible_next: [31, 33, 28, 32]
+Prey position after update: 33
+Pred position before update: 46
+Predator Position: 46
+Predators new position: 45
+Pred position after update: 45
+agents_comm_v.step_count: 27
+agent_pos: 34
+prey_pos: 33
+pred_pos: 45
+Agent position before update: 34
+temp_vals
+[[33, 6.139308799065994], [35, 5.469676375272203], [31, 6.862350647743036], [34, 5.792424394359975]]
+Some temp_vals +ve
+Agent position after update: 31
+Prey position before update: 33
+Prey possible_next: [32, 34, 29, 33]
+Prey position after update: 34
+Pred position before update: 45
+Predator Position: 45
+Predators new position: 44
+Pred position after update: 44
+agents_comm_v.step_count: 28
+agent_pos: 31
+prey_pos: 34
+pred_pos: 44
+Agent position before update: 31
+temp_vals
+[[30, 7.237543639453293], [32, 6.542417495009389], [34, 5.8498077318117545], [31, 6.868979699484884]]
+Some temp_vals +ve
+Agent position after update: 30
+Prey position before update: 34
+Prey possible_next: [33, 35, 31, 34]
+Prey position after update: 34
+Pred position before update: 44
+Predator Position: 44
+Predators new position: 45
+Pred position after update: 45
+agents_comm_v.step_count: 29
+agent_pos: 30
+prey_pos: 34
+pred_pos: 45
+Agent position before update: 30
+temp_vals
+[[29, 8.3654621095285], [31, 6.986828440124416], [27, 9.198286247587301], [30, 7.358578445000869]]
+Some temp_vals +ve
+Agent position after update: 27
+Prey position before update: 34
+Prey possible_next: [33, 35, 31, 34]
+Prey position after update: 35
+Pred position before update: 45
+Predator Position: 45
+Predators new position: 44
+Pred position after update: 44
+agents_comm_v.step_count: 30
+agent_pos: 27
+prey_pos: 35
+pred_pos: 44
+Agent position before update: 27
+temp_vals
+[[26, 9.639343312464284], [28, 8.976639340168518], [30, 7.4446192097228], [27, 9.307991326316401]]
+Some temp_vals +ve
+Agent position after update: 26
+Prey position before update: 35
+Prey possible_next: [34, 36, 37, 35]
+Prey position after update: 34
+Pred position before update: 44
+Predator Position: 44
+Predators new position: 39
+Pred position after update: 39
+agents_comm_v.step_count: 31
+agent_pos: 26
+prey_pos: 34
+pred_pos: 39
+Agent position before update: 26
+temp_vals
+[[25, 9.459311862418376], [27, 8.001684681257588], [24, 9.790663848566263], [26, 9.026694214000681]]
+Some temp_vals +ve
+Agent position after update: 24
+Prey position before update: 34
+Prey possible_next: [33, 35, 31, 34]
+Prey position after update: 35
+Pred position before update: 39
+Predator Position: 39
+Predators new position: 38
+Pred position after update: 38
+agents_comm_v.step_count: 32
+agent_pos: 24
+prey_pos: 35
+pred_pos: 38
+Agent position before update: 24
+temp_vals
+[[23, 10.249678148235885], [25, 9.569016941147474], [26, 8.977673522011138], [24, 9.903217209288956]]
+Some temp_vals +ve
+Agent position after update: 23
+Prey position before update: 35
+Prey possible_next: [34, 36, 37, 35]
+Prey position after update: 36
+Pred position before update: 38
+Predator Position: 38
+Predators new position: 37
+Pred position after update: 37
+agents_comm_v.step_count: 33
+agent_pos: 23
+prey_pos: 36
+pred_pos: 37
+Agent position before update: 23
+temp_vals
+[[22, 10.541342874780717], [24, 10.018225104690213], [19, 10.963185950041014], [23, 10.364686043637139]]
+Some temp_vals +ve
+Agent position after update: 19
+Prey position before update: 36
+Prey possible_next: [35, 37, 41, 36]
+Prey position after update: 36
+Pred position before update: 37
+Predator Position: 37
+Predators new position: 36
+Pred position after update: 36
+agents_comm_v.step_count: 34
+agent_pos: 19
+prey_pos: 36
+pred_pos: 36
+Agent position before update: 19
+temp_vals
+[[18, 11.341481700765128], [20, 11.129000315712881], [23, 10.726065252601506], [19, 11.229991201867612]]
+Some temp_vals +ve
+Agent position after update: 18
+Prey position before update: 36
+Prey possible_next: [35, 37, 41, 36]
+Prey position after update: 37
+Pred position before update: 36
+Predator Position: 36
+Predators new position: 41
+Pred position after update: 41
+agents_comm_v.step_count: 35
+agent_pos: 18
+prey_pos: 37
+pred_pos: 41
+Agent position before update: 18
+temp_vals
+[[17, 10.34003651731223], [19, 10.344108163027839], [15, 10.43349535853416], [18, 10.342072340170033]]
+Some temp_vals +ve
+Agent position after update: 15
+Prey position before update: 37
+Prey possible_next: [36, 38, 35, 37]
+Prey position after update: 38
+Pred position before update: 41
+Predator Position: 41
+Predators new position: 36
+Pred position after update: 36
+agents_comm_v.step_count: 36
+agent_pos: 15
+prey_pos: 38
+pred_pos: 36
+Agent position before update: 15
+temp_vals
+[[14, 12.357764546981919], [16, 12.154563479537211], [18, 11.833989389365316], [15, 12.266324498884243]]
+Some temp_vals +ve
+Agent position after update: 14
+Prey position before update: 38
+Prey possible_next: [37, 39, 42, 38]
+Prey position after update: 38
+Pred position before update: 36
+Predator Position: 36
+Predators new position: 35
+Pred position after update: 35
+agents_comm_v.step_count: 37
+agent_pos: 14
+prey_pos: 38
+pred_pos: 35
+Agent position before update: 14
+temp_vals
+[[13, 11.749544992472284], [15, 11.620370598841722], [16, 11.437158119143866], [14, 11.78065764392767]]
+Some temp_vals +ve
+Agent position after update: 14
+Prey position before update: 38
+Prey possible_next: [37, 39, 42, 38]
+Prey position after update: 37
+Pred position before update: 35
+Predator Position: 35
+Predators new position: 34
+Pred position after update: 34
+agents_comm_v.step_count: 38
+agent_pos: 14
+prey_pos: 37
+pred_pos: 34
+Agent position before update: 14
+temp_vals
+[[13, 11.806109242510637], [15, 11.466534935532362], [16, 11.24856041874359], [14, 11.645822197424694]]
+Some temp_vals +ve
+Agent position after update: 13
+Prey position before update: 37
+Prey possible_next: [36, 38, 35, 37]
+Prey position after update: 38
+Pred position before update: 34
+Predator Position: 34
+Predators new position: 31
+Pred position after update: 31
+agents_comm_v.step_count: 39
+agent_pos: 13
+prey_pos: 38
+pred_pos: 31
+Agent position before update: 13
+temp_vals
+[[12, 5.647838881247409], [14, 7.260123428522417], [17, 5.986071461964817], [13, 7.295026004995011]]
+Some temp_vals +ve
+Agent position after update: 13
+Prey position before update: 38
+Prey possible_next: [37, 39, 42, 38]
+Prey position after update: 39
+Pred position before update: 31
+Predator Position: 31
+Predators new position: 30
+Pred position after update: 30
+agents_comm_v.step_count: 40
+agent_pos: 13
+prey_pos: 39
+pred_pos: 30
+Agent position before update: 13
+temp_vals
+[[12, 3.0399666497838314], [14, 3.6548365138362744], [17, 3.0222891028090317], [13, 3.4218310808304455]]
+Some temp_vals +ve
+Agent position after update: 14
+Prey position before update: 39
+Prey possible_next: [38, 40, 44, 39]
+Prey position after update: 39
+Pred position before update: 30
+Predator Position: 30
+Predators new position: 27
+Pred position after update: 27
+agents_comm_v.step_count: 41
+agent_pos: 14
+prey_pos: 39
+pred_pos: 27
+Agent position before update: 14
+temp_vals
+[[13, 2.0496355942056383], [15, 1.9594544747987568], [16, 1.9586111112404465], [14, 2.0016343764120497]]
+Some temp_vals +ve
+Agent position after update: 13
+Prey position before update: 39
+Prey possible_next: [38, 40, 44, 39]
+Prey position after update: 44
+Pred position before update: 27
+Predator Position: 27
+Predators new position: 30
+Pred position after update: 30
+agents_comm_v.step_count: 42
+agent_pos: 13
+prey_pos: 44
+pred_pos: 30
+Agent position before update: 13
+temp_vals
+[[12, 2.5366156677292024], [14, 2.4104394888004106], [17, 2.1687940363813314], [13, 2.5005847806755894]]
+Some temp_vals +ve
+Agent position after update: 12
+Prey position before update: 44
+Prey possible_next: [43, 45, 39, 44]
+Prey position after update: 39
+Pred position before update: 30
+Predator Position: 30
+Predators new position: 27
+Pred position after update: 27
+agents_comm_v.step_count: 43
+agent_pos: 12
+prey_pos: 39
+pred_pos: 27
+Agent position before update: 12
+temp_vals
+[[11, 2.212814504476882], [13, 2.0496355942056383], [7, 2.260275062173565], [12, 2.122669212601704]]
+Some temp_vals +ve
+Agent position after update: 7
+Prey position before update: 39
+Prey possible_next: [38, 40, 44, 39]
+Prey position after update: 44
+Pred position before update: 27
+Predator Position: 27
+Predators new position: 30
+Pred position after update: 30
+agents_comm_v.step_count: 44
+agent_pos: 7
+prey_pos: 44
+pred_pos: 30
+Agent position before update: 7
+temp_vals
+[[6, 2.588012488369732], [8, 2.4818442163900114], [12, 2.5366156677292024], [7, 2.487083284951288]]
+Some temp_vals +ve
+Agent position after update: 6
+Prey position before update: 44
+Prey possible_next: [43, 45, 39, 44]
+Prey position after update: 45
+Pred position before update: 30
+Predator Position: 30
+Predators new position: 27
+Pred position after update: 27
+agents_comm_v.step_count: 45
+agent_pos: 6
+prey_pos: 45
+pred_pos: 27
+Agent position before update: 6
+temp_vals
+[[5, 2.6086124168845424], [7, 2.50723701906532], [10, 2.5483156075697115], [6, 2.507683213466096]]
+Some temp_vals +ve
+Agent position after update: 5
+Prey position before update: 45
+Prey possible_next: [44, 46, 45]
+Prey position after update: 46
+Pred position before update: 27
+Predator Position: 27
+Predators new position: 26
+Pred position after update: 26
+agents_comm_v.step_count: 46
+agent_pos: 5
+prey_pos: 46
+pred_pos: 26
+Agent position before update: 5
+temp_vals
+[[4, 2.704411873855544], [6, 2.534197504458478], [0, 2.7893835236097635], [5, 2.6034826704371]]
+Some temp_vals +ve
+Agent position after update: 0
+Prey position before update: 46
+Prey possible_next: [45, 47, 46]
+Prey position after update: 45
+Pred position before update: 26
+Predator Position: 26
+Predators new position: 24
+Pred position after update: 24
+agents_comm_v.step_count: 47
+agent_pos: 0
+prey_pos: 45
+pred_pos: 24
+Agent position before update: 0
+temp_vals
+[[49, 6.2111565216138205], [1, 2.865209116441572], [5, 2.5621342076135085], [0, 2.773145158569147]]
+Some temp_vals +ve
+Agent position after update: 49
+Prey position before update: 45
+Prey possible_next: [44, 46, 45]
+Prey position after update: 46
+Pred position before update: 24
+Predator Position: 24
+Predators new position: 26
+Pred position after update: 26
+agents_comm_v.step_count: 48
+agent_pos: 49
+prey_pos: 46
+pred_pos: 26
+Agent position before update: 49
+temp_vals
+[[48, 6.640678360301441], [0, 2.7893835236097635], [1, 2.881447481482188], [49, 6.277912022068632]]
+Some temp_vals +ve
+Agent position after update: 48
+Prey position before update: 46
+Prey possible_next: [45, 47, 46]
+Prey position after update: 46
+Pred position before update: 26
+Predator Position: 26
+Predators new position: 24
+Pred position after update: 24
+agents_comm_v.step_count: 49
+agent_pos: 48
+prey_pos: 46
+pred_pos: 24
+Agent position before update: 48
+temp_vals
+[[47, 7.232214297340243], [49, 6.50668162087462], [3, 2.7301415488177945], [48, 6.869447959107433]]
+Some temp_vals +ve
+Agent position after update: 47
+Prey position before update: 46
+Prey possible_next: [45, 47, 46]
+Prey position after update: 47
+Agent V partial caught the Prey! Agent V won!
+1
+agents_comm_v.step_count: 1
+agent_pos: 19
+prey_pos: 44
+pred_pos: 34
+Agent position before update: 19
+temp_vals
+[[18, 2.7284350294872053], [20, 2.412927833464819], [23, 2.089728525586191], [19, 2.568975887531445]]
+Some temp_vals +ve
+Agent position after update: 18
+Prey position before update: 44
+Prey possible_next: [43, 45, 39, 44]
+Prey position after update: 39
+Pred position before update: 34
+Predator Position: 34
+Predators new position: 33
+Pred position after update: 33
+agents_comm_v.step_count: 2
+agent_pos: 18
+prey_pos: 39
+pred_pos: 33
+Agent position before update: 18
+temp_vals
+[[17, 8.311350298930245], [19, 7.758785545315484], [15, 8.804745707668024], [18, 8.055392490202783]]
+Some temp_vals +ve
+Agent position after update: 15
+Prey position before update: 39
+Prey possible_next: [38, 40, 44, 39]
+Prey position after update: 40
+Pred position before update: 33
+Predator Position: 33
+Predators new position: 29
+Pred position after update: 29
+agents_comm_v.step_count: 3
+agent_pos: 15
+prey_pos: 40
+pred_pos: 29
+Agent position before update: 15
+temp_vals
+[[14, 2.120400486624758], [16, 1.9669013094031262], [18, 1.9652145822865057], [15, 2.0151366687220227]]
+Some temp_vals +ve
+Agent position after update: 14
+Prey position before update: 40
+Prey possible_next: [39, 41, 43, 40]
+Prey position after update: 40
+Pred position before update: 29
+Predator Position: 29
+Predators new position: 28
+Pred position after update: 28
+agents_comm_v.step_count: 4
+agent_pos: 14
+prey_pos: 40
+pred_pos: 28
+Agent position before update: 14
+temp_vals
+[[13, 2.1163222896086027], [15, 2.005620008010536], [16, 1.959605720412621], [14, 2.0748250708780405]]
+Some temp_vals +ve
+Agent position after update: 13
+Prey position before update: 40
+Prey possible_next: [39, 41, 43, 40]
+Prey position after update: 41
+Pred position before update: 28
+Predator Position: 28
+Predators new position: 27
+Pred position after update: 27
+agents_comm_v.step_count: 5
+agent_pos: 13
+prey_pos: 41
+pred_pos: 27
+Agent position before update: 13
+temp_vals
+[[12, 2.3393349659045395], [14, 2.159044382154184], [17, 2.259787275803233], [13, 2.2491896740293607]]
+Some temp_vals +ve
+Agent position after update: 12
+Prey position before update: 41
+Prey possible_next: [40, 42, 36, 41]
+Prey position after update: 40
+Pred position before update: 27
+Predator Position: 27
+Predators new position: 30
+Pred position after update: 30
+agents_comm_v.step_count: 6
+agent_pos: 12
+prey_pos: 40
+pred_pos: 30
+Agent position before update: 12
+temp_vals
+[[11, 2.468937837030209], [13, 2.4486740547922836], [7, 2.7222606017514313], [12, 2.4407474942770246]]
+Some temp_vals +ve
+Agent position after update: 7
+Prey position before update: 40
+Prey possible_next: [39, 41, 43, 40]
+Prey position after update: 41
+Pred position before update: 30
+Predator Position: 30
+Predators new position: 27
+Pred position after update: 27
+agents_comm_v.step_count: 7
+agent_pos: 7
+prey_pos: 41
+pred_pos: 27
+Agent position before update: 7
+temp_vals
+[[6, 2.377803142343474], [8, 2.3551811235525997], [12, 2.3393349659045395], [7, 2.3414882607178016]]
+Some temp_vals +ve
+Agent position after update: 6
+Prey position before update: 41
+Prey possible_next: [40, 42, 36, 41]
+Prey position after update: 40
+Pred position before update: 27
+Predator Position: 27
+Predators new position: 26
+Pred position after update: 26
+agents_comm_v.step_count: 8
+agent_pos: 6
+prey_pos: 40
+pred_pos: 26
+Agent position before update: 6
+temp_vals
+[[5, 2.4086625637531642], [7, 2.307859616808595], [10, 2.3403458182763908], [6, 2.3405018021272666]]
+Some temp_vals +ve
+Agent position after update: 5
+Prey position before update: 40
+Prey possible_next: [39, 41, 43, 40]
+Prey position after update: 39
+Pred position before update: 26
+Predator Position: 26
+Predators new position: 24
+Pred position after update: 24
+agents_comm_v.step_count: 9
+agent_pos: 5
+prey_pos: 39
+pred_pos: 24
+Agent position before update: 5
+temp_vals
+[[4, 2.4019222209347584], [6, 2.3459572272464224], [0, 2.3965252179668783], [5, 2.374339012147054]]
+Some temp_vals +ve
+Agent position after update: 4
+Prey position before update: 39
+Prey possible_next: [38, 40, 44, 39]
+Prey position after update: 39
+Pred position before update: 24
+Predator Position: 24
+Predators new position: 23
+Pred position after update: 23
+agents_comm_v.step_count: 10
+agent_pos: 4
+prey_pos: 39
+pred_pos: 23
+Agent position before update: 4
+temp_vals
+[[3, 2.4652516601251073], [5, 2.3945287810114704], [9, 2.285413186234365], [4, 2.4192856525468356]]
+Some temp_vals +ve
+Agent position after update: 3
+Prey position before update: 39
+Prey possible_next: [38, 40, 44, 39]
+Prey position after update: 40
+Pred position before update: 23
+Predator Position: 23
+Predators new position: 19
+Pred position after update: 19
+agents_comm_v.step_count: 11
+agent_pos: 3
+prey_pos: 40
+pred_pos: 19
+Agent position before update: 3
+temp_vals
+[[2, 2.5940710473924553], [4, 2.652671042971967], [48, 5.742049786452652], [3, 2.588991937133656]]
+Some temp_vals +ve
+Agent position after update: 48
+Prey position before update: 40
+Prey possible_next: [39, 41, 43, 40]
+Prey position after update: 41
+Pred position before update: 19
+Predator Position: 19
+Predators new position: 18
+Pred position after update: 18
+agents_comm_v.step_count: 12
+agent_pos: 48
+prey_pos: 41
+pred_pos: 18
+Agent position before update: 48
+temp_vals
+[[47, 6.201790394644411], [49, 5.840663585080658], [3, 2.910488482127421], [48, 6.021226989862533]]
+Some temp_vals +ve
+Agent position after update: 47
+Prey position before update: 41
+Prey possible_next: [40, 42, 36, 41]
+Prey position after update: 36
+Pred position before update: 18
+Predator Position: 18
+Predators new position: 15
+Pred position after update: 15
+agents_comm_v.step_count: 13
+agent_pos: 47
+prey_pos: 36
+pred_pos: 15
+Agent position before update: 47
+temp_vals
+[[46, 5.588402669469436], [48, 5.2272758599056806], [2, 2.606533128768532], [47, 5.407839264687561]]
+Some temp_vals +ve
+Agent position after update: 46
+Prey position before update: 36
+Prey possible_next: [35, 37, 41, 36]
+Prey position after update: 36
+Pred position before update: 15
+Predator Position: 15
+Predators new position: 14
+Pred position after update: 14
+agents_comm_v.step_count: 14
+agent_pos: 46
+prey_pos: 36
+pred_pos: 14
+Agent position before update: 46
+temp_vals
+[[45, 5.844207935137884], [47, 5.483081125574133], [46, 5.663644530356007]]
+Some temp_vals +ve
+Agent position after update: 45
+Prey position before update: 36
+Prey possible_next: [35, 37, 41, 36]
+Prey position after update: 37
+Pred position before update: 14
+Predator Position: 14
+Predators new position: 13
+Pred position after update: 13
+agents_comm_v.step_count: 15
+agent_pos: 45
+prey_pos: 37
+pred_pos: 13
+Agent position before update: 45
+temp_vals
+[[44, 6.303948543329644], [46, 5.942821733765891], [45, 6.123385138547764]]
+Some temp_vals +ve
+Agent position after update: 44
+Prey position before update: 37
+Prey possible_next: [36, 38, 35, 37]
+Prey position after update: 36
+Pred position before update: 13
+Predator Position: 13
+Predators new position: 12
+Pred position after update: 12
+agents_comm_v.step_count: 16
+agent_pos: 44
+prey_pos: 36
+pred_pos: 12
+Agent position before update: 44
+temp_vals
+[[43, 6.355818466474779], [45, 5.9946916569110265], [39, 7.384786190446343], [44, 6.1752550616929005]]
+Some temp_vals +ve
+Agent position after update: 39
+Prey position before update: 36
+Prey possible_next: [35, 37, 41, 36]
+Prey position after update: 36
+Pred position before update: 12
+Predator Position: 12
+Predators new position: 7
+Pred position after update: 7
+agents_comm_v.step_count: 17
+agent_pos: 39
+prey_pos: 36
+pred_pos: 7
+Agent position before update: 39
+temp_vals
+[[38, 7.663295323118641], [40, 7.593943849228503], [44, 6.551464366125751], [39, 7.754086761536954]]
+Some temp_vals +ve
+Agent position after update: 39
+Prey position before update: 36
+Prey possible_next: [35, 37, 41, 36]
+Prey position after update: 37
+Pred position before update: 7
+Predator Position: 7
+Predators new position: 6
+Pred position after update: 6
+agents_comm_v.step_count: 18
+agent_pos: 39
+prey_pos: 37
+pred_pos: 6
+Agent position before update: 39
+temp_vals
+[[38, 7.554595105309376], [40, 7.753269986317126], [44, 6.8327118089790595], [39, 7.695248828023807]]
+Some temp_vals +ve
+Agent position after update: 40
+Prey position before update: 37
+Prey possible_next: [36, 38, 35, 37]
+Prey position after update: 38
+Pred position before update: 6
+Predator Position: 6
+Predators new position: 5
+Pred position after update: 5
+agents_comm_v.step_count: 19
+agent_pos: 40
+prey_pos: 38
+pred_pos: 5
+Agent position before update: 40
+temp_vals
+[[39, 7.505523708010535], [41, 7.7524532110973], [43, 7.5588497144545235], [40, 7.729255188060187]]
+Some temp_vals +ve
+Agent position after update: 41
+Prey position before update: 38
+Prey possible_next: [37, 39, 42, 38]
+Prey position after update: 42
+Pred position before update: 5
+Predator Position: 5
+Predators new position: 4
+Pred position after update: 4
+agents_comm_v.step_count: 20
+agent_pos: 41
+prey_pos: 42
+pred_pos: 4
+Agent position before update: 41
+temp_vals
+[[40, 5.799901570890479], [42, 7.076838432483115], [36, 3.42806841887316], [41, 6.74180131436744]]
+Some temp_vals +ve
+Agent position after update: 42
+Agent V partial caught the Prey! Agent V won!
+1
+agents_comm_v.step_count: 1
+agent_pos: 25
+prey_pos: 28
+pred_pos: 21
+Agent position before update: 25
+temp_vals
+[[24, 7.04202732987398], [26, 7.288691204342896], [21, 5.860019502717065], [25, 7.256592951415943]]
+Some temp_vals +ve
+Agent position after update: 26
+Prey position before update: 28
+Prey possible_next: [27, 29, 32, 28]
+Prey position after update: 28
+Pred position before update: 21
+Predator Position: 21
+Predators new position: 25
+Pred position after update: 25
+agents_comm_v.step_count: 2
+agent_pos: 26
+prey_pos: 28
+pred_pos: 25
+Agent position before update: 26
+temp_vals
+[[25, 6.347725080089848], [27, 6.414566778176068], [24, 6.296291862524545], [26, 6.396107594505876]]
+Some temp_vals +ve
+Agent position after update: 27
+Prey position before update: 28
+Prey possible_next: [27, 29, 32, 28]
+Prey position after update: 27
+Agent V partial caught the Prey! Agent V won!
+1
+Game result: 2, step_count: 15
+Game result: 1, step_count: 7
+Game result: 1, step_count: 9
+Game result: 1, step_count: 4
+Game result: 1, step_count: 5
+Game result: 1, step_count: 7
+Game result: 2, step_count: 3
+Game result: 1, step_count: 9
+Game result: 1, step_count: 8
+Game result: 2, step_count: 10
+Game result: 1, step_count: 7
+Game result: 1, step_count: 24
+Game result: 2, step_count: 32
+Game result: 2, step_count: 1
+Game result: 1, step_count: 5
+Game result: 1, step_count: 2
+Game result: 1, step_count: 6
+Game result: 2, step_count: 5
+Game result: 1, step_count: 6
+Game result: 2, step_count: 18
+Game result: 1, step_count: 2
+Game result: 2, step_count: 7
+Game result: 2, step_count: 18
+Game result: 1, step_count: 6
+Game result: 1, step_count: 27
+Game result: 2, step_count: 63
+Game result: 2, step_count: 3
+Game result: 1, step_count: 49
+Game result: 1, step_count: 20
+Game result: 1, step_count: 2
+Average Step Count for all 30 games: 32.4666666666667
+agnt_v_survivability: [63.33333333333333]
+Agent v Total iterations: 30
+Agent v Count when Game Suspended: 0
+Agent v Count when Agent Lost: 11
+Agent v Count when Agent Won: 19
+Agent v Survivability: 63.33333333333333
+[Finished in 126.7s]

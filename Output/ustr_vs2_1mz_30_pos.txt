@@ -1,0 +1,5282 @@
+ustrvs2
+/Users/Desktop/py/520/Project3/CS520_project3_code.py:9: MatplotlibDeprecationWarning: The resize_event function was deprecated in Matplotlib 3.6 and will be removed two minor releases later. Use callbacks.process('resize_event', ResizeEvent(...)) instead.
+  figure(figsize=[8, 8], dpi = 100)
+check_sum: 81239.50702138874
+check_sum: 77591.3155576799
+check_sum: 60694.561386598456
+check_sum: 51448.035135189864
+check_sum: 42966.85027122465
+check_sum: 35407.100770755955
+check_sum: 28715.9985643555
+check_sum: 23079.78536735724
+check_sum: 18531.64999958062
+check_sum: 14878.69807453648
+check_sum: 11936.866841914363
+check_sum: 9538.532893878859
+check_sum: 7589.789088321065
+check_sum: 6001.694274257998
+check_sum: 4715.036034133734
+check_sum: 3675.627929772777
+check_sum: 2849.285097311572
+check_sum: 2196.263296468114
+check_sum: 1681.9548345273663
+check_sum: 1280.983791996206
+check_sum: 971.6388646258089
+check_sum: 733.7502690273684
+check_sum: 552.8375199838061
+check_sum: 416.0537012619667
+check_sum: 313.07437058790845
+check_sum: 235.75087656509257
+check_sum: 177.72734341502553
+check_sum: 134.07029443768818
+check_sum: 101.25070003165081
+check_sum: 76.55857735334014
+check_sum: 57.970874079353095
+check_sum: 43.940542150278105
+check_sum: 33.34691033215529
+check_sum: 25.3316853555636
+check_sum: 19.26198926061249
+check_sum: 14.65976699493462
+check_sum: 11.1668615743773
+check_sum: 8.512342068423363
+check_sum: 6.492912063445511
+check_sum: 4.9552455070723935
+check_sum: 3.78297374125491
+check_sum: 2.8886310439089953
+check_sum: 2.2061801884967887
+check_sum: 1.6853320896858681
+check_sum: 1.2876088556203427
+check_sum: 0.9839204047534669
+check_sum: 0.7520607688069499
+check_sum: 0.5749602439706655
+check_sum: 0.4396040206611659
+check_sum: 0.3361423074326091
+check_sum: 0.2570573177355022
+check_sum: 0.1965758843489671
+check_sum: 0.15031883635738785
+check_sum: 0.1149486340579613
+check_sum: 0.08789964376753734
+check_sum: 0.06721526213071105
+check_sum: 0.051398863305852194
+check_sum: 0.03930464596230021
+check_sum: 0.030057142548113647
+check_sum: 0.022985837573502144
+check_sum: 0.017578458594647683
+check_sum: 0.013443237048818224
+check_sum: 0.0102807960600666
+check_sum: 0.00786224745225772
+check_sum: 0.006012603818194795
+check_sum: 0.004598114072378756
+check_sum: 0.003516402832195231
+check_sum: 0.002689170537540364
+check_sum: 0.00205654042177017
+check_sum: 0.0015727352906811376
+check_sum: 0.0012027502012571523
+check_sum: 0.0009198078134299292
+check_sum: 0.0007034294360667159
+check_sum: 0.0005379546852635197
+check_sum: 0.0004114077297409091
+check_sum: 0.0003146303929763006
+check_sum: 0.00024061919023765643
+check_sum: 0.0001840183284373964
+check_sum: 0.00014073206138043304
+check_sum: 0.00010762819681486846
+check_sum: 8.231140873737885e-05
+graph_ustr_n_2.graph_dict: {0: [49, 1, 45], 1: [0, 2, 49], 2: [1, 3, 6], 3: [2, 4, 48], 4: [3, 5, 8], 5: [4, 6, 10], 6: [5, 7, 2], 7: [6, 8, 12], 8: [7, 9, 4], 9: [8, 10, 13], 10: [9, 11, 5], 11: [10, 12, 15], 12: [11, 13, 7], 13: [12, 14, 9], 14: [13, 15, 19], 15: [14, 16, 11], 16: [15, 17, 21], 17: [16, 18, 22], 18: [17, 19, 23], 19: [18, 20, 14], 20: [19, 21, 24], 21: [20, 22, 16], 22: [21, 23, 17], 23: [22, 24, 18], 24: [23, 25, 20], 25: [24, 26, 28], 26: [25, 27, 31], 27: [26, 28, 32], 28: [27, 29, 25], 29: [28, 30, 33], 30: [29, 31, 34], 31: [30, 32, 26], 32: [31, 33, 27], 33: [32, 34, 29], 34: [33, 35, 30], 35: [34, 36, 38], 36: [35, 37, 40], 37: [36, 38, 41], 38: [37, 39, 35], 39: [38, 40, 42], 40: [39, 41, 36], 41: [40, 42, 37], 42: [41, 43, 39], 43: [42, 44, 47], 44: [43, 45, 46], 45: [44, 46, 0], 46: [45, 47, 44], 47: [46, 48, 43], 48: [47, 49, 3], 49: [48, 0, 1]}
+agents_comm_ustr_n_2.step_count: 1
+agent_ustr_pos: 30
+agent_2_pos: 30
+prey_pos: 0
+pred_pos: 12
+Calculating distance to pred(12) from agent(30)
+Calculating distance to prey(1) from agent(30)
+Agent 2 position before update: 30
+Inside condition 1 check
+Agent 2 position after update: 34
+Agent ustr position before update: 30
+temp_vals
+[[29, 2.6391635832918916], [31, 2.639163584715217], [34, 2.976053632724337], [30, 2.8949849188044006]]
+Some temp_vals +ve
+Agent ustr position after update: 34
+Prey position before update: 0
+Prey possible_next: [49, 1, 45, 0]
+Prey position after update: 49
+Pred position before update: 12
+Predator Position: 12
+Predators new position: 13
+Pred position after update: 13
+agents_comm_ustr_n_2.step_count: 2
+agent_ustr_pos: 34
+agent_2_pos: 34
+prey_pos: 49
+pred_pos: 13
+Calculating distance to pred(13) from agent(34)
+Calculating distance to prey(0) from agent(34)
+Agent 2 position before update: 34
+Inside condition 1 check
+Agent 2 position after update: 35
+Agent ustr position before update: 34
+temp_vals
+[[33, 2.880647500267183], [35, 3.2777207320200947], [30, 2.880647500267183], [34, 3.2032141537945447]]
+Some temp_vals +ve
+Agent ustr position after update: 35
+Prey position before update: 49
+Prey possible_next: [48, 0, 1, 49]
+Prey position after update: 48
+Pred position before update: 13
+Predator Position: 13
+Predators new position: 12
+Pred position after update: 12
+agents_comm_ustr_n_2.step_count: 3
+agent_ustr_pos: 35
+agent_2_pos: 35
+prey_pos: 48
+pred_pos: 12
+Calculating distance to pred(12) from agent(35)
+Calculating distance to prey(49) from agent(35)
+Agent 2 position before update: 35
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Agent 2 position after update: 36
+Agent ustr position before update: 35
+temp_vals
+[[34, 2.943519251663147], [36, 2.979017916013551], [38, 3.124944637465013], [35, 3.212194536829648]]
+Some temp_vals +ve
+Agent ustr position after update: 35
+Prey position before update: 48
+Prey possible_next: [47, 49, 3, 48]
+Prey position after update: 48
+Pred position before update: 12
+Predator Position: 12
+Predators new position: 7
+Pred position after update: 7
+agents_comm_ustr_n_2.step_count: 4
+agent_ustr_pos: 35
+agent_2_pos: 36
+prey_pos: 48
+pred_pos: 7
+Calculating distance to pred(7) from agent(36)
+Calculating distance to prey(49) from agent(36)
+Agent 2 position before update: 36
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Agent 2 position after update: 35
+Agent ustr position before update: 35
+temp_vals
+[[34, 2.1728124882764535], [36, 2.4829224601113578], [38, 2.7912577140300865], [35, 2.51320672060733]]
+Some temp_vals +ve
+Agent ustr position after update: 38
+Prey position before update: 48
+Prey possible_next: [47, 49, 3, 48]
+Prey position after update: 49
+Pred position before update: 7
+Predator Position: 7
+Predators new position: 6
+Pred position after update: 6
+agents_comm_ustr_n_2.step_count: 5
+agent_ustr_pos: 38
+agent_2_pos: 35
+prey_pos: 49
+pred_pos: 6
+Calculating distance to pred(6) from agent(35)
+Calculating distance to prey(48) from agent(35)
+Agent 2 position before update: 35
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Agent 2 position after update: 36
+Agent ustr position before update: 38
+temp_vals
+[[37, 2.5704505887607767], [39, 2.863065141173892], [35, 2.17125442149347], [38, 2.5704505887607767]]
+Some temp_vals +ve
+Agent ustr position after update: 39
+Prey position before update: 49
+Prey possible_next: [48, 0, 1, 49]
+Prey position after update: 0
+Pred position before update: 6
+Predator Position: 6
+Predators new position: 2
+Pred position after update: 2
+agents_comm_ustr_n_2.step_count: 6
+agent_ustr_pos: 39
+agent_2_pos: 36
+prey_pos: 0
+pred_pos: 2
+Calculating distance to pred(2) from agent(36)
+Calculating distance to prey(0) from agent(36)
+Agent 2 position before update: 36
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Agent 2 position after update: 35
+Agent ustr position before update: 39
+temp_vals
+[[38, 2.3770554728142], [40, 2.377055473357395], [42, 3.2498096776447998], [39, 2.8935913584669373]]
+Some temp_vals +ve
+Agent ustr position after update: 42
+Prey position before update: 0
+Prey possible_next: [49, 1, 45, 0]
+Prey position after update: 45
+Pred position before update: 2
+Predator Position: 2
+Predators new position: 3
+Pred position after update: 3
+agents_comm_ustr_n_2.step_count: 7
+agent_ustr_pos: 42
+agent_2_pos: 35
+prey_pos: 45
+pred_pos: 3
+Calculating distance to pred(3) from agent(35)
+Calculating distance to prey(45) from agent(35)
+Agent 2 position before update: 35
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Agent 2 position after update: 36
+Agent ustr position before update: 42
+temp_vals
+[[41, 2.8274135534702927], [43, 4.187647227147549], [39, 2.8274135534702927], [42, 3.6102776291922454]]
+Some temp_vals +ve
+Agent ustr position after update: 43
+Prey position before update: 45
+Prey possible_next: [44, 46, 0, 45]
+Prey position after update: 46
+Pred position before update: 3
+Predator Position: 3
+Predators new position: 2
+Pred position after update: 2
+agents_comm_ustr_n_2.step_count: 8
+agent_ustr_pos: 43
+agent_2_pos: 36
+prey_pos: 46
+pred_pos: 2
+Calculating distance to pred(2) from agent(36)
+Calculating distance to prey(46) from agent(36)
+Agent 2 position before update: 36
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Agent 2 position after update: 35
+Agent ustr position before update: 43
+temp_vals
+[[42, 3.9467706642113156], [44, 5.0729364941325015], [47, 4.7985545802273775], [43, 4.818305944510402]]
+Some temp_vals +ve
+Agent ustr position after update: 44
+Prey position before update: 46
+Prey possible_next: [45, 47, 44, 46]
+Prey position after update: 47
+Pred position before update: 2
+Predator Position: 2
+Predators new position: 6
+Pred position after update: 6
+agents_comm_ustr_n_2.step_count: 9
+agent_ustr_pos: 44
+agent_2_pos: 35
+prey_pos: 47
+pred_pos: 6
+Calculating distance to pred(6) from agent(35)
+Calculating distance to prey(47) from agent(35)
+Agent 2 position before update: 35
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Agent 2 position after update: 36
+Agent ustr position before update: 44
+temp_vals
+[[43, 5.010848723404392], [45, 4.629486512021762], [46, 5.038584701865261], [44, 5.021956119235118]]
+Some temp_vals +ve
+Agent ustr position after update: 46
+Prey position before update: 47
+Prey possible_next: [46, 48, 43, 47]
+Prey position after update: 46
+agent_ustr_pos: 46
+agent_2_pos: 36
+prey_pos: 46
+pred_pos: 6
+Some caught the Prey! Some agent won!
+agents_comm_ustr_n_2.step_count: 1
+agent_ustr_pos: 15
+agent_2_pos: 15
+prey_pos: 42
+pred_pos: 4
+Calculating distance to pred(4) from agent(15)
+Calculating distance to prey(39) from agent(15)
+Agent 2 position before update: 15
+Calculating distance to pred(4) from neighbour(14) of current(15)
+Calculating distance to pred(4) from neighbour(16) of current(15)
+Calculating distance to pred(4) from neighbour(11) of current(15)
+Inside condition 1 check for even
+Inside condition 1_1 check for even
+Inside condition 1_2 check for even
+Inside condition 2 check
+Agent 2 position after update: 16
+Agent ustr position before update: 15
+temp_vals
+[[14, 2.33329614096082], [16, 2.283582416649571], [11, 2.2951647641460973], [15, 2.1722833846940954]]
+Some temp_vals +ve
+Agent ustr position after update: 14
+Prey position before update: 42
+Prey possible_next: [41, 43, 39, 42]
+Prey position after update: 39
+Pred position before update: 4
+Predator Position: 4
+Predators new position: 8
+Pred position after update: 8
+agents_comm_ustr_n_2.step_count: 2
+agent_ustr_pos: 14
+agent_2_pos: 16
+prey_pos: 39
+pred_pos: 8
+Calculating distance to pred(8) from agent(16)
+Calculating distance to prey(40) from agent(16)
+Agent 2 position before update: 16
+Inside condition 1 check
+Agent 2 position after update: 21
+Agent ustr position before update: 14
+temp_vals
+[[13, 2.2193209975590564], [15, 2.182424129682991], [19, 2.639558296458738], [14, 2.3345650224669683]]
+Some temp_vals +ve
+Agent ustr position after update: 19
+Prey position before update: 39
+Prey possible_next: [38, 40, 42, 39]
+Prey position after update: 38
+Pred position before update: 8
+Predator Position: 8
+Predators new position: 9
+Pred position after update: 9
+agents_comm_ustr_n_2.step_count: 3
+agent_ustr_pos: 19
+agent_2_pos: 21
+prey_pos: 38
+pred_pos: 9
+Calculating distance to pred(9) from agent(21)
+Calculating distance to prey(39) from agent(21)
+Agent 2 position before update: 21
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Agent 2 position after update: 22
+Agent ustr position before update: 19
+temp_vals
+[[18, 2.7134858779414404], [20, 3.0905213426580684], [14, 2.3743812755041906], [19, 2.7134858779414404]]
+Some temp_vals +ve
+Agent ustr position after update: 20
+Prey position before update: 38
+Prey possible_next: [37, 39, 35, 38]
+Prey position after update: 35
+Pred position before update: 9
+Predator Position: 9
+Predators new position: 13
+Pred position after update: 13
+agents_comm_ustr_n_2.step_count: 4
+agent_ustr_pos: 20
+agent_2_pos: 22
+prey_pos: 35
+pred_pos: 13
+Calculating distance to pred(13) from agent(22)
+Calculating distance to prey(38) from agent(22)
+Agent 2 position before update: 22
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Inside condition 5 check
+Inside condition 6 check
+Inside condition 7
+Agent 2 position after update: 22
+Agent ustr position before update: 20
+temp_vals
+[[19, 2.7723731275014862], [21, 2.9486771807154106], [24, 3.6499365752610022], [20, 3.1806681790725126]]
+Some temp_vals +ve
+Agent ustr position after update: 24
+Prey position before update: 35
+Prey possible_next: [34, 36, 38, 35]
+Prey position after update: 34
+Pred position before update: 13
+Predator Position: 13
+Predators new position: 14
+Pred position after update: 14
+agents_comm_ustr_n_2.step_count: 5
+agent_ustr_pos: 24
+agent_2_pos: 22
+prey_pos: 34
+pred_pos: 14
+Calculating distance to pred(14) from agent(22)
+Calculating distance to prey(35) from agent(22)
+Agent 2 position before update: 22
+Calculating distance to pred(14) from neighbour(21) of current(22)
+Calculating distance to pred(14) from neighbour(23) of current(22)
+Calculating distance to pred(14) from neighbour(17) of current(22)
+Inside condition 1 check for even
+Inside condition 1_1 check for even
+Inside condition 1_2 check for even
+Inside condition 2 check
+Inside condition 2_1 check
+Inside condition 2_2 check
+Agent 2 position after update: 22
+Agent ustr position before update: 24
+temp_vals
+[[23, 3.509892689142672], [25, 4.511581724253198], [20, 3.387461069042766], [24, 3.8997936691341133]]
+Some temp_vals +ve
+Agent ustr position after update: 25
+Prey position before update: 34
+Prey possible_next: [33, 35, 30, 34]
+Prey position after update: 35
+Pred position before update: 14
+Predator Position: 14
+Predators new position: 13
+Pred position after update: 13
+agents_comm_ustr_n_2.step_count: 6
+agent_ustr_pos: 25
+agent_2_pos: 22
+prey_pos: 35
+pred_pos: 13
+Calculating distance to pred(13) from agent(22)
+Calculating distance to prey(36) from agent(22)
+Agent 2 position before update: 22
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Inside condition 5 check
+Inside condition 6 check
+Inside condition 7
+Agent 2 position after update: 22
+Agent ustr position before update: 25
+temp_vals
+[[24, 3.6499365752610022], [26, 4.701911712596801], [28, 4.792534368893327], [25, 4.14999997567444]]
+Some temp_vals +ve
+Agent ustr position after update: 28
+Prey position before update: 35
+Prey possible_next: [34, 36, 38, 35]
+Prey position after update: 34
+Pred position before update: 13
+Predator Position: 13
+Predators new position: 14
+Pred position after update: 14
+agents_comm_ustr_n_2.step_count: 7
+agent_ustr_pos: 28
+agent_2_pos: 22
+prey_pos: 34
+pred_pos: 14
+Calculating distance to pred(14) from agent(22)
+Calculating distance to prey(34) from agent(22)
+Agent 2 position before update: 22
+Calculating distance to pred(14) from neighbour(21) of current(22)
+Calculating distance to pred(14) from neighbour(23) of current(22)
+Calculating distance to pred(14) from neighbour(17) of current(22)
+Inside condition 1 check for even
+Inside condition 1_1 check for even
+Inside condition 1_2 check for even
+Inside condition 2 check
+Inside condition 2_1 check
+Inside condition 2_2 check
+Agent 2 position after update: 22
+Agent ustr position before update: 28
+temp_vals
+[[27, 4.88952665922903], [29, 6.129106430192733], [25, 4.511581724253198], [28, 5.070846319700892]]
+Some temp_vals +ve
+Agent ustr position after update: 29
+Prey position before update: 34
+Prey possible_next: [33, 35, 30, 34]
+Prey position after update: 30
+Pred position before update: 14
+Predator Position: 14
+Predators new position: 19
+Pred position after update: 19
+agents_comm_ustr_n_2.step_count: 8
+agent_ustr_pos: 29
+agent_2_pos: 22
+prey_pos: 30
+pred_pos: 19
+Calculating distance to pred(19) from agent(22)
+Calculating distance to prey(34) from agent(22)
+Agent 2 position before update: 22
+Calculating distance to pred(19) from neighbour(21) of current(22)
+Calculating distance to pred(19) from neighbour(23) of current(22)
+Calculating distance to pred(19) from neighbour(17) of current(22)
+Inside condition 1 check for even
+Inside condition 1_1 check for even
+Inside condition 1_2 check for even
+Inside condition 2 check
+Inside condition 2_1 check
+Inside condition 2_2 check
+Agent 2 position after update: 22
+Agent ustr position before update: 29
+temp_vals
+[[28, 5.159101107159541], [30, 7.401894476091779], [33, 5.642349638035357], [29, 5.613765887316485]]
+Some temp_vals +ve
+Agent ustr position after update: 30
+agent_ustr_pos: 30
+agent_2_pos: 22
+prey_pos: 30
+pred_pos: 19
+Some caught the Prey! Some agent won!
+agents_comm_ustr_n_2.step_count: 1
+agent_ustr_pos: 7
+agent_2_pos: 7
+prey_pos: 23
+pred_pos: 11
+Calculating distance to pred(11) from agent(7)
+Calculating distance to prey(22) from agent(7)
+Agent 2 position before update: 7
+Calculating distance to pred(11) from neighbour(6) of current(7)
+Calculating distance to pred(11) from neighbour(8) of current(7)
+Calculating distance to pred(11) from neighbour(12) of current(7)
+Inside condition 1 check for even
+Inside condition 1_1 check for even
+Inside condition 1_2 check for even
+Inside condition 2 check
+Agent 2 position after update: 8
+Agent ustr position before update: 7
+temp_vals
+[[6, 2.7757573177296333], [8, 3.055929828944877], [12, 1.7072890395033455], [7, 2.7992044253618444]]
+Some temp_vals +ve
+Agent ustr position after update: 8
+Prey position before update: 23
+Prey possible_next: [22, 24, 18, 23]
+Prey position after update: 23
+Pred position before update: 11
+Predator Position: 11
+Predators new position: 10
+Pred position after update: 10
+agents_comm_ustr_n_2.step_count: 2
+agent_ustr_pos: 8
+agent_2_pos: 8
+prey_pos: 23
+pred_pos: 10
+Calculating distance to pred(10) from agent(8)
+Calculating distance to prey(24) from agent(8)
+Agent 2 position before update: 8
+Calculating distance to pred(10) from neighbour(7) of current(8)
+Calculating distance to pred(10) from neighbour(9) of current(8)
+Calculating distance to pred(10) from neighbour(4) of current(8)
+Inside condition 1 check for even
+Inside condition 1_1 check for even
+Inside condition 1_2 check for even
+Inside condition 2 check
+Agent 2 position after update: 7
+Agent ustr position before update: 8
+temp_vals
+[[7, 3.1869532423110076], [9, 1.7481464868899348], [4, 2.813937913808736], [8, 2.886728345540737]]
+Some temp_vals +ve
+Agent ustr position after update: 7
+Prey position before update: 23
+Prey possible_next: [22, 24, 18, 23]
+Prey position after update: 24
+Pred position before update: 10
+Predator Position: 10
+Predators new position: 9
+Pred position after update: 9
+agents_comm_ustr_n_2.step_count: 3
+agent_ustr_pos: 7
+agent_2_pos: 7
+prey_pos: 24
+pred_pos: 9
+Calculating distance to pred(9) from agent(7)
+Calculating distance to prey(23) from agent(7)
+Agent 2 position before update: 7
+Calculating distance to pred(9) from neighbour(6) of current(7)
+Calculating distance to pred(9) from neighbour(8) of current(7)
+Calculating distance to pred(9) from neighbour(12) of current(7)
+Inside condition 1 check for even
+Inside condition 1_1 check for even
+Agent 2 position after update: 12
+Agent ustr position before update: 7
+temp_vals
+[[6, 2.654070732024279], [8, 1.457857634952342], [12, 3.4440780330287644], [7, 2.9677306640502787]]
+Some temp_vals +ve
+Agent ustr position after update: 12
+Prey position before update: 24
+Prey possible_next: [23, 25, 20, 24]
+Prey position after update: 25
+Pred position before update: 9
+Predator Position: 9
+Predators new position: 8
+Pred position after update: 8
+agents_comm_ustr_n_2.step_count: 4
+agent_ustr_pos: 12
+agent_2_pos: 12
+prey_pos: 25
+pred_pos: 8
+Calculating distance to pred(8) from agent(12)
+Calculating distance to prey(26) from agent(12)
+Agent 2 position before update: 12
+Calculating distance to pred(8) from neighbour(11) of current(12)
+Calculating distance to pred(8) from neighbour(13) of current(12)
+Calculating distance to pred(8) from neighbour(7) of current(12)
+Inside condition 1 check for even
+Inside condition 1_1 check for even
+Agent 2 position after update: 13
+Agent ustr position before update: 12
+temp_vals
+[[11, 3.268523564295681], [13, 3.5961106237002967], [7, 1.4279002334582978], [12, 3.068343730121798]]
+Some temp_vals +ve
+Agent ustr position after update: 13
+Prey position before update: 25
+Prey possible_next: [24, 26, 28, 25]
+Prey position after update: 26
+Pred position before update: 8
+Predator Position: 8
+Predators new position: 9
+Pred position after update: 9
+agents_comm_ustr_n_2.step_count: 5
+agent_ustr_pos: 13
+agent_2_pos: 13
+prey_pos: 26
+pred_pos: 9
+Calculating distance to pred(9) from agent(13)
+Calculating distance to prey(27) from agent(13)
+Agent 2 position before update: 13
+Calculating distance to pred(9) from neighbour(12) of current(13)
+Calculating distance to pred(9) from neighbour(14) of current(13)
+Calculating distance to pred(9) from neighbour(9) of current(13)
+Inside condition 1 check for even
+Agent 2 position after update: 14
+Agent ustr position before update: 13
+temp_vals
+[[12, 2.6596508141493516], [14, 3.5389578716536185], [9, 1.507645750871215], [13, 1.6575702673682389]]
+Some temp_vals +ve
+Agent ustr position after update: 14
+Prey position before update: 26
+Prey possible_next: [25, 27, 31, 26]
+Prey position after update: 31
+Pred position before update: 9
+Predator Position: 9
+Predators new position: 13
+Pred position after update: 13
+agents_comm_ustr_n_2.step_count: 6
+agent_ustr_pos: 14
+agent_2_pos: 14
+prey_pos: 31
+pred_pos: 13
+Calculating distance to pred(13) from agent(14)
+Calculating distance to prey(31) from agent(14)
+Agent 2 position before update: 14
+Calculating distance to pred(13) from neighbour(13) of current(14)
+Calculating distance to pred(13) from neighbour(15) of current(14)
+Calculating distance to pred(13) from neighbour(19) of current(14)
+Inside condition 1 check for even
+Agent 2 position after update: 19
+Agent ustr position before update: 14
+temp_vals
+[[13, 1.3997158254716133], [15, 2.9745599874210833], [19, 3.5767504560319945], [14, 1.6932551596279455]]
+Some temp_vals +ve
+Agent ustr position after update: 19
+Prey position before update: 31
+Prey possible_next: [30, 32, 26, 31]
+Prey position after update: 26
+Pred position before update: 13
+Predator Position: 13
+Predators new position: 14
+Pred position after update: 14
+agents_comm_ustr_n_2.step_count: 7
+agent_ustr_pos: 19
+agent_2_pos: 19
+prey_pos: 26
+pred_pos: 14
+Calculating distance to pred(14) from agent(19)
+Calculating distance to prey(31) from agent(19)
+Agent 2 position before update: 19
+Calculating distance to pred(14) from neighbour(18) of current(19)
+Calculating distance to pred(14) from neighbour(20) of current(19)
+Calculating distance to pred(14) from neighbour(14) of current(19)
+Inside condition 1 check for even
+Agent 2 position after update: 20
+Agent ustr position before update: 19
+temp_vals
+[[18, 3.533355774392702], [20, 3.976837604354487], [14, 1.8574011224840818], [19, 1.9222450655334773]]
+Some temp_vals +ve
+Agent ustr position after update: 20
+Prey position before update: 26
+Prey possible_next: [25, 27, 31, 26]
+Prey position after update: 25
+Pred position before update: 14
+Predator Position: 14
+Predators new position: 19
+Pred position after update: 19
+agents_comm_ustr_n_2.step_count: 8
+agent_ustr_pos: 20
+agent_2_pos: 20
+prey_pos: 25
+pred_pos: 19
+Calculating distance to pred(19) from agent(20)
+Calculating distance to prey(25) from agent(20)
+Agent 2 position before update: 20
+Calculating distance to pred(19) from neighbour(19) of current(20)
+Calculating distance to pred(19) from neighbour(21) of current(20)
+Calculating distance to pred(19) from neighbour(24) of current(20)
+Inside condition 1 check for even
+Agent 2 position after update: 24
+Agent ustr position before update: 20
+temp_vals
+[[19, 2.2097916721377424], [21, 3.352908911389174], [24, 4.248292321133773], [20, 2.3521337050541637]]
+Some temp_vals +ve
+Agent ustr position after update: 24
+Prey position before update: 25
+Prey possible_next: [24, 26, 28, 25]
+Prey position after update: 24
+agent_ustr_pos: 24
+agent_2_pos: 24
+prey_pos: 24
+pred_pos: 19
+Some caught the Prey! Some agent won!
+agents_comm_ustr_n_2.step_count: 1
+agent_ustr_pos: 47
+agent_2_pos: 47
+prey_pos: 30
+pred_pos: 39
+Calculating distance to pred(39) from agent(47)
+Calculating distance to prey(31) from agent(47)
+Agent 2 position before update: 47
+Calculating distance to pred(39) from neighbour(46) of current(47)
+Calculating distance to pred(39) from neighbour(48) of current(47)
+Calculating distance to pred(39) from neighbour(43) of current(47)
+Inside condition 1 check for even
+Inside condition 1_1 check for even
+Inside condition 1_2 check for even
+Inside condition 2 check
+Agent 2 position after update: 48
+Agent ustr position before update: 47
+temp_vals
+[[46, 1.8617633923870123], [48, 2.0386407548103804], [43, 2.112958523811902], [47, 1.9093408158673535]]
+Some temp_vals +ve
+Agent ustr position after update: 43
+Prey position before update: 30
+Prey possible_next: [29, 31, 34, 30]
+Prey position after update: 31
+Pred position before update: 39
+Predator Position: 39
+Predators new position: 42
+Pred position after update: 42
+agents_comm_ustr_n_2.step_count: 2
+agent_ustr_pos: 43
+agent_2_pos: 48
+prey_pos: 31
+pred_pos: 42
+Calculating distance to pred(42) from agent(48)
+Calculating distance to prey(31) from agent(48)
+Agent 2 position before update: 48
+Calculating distance to pred(42) from neighbour(47) of current(48)
+Calculating distance to pred(42) from neighbour(49) of current(48)
+Calculating distance to pred(42) from neighbour(3) of current(48)
+Inside condition 1 check for even
+Inside condition 1_1 check for even
+Inside condition 1_2 check for even
+Inside condition 2 check
+Agent 2 position after update: 3
+Agent ustr position before update: 43
+temp_vals
+[[42, 2.066473947298267], [44, 2.008818888785237], [47, 2.0305740536031247], [43, 1.1898745418833487]]
+Some temp_vals +ve
+Agent ustr position after update: 42
+agent_ustr_pos: 42
+agent_2_pos: 3
+prey_pos: 31
+pred_pos: 42
+Predator caught some agent! Some agent lost!
+agents_comm_ustr_n_2.step_count: 1
+agent_ustr_pos: 6
+agent_2_pos: 6
+prey_pos: 39
+pred_pos: 46
+Calculating distance to pred(46) from agent(6)
+Calculating distance to prey(38) from agent(6)
+Agent 2 position before update: 6
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Agent 2 position after update: 5
+Agent ustr position before update: 6
+temp_vals
+[[5, 2.22604257131209], [7, 2.247957288047773], [2, 2.6250393790691033], [6, 2.4713349455138904]]
+Some temp_vals +ve
+Agent ustr position after update: 2
+Prey position before update: 39
+Prey possible_next: [38, 40, 42, 39]
+Prey position after update: 42
+Pred position before update: 46
+Predator Position: 46
+Predators new position: 45
+Pred position after update: 45
+agents_comm_ustr_n_2.step_count: 2
+agent_ustr_pos: 2
+agent_2_pos: 5
+prey_pos: 42
+pred_pos: 45
+Calculating distance to pred(45) from agent(5)
+Calculating distance to prey(39) from agent(5)
+Agent 2 position before update: 5
+Inside condition 1 check
+Inside condition 2 check
+Agent 2 position after update: 4
+Agent ustr position before update: 2
+temp_vals
+[[1, 2.7998121573072656], [3, 3.150131498667161], [6, 2.6498609775245785], [2, 2.9282280243982366]]
+Some temp_vals +ve
+Agent ustr position after update: 3
+Prey position before update: 42
+Prey possible_next: [41, 43, 39, 42]
+Prey position after update: 39
+Pred position before update: 45
+Predator Position: 45
+Predators new position: 0
+Pred position after update: 0
+agents_comm_ustr_n_2.step_count: 3
+agent_ustr_pos: 3
+agent_2_pos: 4
+prey_pos: 39
+pred_pos: 0
+Calculating distance to pred(0) from agent(4)
+Calculating distance to prey(38) from agent(4)
+Agent 2 position before update: 4
+Calculating distance to pred(0) from neighbour(3) of current(4)
+Calculating distance to pred(0) from neighbour(5) of current(4)
+Calculating distance to pred(0) from neighbour(8) of current(4)
+Inside condition 1 check for even
+Inside condition 1_1 check for even
+Inside condition 1_2 check for even
+Inside condition 2 check
+Agent 2 position after update: 8
+Agent ustr position before update: 3
+temp_vals
+[[2, 2.935963552032077], [4, 2.4619986028456586], [48, 3.610514629623201], [3, 2.639200845510902]]
+Some temp_vals +ve
+Agent ustr position after update: 48
+Prey position before update: 39
+Prey possible_next: [38, 40, 42, 39]
+Prey position after update: 38
+Pred position before update: 0
+Predator Position: 0
+Predators new position: 49
+Pred position after update: 49
+agents_comm_ustr_n_2.step_count: 4
+agent_ustr_pos: 48
+agent_2_pos: 8
+prey_pos: 38
+pred_pos: 49
+Calculating distance to pred(49) from agent(8)
+Calculating distance to prey(39) from agent(8)
+Agent 2 position before update: 8
+Calculating distance to pred(49) from neighbour(7) of current(8)
+Calculating distance to pred(49) from neighbour(9) of current(8)
+Calculating distance to pred(49) from neighbour(4) of current(8)
+Inside condition 1 check for even
+Inside condition 1_1 check for even
+Inside condition 1_2 check for even
+Inside condition 2 check
+Agent 2 position after update: 9
+Agent ustr position before update: 48
+temp_vals
+[[47, 3.7934048192951373], [49, 1.8292682379819878], [3, 2.57454791639905], [48, 1.7809592891458035]]
+Some temp_vals +ve
+Agent ustr position after update: 47
+Prey position before update: 38
+Prey possible_next: [37, 39, 35, 38]
+Prey position after update: 38
+Pred position before update: 49
+Predator Position: 49
+Predators new position: 1
+Pred position after update: 1
+agents_comm_ustr_n_2.step_count: 5
+agent_ustr_pos: 47
+agent_2_pos: 9
+prey_pos: 38
+pred_pos: 1
+Calculating distance to pred(1) from agent(9)
+Calculating distance to prey(38) from agent(9)
+Agent 2 position before update: 9
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Inside condition 5 check
+Inside condition 6 check
+Agent 2 position after update: 13
+Agent ustr position before update: 47
+temp_vals
+[[46, 3.4732564409757636], [48, 3.4785989121118686], [43, 4.6560234208953375], [47, 4.067624943776051]]
+Some temp_vals +ve
+Agent ustr position after update: 43
+Prey position before update: 38
+Prey possible_next: [37, 39, 35, 38]
+Prey position after update: 37
+Pred position before update: 1
+Predator Position: 1
+Predators new position: 0
+Pred position after update: 0
+agents_comm_ustr_n_2.step_count: 6
+agent_ustr_pos: 43
+agent_2_pos: 13
+prey_pos: 37
+pred_pos: 0
+Calculating distance to pred(0) from agent(13)
+Calculating distance to prey(41) from agent(13)
+Agent 2 position before update: 13
+Inside condition 1 check
+Inside condition 2 check
+Agent 2 position after update: 9
+Agent ustr position before update: 43
+temp_vals
+[[42, 5.166452738983095], [44, 3.781076683776916], [47, 3.909411952656837], [43, 4.357380951205266]]
+Some temp_vals +ve
+Agent ustr position after update: 42
+Prey position before update: 37
+Prey possible_next: [36, 38, 41, 37]
+Prey position after update: 38
+Pred position before update: 0
+Predator Position: 0
+Predators new position: 45
+Pred position after update: 45
+agents_comm_ustr_n_2.step_count: 7
+agent_ustr_pos: 42
+agent_2_pos: 9
+prey_pos: 38
+pred_pos: 45
+Calculating distance to pred(45) from agent(9)
+Calculating distance to prey(37) from agent(9)
+Agent 2 position before update: 9
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Inside condition 5 check
+Inside condition 6 check
+Agent 2 position after update: 13
+Agent ustr position before update: 42
+temp_vals
+[[41, 4.873283385920906], [43, 3.9100503756518976], [39, 5.244777775759434], [42, 4.721455464057951]]
+Some temp_vals +ve
+Agent ustr position after update: 39
+Prey position before update: 38
+Prey possible_next: [37, 39, 35, 38]
+Prey position after update: 35
+Pred position before update: 45
+Predator Position: 45
+Predators new position: 44
+Pred position after update: 44
+agents_comm_ustr_n_2.step_count: 8
+agent_ustr_pos: 39
+agent_2_pos: 13
+prey_pos: 35
+pred_pos: 44
+Calculating distance to pred(44) from agent(13)
+Calculating distance to prey(38) from agent(13)
+Agent 2 position before update: 13
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Agent 2 position after update: 14
+Agent ustr position before update: 39
+temp_vals
+[[38, 5.271042572895981], [40, 4.823363120538864], [42, 3.9429298338738685], [39, 4.730659272136194]]
+Some temp_vals +ve
+Agent ustr position after update: 38
+Prey position before update: 35
+Prey possible_next: [34, 36, 38, 35]
+Prey position after update: 36
+Pred position before update: 44
+Predator Position: 44
+Predators new position: 43
+Pred position after update: 43
+agents_comm_ustr_n_2.step_count: 9
+agent_ustr_pos: 38
+agent_2_pos: 14
+prey_pos: 36
+pred_pos: 43
+Calculating distance to pred(43) from agent(14)
+Calculating distance to prey(35) from agent(14)
+Agent 2 position before update: 14
+Inside condition 1 check
+Agent 2 position after update: 19
+Agent ustr position before update: 38
+temp_vals
+[[37, 4.5254501664657], [39, 4.12835184232488], [35, 4.601243826657703], [38, 4.636322845814456]]
+Some temp_vals +ve
+Agent ustr position after update: 38
+Prey position before update: 36
+Prey possible_next: [35, 37, 40, 36]
+Prey position after update: 37
+Pred position before update: 43
+Predator Position: 43
+Predators new position: 42
+Pred position after update: 42
+agents_comm_ustr_n_2.step_count: 10
+agent_ustr_pos: 38
+agent_2_pos: 19
+prey_pos: 37
+pred_pos: 42
+Calculating distance to pred(42) from agent(19)
+Calculating distance to prey(36) from agent(19)
+Agent 2 position before update: 19
+Inside condition 1 check
+Inside condition 2 check
+Agent 2 position after update: 20
+Agent ustr position before update: 38
+temp_vals
+[[37, 5.438411907740568], [39, 2.1483045583255276], [35, 3.944039172963013], [38, 3.7579892136677158]]
+Some temp_vals +ve
+Agent ustr position after update: 37
+agent_ustr_pos: 37
+agent_2_pos: 20
+prey_pos: 37
+pred_pos: 42
+Some caught the Prey! Some agent won!
+agents_comm_ustr_n_2.step_count: 1
+agent_ustr_pos: 29
+agent_2_pos: 29
+prey_pos: 25
+pred_pos: 20
+Calculating distance to pred(20) from agent(29)
+Calculating distance to prey(28) from agent(29)
+Agent 2 position before update: 29
+Calculating distance to pred(20) from neighbour(28) of current(29)
+Calculating distance to pred(20) from neighbour(30) of current(29)
+Calculating distance to pred(20) from neighbour(33) of current(29)
+Inside condition 1 check for even
+Inside condition 1_1 check for even
+Inside condition 1_2 check for even
+Inside condition 2 check
+Agent 2 position after update: 33
+Agent ustr position before update: 29
+temp_vals
+[[28, 3.988041477479323], [30, 3.3679630400731484], [33, 3.439308609939944], [29, 3.8308357491415994]]
+Some temp_vals +ve
+Agent ustr position after update: 28
+Prey position before update: 25
+Prey possible_next: [24, 26, 28, 25]
+Prey position after update: 28
+agent_ustr_pos: 28
+agent_2_pos: 33
+prey_pos: 28
+pred_pos: 20
+Some caught the Prey! Some agent won!
+agents_comm_ustr_n_2.step_count: 1
+agent_ustr_pos: 39
+agent_2_pos: 39
+prey_pos: 6
+pred_pos: 25
+Calculating distance to pred(25) from agent(39)
+Calculating distance to prey(6) from agent(39)
+Agent 2 position before update: 39
+Inside condition 1 check
+Agent 2 position after update: 42
+Agent ustr position before update: 39
+temp_vals
+[[38, 3.3803301830961163], [40, 3.380330184225493], [42, 4.2327377363614005], [39, 3.8166200837536253]]
+Some temp_vals +ve
+Agent ustr position after update: 42
+Prey position before update: 6
+Prey possible_next: [5, 7, 2, 6]
+Prey position after update: 6
+Pred position before update: 25
+Predator Position: 25
+Predators new position: 28
+Pred position after update: 28
+agents_comm_ustr_n_2.step_count: 2
+agent_ustr_pos: 42
+agent_2_pos: 42
+prey_pos: 6
+pred_pos: 28
+Calculating distance to pred(28) from agent(42)
+Calculating distance to prey(5) from agent(42)
+Agent 2 position before update: 42
+Inside condition 1 check
+Agent 2 position after update: 43
+Agent ustr position before update: 42
+temp_vals
+[[41, 3.749864275355922], [43, 4.724039300399455], [39, 3.749864275355922], [42, 4.241772493145998]]
+Some temp_vals +ve
+Agent ustr position after update: 43
+Prey position before update: 6
+Prey possible_next: [5, 7, 2, 6]
+Prey position after update: 5
+Pred position before update: 28
+Predator Position: 28
+Predators new position: 29
+Pred position after update: 29
+agents_comm_ustr_n_2.step_count: 3
+agent_ustr_pos: 43
+agent_2_pos: 43
+prey_pos: 5
+pred_pos: 29
+Calculating distance to pred(29) from agent(43)
+Calculating distance to prey(4) from agent(43)
+Agent 2 position before update: 43
+Inside condition 1 check
+Agent 2 position after update: 47
+Agent ustr position before update: 43
+temp_vals
+[[42, 4.044730879895713], [44, 4.095821855919746], [47, 5.166439777697685], [43, 4.587398754438764]]
+Some temp_vals +ve
+Agent ustr position after update: 47
+Prey position before update: 5
+Prey possible_next: [4, 6, 10, 5]
+Prey position after update: 10
+Pred position before update: 29
+Predator Position: 29
+Predators new position: 30
+Pred position after update: 30
+agents_comm_ustr_n_2.step_count: 4
+agent_ustr_pos: 47
+agent_2_pos: 47
+prey_pos: 10
+pred_pos: 30
+Calculating distance to pred(30) from agent(47)
+Calculating distance to prey(10) from agent(47)
+Agent 2 position before update: 47
+Inside condition 1 check
+Agent 2 position after update: 48
+Agent ustr position before update: 47
+temp_vals
+[[46, 4.069500551893779], [48, 5.148706817476831], [43, 4.069500551893779], [47, 4.60454066233878]]
+Some temp_vals +ve
+Agent ustr position after update: 48
+Prey position before update: 10
+Prey possible_next: [9, 11, 5, 10]
+Prey position after update: 9
+Pred position before update: 30
+Predator Position: 30
+Predators new position: 34
+Pred position after update: 34
+agents_comm_ustr_n_2.step_count: 5
+agent_ustr_pos: 48
+agent_2_pos: 48
+prey_pos: 9
+pred_pos: 34
+Calculating distance to pred(34) from agent(48)
+Calculating distance to prey(8) from agent(48)
+Agent 2 position before update: 48
+Inside condition 1 check
+Agent 2 position after update: 3
+Agent ustr position before update: 48
+temp_vals
+[[47, 4.4519747950167075], [49, 4.459687482276225], [3, 5.693325234002572], [48, 5.076721952425169]]
+Some temp_vals +ve
+Agent ustr position after update: 3
+Prey position before update: 9
+Prey possible_next: [8, 10, 13, 9]
+Prey position after update: 10
+Pred position before update: 34
+Predator Position: 34
+Predators new position: 33
+Pred position after update: 33
+agents_comm_ustr_n_2.step_count: 6
+agent_ustr_pos: 3
+agent_2_pos: 3
+prey_pos: 10
+pred_pos: 33
+Calculating distance to pred(33) from agent(3)
+Calculating distance to prey(9) from agent(3)
+Agent 2 position before update: 3
+Inside condition 1 check
+Agent 2 position after update: 4
+Agent ustr position before update: 3
+temp_vals
+[[2, 5.592942927643857], [4, 6.487272364725263], [48, 5.1530053404566685], [3, 5.7725099769188555]]
+Some temp_vals +ve
+Agent ustr position after update: 4
+Prey position before update: 10
+Prey possible_next: [9, 11, 5, 10]
+Prey position after update: 10
+Pred position before update: 33
+Predator Position: 33
+Predators new position: 34
+Pred position after update: 34
+agents_comm_ustr_n_2.step_count: 7
+agent_ustr_pos: 4
+agent_2_pos: 4
+prey_pos: 10
+pred_pos: 34
+Calculating distance to pred(34) from agent(4)
+Calculating distance to prey(5) from agent(4)
+Agent 2 position before update: 4
+Inside condition 1 check
+Agent 2 position after update: 5
+Agent ustr position before update: 4
+temp_vals
+[[3, 5.680027725203063], [5, 7.024566945809312], [8, 6.476318696542807], [4, 6.505223708313487]]
+Some temp_vals +ve
+Agent ustr position after update: 5
+Prey position before update: 10
+Prey possible_next: [9, 11, 5, 10]
+Prey position after update: 10
+Pred position before update: 34
+Predator Position: 34
+Predators new position: 35
+Pred position after update: 35
+agents_comm_ustr_n_2.step_count: 8
+agent_ustr_pos: 5
+agent_2_pos: 5
+prey_pos: 10
+pred_pos: 35
+Calculating distance to pred(35) from agent(5)
+Calculating distance to prey(10) from agent(5)
+Agent 2 position before update: 5
+Inside condition 1 check
+Agent 2 position after update: 10
+Agent ustr position before update: 5
+temp_vals
+[[4, 6.365966163758191], [6, 6.254115500091981], [10, 8.735492066552219], [5, 6.925981977726342]]
+Some temp_vals +ve
+Agent ustr position after update: 10
+agent_ustr_pos: 10
+agent_2_pos: 10
+prey_pos: 10
+pred_pos: 35
+Some caught the Prey! Some agent won!
+agents_comm_ustr_n_2.step_count: 1
+agent_ustr_pos: 25
+agent_2_pos: 25
+prey_pos: 15
+pred_pos: 30
+Calculating distance to pred(30) from agent(25)
+Calculating distance to prey(14) from agent(25)
+Agent 2 position before update: 25
+Calculating distance to pred(30) from neighbour(24) of current(25)
+Calculating distance to pred(30) from neighbour(26) of current(25)
+Calculating distance to pred(30) from neighbour(28) of current(25)
+Inside condition 1 check for even
+Agent 2 position after update: 24
+Agent ustr position before update: 25
+temp_vals
+[[24, 4.476032581438971], [26, 3.325078431739354], [28, 3.36960726544943], [25, 3.8644080921798496]]
+Some temp_vals +ve
+Agent ustr position after update: 24
+Prey position before update: 15
+Prey possible_next: [14, 16, 11, 15]
+Prey position after update: 14
+Pred position before update: 30
+Predator Position: 30
+Predators new position: 29
+Pred position after update: 29
+agents_comm_ustr_n_2.step_count: 2
+agent_ustr_pos: 24
+agent_2_pos: 24
+prey_pos: 14
+pred_pos: 29
+Calculating distance to pred(29) from agent(24)
+Calculating distance to prey(13) from agent(24)
+Agent 2 position before update: 24
+Calculating distance to pred(29) from neighbour(23) of current(24)
+Calculating distance to pred(29) from neighbour(25) of current(24)
+Calculating distance to pred(29) from neighbour(20) of current(24)
+Inside condition 1 check for even
+Agent 2 position after update: 20
+Agent ustr position before update: 24
+temp_vals
+[[23, 4.363229758838518], [25, 3.7294017825004806], [20, 5.257595550082093], [24, 4.351451668103016]]
+Some temp_vals +ve
+Agent ustr position after update: 20
+Prey position before update: 14
+Prey possible_next: [13, 15, 19, 14]
+Prey position after update: 19
+Pred position before update: 29
+Predator Position: 29
+Predators new position: 28
+Pred position after update: 28
+agents_comm_ustr_n_2.step_count: 3
+agent_ustr_pos: 20
+agent_2_pos: 20
+prey_pos: 19
+pred_pos: 28
+Calculating distance to pred(28) from agent(20)
+Calculating distance to prey(19) from agent(20)
+Agent 2 position before update: 20
+Calculating distance to pred(28) from neighbour(19) of current(20)
+Calculating distance to pred(28) from neighbour(21) of current(20)
+Calculating distance to pred(28) from neighbour(24) of current(20)
+Inside condition 1 check for even
+Agent 2 position after update: 19
+Agent ustr position before update: 20
+temp_vals
+[[19, 6.701180364711923], [21, 4.413162219896631], [24, 4.335581398922323], [20, 4.970815385225581]]
+Some temp_vals +ve
+Agent ustr position after update: 19
+agent_ustr_pos: 19
+agent_2_pos: 19
+prey_pos: 19
+pred_pos: 28
+Some caught the Prey! Some agent won!
+agents_comm_ustr_n_2.step_count: 1
+agent_ustr_pos: 9
+agent_2_pos: 9
+prey_pos: 39
+pred_pos: 35
+Calculating distance to pred(35) from agent(9)
+Calculating distance to prey(39) from agent(9)
+Agent 2 position before update: 9
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Agent 2 position after update: 10
+Agent ustr position before update: 9
+temp_vals
+[[8, 1.8441816252376617], [10, 1.7660450665703256], [13, 1.7347225945944853], [9, 1.7997553552469812]]
+Some temp_vals +ve
+Agent ustr position after update: 8
+Prey position before update: 39
+Prey possible_next: [38, 40, 42, 39]
+Prey position after update: 38
+Pred position before update: 35
+Predator Position: 35
+Predators new position: 38
+Pred position after update: 38
+agents_comm_ustr_n_2.step_count: 2
+agent_ustr_pos: 8
+agent_2_pos: 10
+prey_pos: 38
+pred_pos: 38
+Calculating distance to pred(38) from agent(10)
+Calculating distance to prey(38) from agent(10)
+Agent 2 position before update: 10
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Agent 2 position after update: 9
+Agent ustr position before update: 8
+temp_vals
+[[7, 1.7351251612075087], [9, 1.7194956889661546], [4, 1.8665285312265265], [8, 1.779473666845515]]
+Some temp_vals +ve
+Agent ustr position after update: 4
+Prey position before update: 38
+Prey possible_next: [37, 39, 35, 38]
+Prey position after update: 38
+Pred position before update: 38
+Predator Position: 38
+Predators new position: 39
+Pred position after update: 39
+agents_comm_ustr_n_2.step_count: 3
+agent_ustr_pos: 4
+agent_2_pos: 9
+prey_pos: 38
+pred_pos: 39
+Calculating distance to pred(39) from agent(9)
+Calculating distance to prey(38) from agent(9)
+Agent 2 position before update: 9
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Agent 2 position after update: 10
+Agent ustr position before update: 4
+temp_vals
+[[3, 2.038015887104024], [5, 1.8195558881786897], [8, 1.8292224120750602], [4, 1.947300879168879]]
+Some temp_vals +ve
+Agent ustr position after update: 3
+Prey position before update: 38
+Prey possible_next: [37, 39, 35, 38]
+Prey position after update: 38
+Pred position before update: 39
+Predator Position: 39
+Predators new position: 42
+Pred position after update: 42
+agents_comm_ustr_n_2.step_count: 4
+agent_ustr_pos: 3
+agent_2_pos: 10
+prey_pos: 38
+pred_pos: 42
+Calculating distance to pred(42) from agent(10)
+Calculating distance to prey(39) from agent(10)
+Agent 2 position before update: 10
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Agent 2 position after update: 9
+Agent ustr position before update: 3
+temp_vals
+[[2, 2.208411998946742], [4, 1.9973351337275518], [48, 2.2843572383553092], [3, 2.16169569341566]]
+Some temp_vals +ve
+Agent ustr position after update: 48
+Prey position before update: 38
+Prey possible_next: [37, 39, 35, 38]
+Prey position after update: 38
+Pred position before update: 42
+Predator Position: 42
+Predators new position: 43
+Pred position after update: 43
+agents_comm_ustr_n_2.step_count: 5
+agent_ustr_pos: 48
+agent_2_pos: 9
+prey_pos: 38
+pred_pos: 43
+Calculating distance to pred(43) from agent(9)
+Calculating distance to prey(37) from agent(9)
+Agent 2 position before update: 9
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Agent 2 position after update: 10
+Agent ustr position before update: 48
+temp_vals
+[[47, 1.5240893278459915], [49, 2.5992480206177047], [3, 2.2626594370206674], [48, 2.423400109854528]]
+Some temp_vals +ve
+Agent ustr position after update: 49
+Prey position before update: 38
+Prey possible_next: [37, 39, 35, 38]
+Prey position after update: 39
+Pred position before update: 43
+Predator Position: 43
+Predators new position: 47
+Pred position after update: 47
+agents_comm_ustr_n_2.step_count: 6
+agent_ustr_pos: 49
+agent_2_pos: 10
+prey_pos: 39
+pred_pos: 47
+Calculating distance to pred(47) from agent(10)
+Calculating distance to prey(38) from agent(10)
+Agent 2 position before update: 10
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Agent 2 position after update: 9
+Agent ustr position before update: 49
+temp_vals
+[[48, 1.5382141896934753], [0, 3.1292457357685963], [1, 2.7793281359100432], [49, 2.788330588931168]]
+Some temp_vals +ve
+Agent ustr position after update: 0
+Prey position before update: 39
+Prey possible_next: [38, 40, 42, 39]
+Prey position after update: 39
+Pred position before update: 47
+Predator Position: 47
+Predators new position: 46
+Pred position after update: 46
+agents_comm_ustr_n_2.step_count: 7
+agent_ustr_pos: 0
+agent_2_pos: 9
+prey_pos: 39
+pred_pos: 46
+Calculating distance to pred(46) from agent(9)
+Calculating distance to prey(42) from agent(9)
+Agent 2 position before update: 9
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Agent 2 position after update: 10
+Agent ustr position before update: 0
+temp_vals
+[[49, 3.037138954357613], [1, 2.7744934381453468], [45, 1.5757735337288394], [0, 2.762939267240914]]
+Some temp_vals +ve
+Agent ustr position after update: 49
+Prey position before update: 39
+Prey possible_next: [38, 40, 42, 39]
+Prey position after update: 40
+Pred position before update: 46
+Predator Position: 46
+Predators new position: 44
+Pred position after update: 44
+agents_comm_ustr_n_2.step_count: 8
+agent_ustr_pos: 49
+agent_2_pos: 10
+prey_pos: 40
+pred_pos: 44
+Calculating distance to pred(44) from agent(10)
+Calculating distance to prey(41) from agent(10)
+Agent 2 position before update: 10
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Agent 2 position after update: 9
+Agent ustr position before update: 49
+temp_vals
+[[48, 2.994884474127921], [0, 2.681789291002855], [1, 2.681789291002855], [49, 2.95749941557657]]
+Some temp_vals +ve
+Agent ustr position after update: 48
+Prey position before update: 40
+Prey possible_next: [39, 41, 36, 40]
+Prey position after update: 36
+Pred position before update: 44
+Predator Position: 44
+Predators new position: 43
+Pred position after update: 43
+agents_comm_ustr_n_2.step_count: 9
+agent_ustr_pos: 48
+agent_2_pos: 9
+prey_pos: 36
+pred_pos: 43
+Calculating distance to pred(43) from agent(9)
+Calculating distance to prey(40) from agent(9)
+Agent 2 position before update: 9
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Agent 2 position after update: 10
+Agent ustr position before update: 48
+temp_vals
+[[47, 1.5000148137199907], [49, 2.584555122572307], [3, 2.2506636027267595], [48, 2.411870527327968]]
+Some temp_vals +ve
+Agent ustr position after update: 49
+Prey position before update: 36
+Prey possible_next: [35, 37, 40, 36]
+Prey position after update: 35
+Pred position before update: 43
+Predator Position: 43
+Predators new position: 47
+Pred position after update: 47
+agents_comm_ustr_n_2.step_count: 10
+agent_ustr_pos: 49
+agent_2_pos: 10
+prey_pos: 35
+pred_pos: 47
+Calculating distance to pred(47) from agent(10)
+Calculating distance to prey(36) from agent(10)
+Agent 2 position before update: 10
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Agent 2 position after update: 9
+Agent ustr position before update: 49
+temp_vals
+[[48, 1.3625878694546747], [0, 2.8071475721873864], [1, 2.5050174996514736], [49, 2.5146778170667465]]
+Some temp_vals +ve
+Agent ustr position after update: 0
+Prey position before update: 35
+Prey possible_next: [34, 36, 38, 35]
+Prey position after update: 34
+Pred position before update: 47
+Predator Position: 47
+Predators new position: 46
+Pred position after update: 46
+agents_comm_ustr_n_2.step_count: 11
+agent_ustr_pos: 0
+agent_2_pos: 9
+prey_pos: 34
+pred_pos: 46
+Calculating distance to pred(46) from agent(9)
+Calculating distance to prey(35) from agent(9)
+Agent 2 position before update: 9
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Agent 2 position after update: 13
+Agent ustr position before update: 0
+temp_vals
+[[49, 2.426872570036867], [1, 2.2301699637276475], [45, 1.264041722621701], [0, 2.2246878125380616]]
+Some temp_vals +ve
+Agent ustr position after update: 49
+Prey position before update: 34
+Prey possible_next: [33, 35, 30, 34]
+Prey position after update: 35
+Pred position before update: 46
+Predator Position: 46
+Predators new position: 45
+Pred position after update: 45
+agents_comm_ustr_n_2.step_count: 12
+agent_ustr_pos: 49
+agent_2_pos: 13
+prey_pos: 35
+pred_pos: 45
+Calculating distance to pred(45) from agent(13)
+Calculating distance to prey(38) from agent(13)
+Agent 2 position before update: 13
+Inside condition 1 check
+Inside condition 2 check
+Agent 2 position after update: 9
+Agent ustr position before update: 49
+temp_vals
+[[48, 3.1034047723387843], [0, 1.330228939466767], [1, 2.4113768906961903], [49, 2.78431702330742]]
+Some temp_vals +ve
+Agent ustr position after update: 48
+Prey position before update: 35
+Prey possible_next: [34, 36, 38, 35]
+Prey position after update: 34
+Pred position before update: 45
+Predator Position: 45
+Predators new position: 0
+Pred position after update: 0
+agents_comm_ustr_n_2.step_count: 13
+agent_ustr_pos: 48
+agent_2_pos: 9
+prey_pos: 34
+pred_pos: 0
+Calculating distance to pred(0) from agent(9)
+Calculating distance to prey(34) from agent(9)
+Agent 2 position before update: 9
+Inside condition 1 check
+Inside condition 2 check
+Agent 2 position after update: 13
+Agent ustr position before update: 48
+temp_vals
+[[47, 3.3095485200293524], [49, 1.289531643301877], [3, 2.2565633190009136], [48, 2.8511969032549493]]
+Some temp_vals +ve
+Agent ustr position after update: 47
+Prey position before update: 34
+Prey possible_next: [33, 35, 30, 34]
+Prey position after update: 30
+Pred position before update: 0
+Predator Position: 0
+Predators new position: 49
+Pred position after update: 49
+agents_comm_ustr_n_2.step_count: 14
+agent_ustr_pos: 47
+agent_2_pos: 13
+prey_pos: 30
+pred_pos: 49
+Calculating distance to pred(49) from agent(13)
+Calculating distance to prey(34) from agent(13)
+Agent 2 position before update: 13
+Inside condition 1 check
+Agent 2 position after update: 14
+Agent ustr position before update: 47
+temp_vals
+[[46, 2.6053841273638114], [48, 1.3770266614842634], [43, 3.4634346457697154], [47, 2.988408534296811]]
+Some temp_vals +ve
+Agent ustr position after update: 43
+Prey position before update: 30
+Prey possible_next: [29, 31, 34, 30]
+Prey position after update: 34
+Pred position before update: 49
+Predator Position: 49
+Predators new position: 48
+Pred position after update: 48
+agents_comm_ustr_n_2.step_count: 15
+agent_ustr_pos: 43
+agent_2_pos: 14
+prey_pos: 34
+pred_pos: 48
+Calculating distance to pred(48) from agent(14)
+Calculating distance to prey(34) from agent(14)
+Agent 2 position before update: 14
+Inside condition 1 check
+Agent 2 position after update: 19
+Agent ustr position before update: 43
+temp_vals
+[[42, 4.043751220692463], [44, 3.005651423356498], [47, 1.606638556613565], [43, 3.4270859938419416]]
+Some temp_vals +ve
+Agent ustr position after update: 42
+Prey position before update: 34
+Prey possible_next: [33, 35, 30, 34]
+Prey position after update: 33
+Pred position before update: 48
+Predator Position: 48
+Predators new position: 47
+Pred position after update: 47
+agents_comm_ustr_n_2.step_count: 16
+agent_ustr_pos: 42
+agent_2_pos: 19
+prey_pos: 33
+pred_pos: 47
+Calculating distance to pred(47) from agent(19)
+Calculating distance to prey(29) from agent(19)
+Agent 2 position before update: 19
+Inside condition 1 check
+Agent 2 position after update: 20
+Agent ustr position before update: 42
+temp_vals
+[[41, 3.575918389627201], [43, 1.6294353499240704], [39, 4.12815404014098], [42, 3.4640909644074056]]
+Some temp_vals +ve
+Agent ustr position after update: 39
+Prey position before update: 33
+Prey possible_next: [32, 34, 29, 33]
+Prey position after update: 34
+Pred position before update: 47
+Predator Position: 47
+Predators new position: 43
+Pred position after update: 43
+agents_comm_ustr_n_2.step_count: 17
+agent_ustr_pos: 39
+agent_2_pos: 20
+prey_pos: 34
+pred_pos: 43
+Calculating distance to pred(43) from agent(20)
+Calculating distance to prey(30) from agent(20)
+Agent 2 position before update: 20
+Inside condition 1 check
+Inside condition 2 check
+Agent 2 position after update: 24
+Agent ustr position before update: 39
+temp_vals
+[[38, 4.82789540262342], [40, 4.06199079758747], [42, 1.8435823810608432], [39, 3.8453277795077345]]
+Some temp_vals +ve
+Agent ustr position after update: 38
+Prey position before update: 34
+Prey possible_next: [33, 35, 30, 34]
+Prey position after update: 30
+Pred position before update: 43
+Predator Position: 43
+Predators new position: 42
+Pred position after update: 42
+agents_comm_ustr_n_2.step_count: 18
+agent_ustr_pos: 38
+agent_2_pos: 24
+prey_pos: 30
+pred_pos: 42
+Calculating distance to pred(42) from agent(24)
+Calculating distance to prey(34) from agent(24)
+Agent 2 position before update: 24
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Inside condition 5 check
+Agent 2 position after update: 23
+Agent ustr position before update: 38
+temp_vals
+[[37, 3.4870979878126245], [39, 1.8516192887697878], [35, 4.825434462142138], [38, 3.868110832414102]]
+Some temp_vals +ve
+Agent ustr position after update: 35
+Prey position before update: 30
+Prey possible_next: [29, 31, 34, 30]
+Prey position after update: 30
+Pred position before update: 42
+Predator Position: 42
+Predators new position: 39
+Pred position after update: 39
+agents_comm_ustr_n_2.step_count: 19
+agent_ustr_pos: 35
+agent_2_pos: 23
+prey_pos: 30
+pred_pos: 39
+Calculating distance to pred(39) from agent(23)
+Calculating distance to prey(30) from agent(23)
+Agent 2 position before update: 23
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Inside condition 5 check
+Agent 2 position after update: 18
+Agent ustr position before update: 35
+temp_vals
+[[34, 4.91927430312983], [36, 3.7258351078659104], [38, 1.9971267101306536], [35, 4.341243923138303]]
+Some temp_vals +ve
+Agent ustr position after update: 34
+Prey position before update: 30
+Prey possible_next: [29, 31, 34, 30]
+Prey position after update: 31
+Pred position before update: 39
+Predator Position: 39
+Predators new position: 38
+Pred position after update: 38
+agents_comm_ustr_n_2.step_count: 20
+agent_ustr_pos: 34
+agent_2_pos: 18
+prey_pos: 31
+pred_pos: 38
+Calculating distance to pred(38) from agent(18)
+Calculating distance to prey(31) from agent(18)
+Agent 2 position before update: 18
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Agent 2 position after update: 19
+Agent ustr position before update: 34
+temp_vals
+[[33, 4.5909440594749915], [35, 2.042890750914449], [30, 4.883084222313166], [34, 4.284770473523704]]
+Some temp_vals +ve
+Agent ustr position after update: 30
+Prey position before update: 31
+Prey possible_next: [30, 32, 26, 31]
+Prey position after update: 30
+agent_ustr_pos: 30
+agent_2_pos: 19
+prey_pos: 30
+pred_pos: 38
+Some caught the Prey! Some agent won!
+agents_comm_ustr_n_2.step_count: 1
+agent_ustr_pos: 0
+agent_2_pos: 0
+prey_pos: 33
+pred_pos: 36
+Calculating distance to pred(36) from agent(0)
+Calculating distance to prey(32) from agent(0)
+Agent 2 position before update: 0
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Agent 2 position after update: 49
+Agent ustr position before update: 0
+temp_vals
+[[49, 1.847337280308998], [1, 1.9713319922215546], [45, 1.7755338556252023], [0, 1.8331306463700436]]
+Some temp_vals +ve
+Agent ustr position after update: 1
+Prey position before update: 33
+Prey possible_next: [32, 34, 29, 33]
+Prey position after update: 32
+Pred position before update: 36
+Predator Position: 36
+Predators new position: 37
+Pred position after update: 37
+agents_comm_ustr_n_2.step_count: 2
+agent_ustr_pos: 1
+agent_2_pos: 49
+prey_pos: 32
+pred_pos: 37
+Calculating distance to pred(37) from agent(49)
+Calculating distance to prey(27) from agent(49)
+Agent 2 position before update: 49
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Agent 2 position after update: 0
+Agent ustr position before update: 1
+temp_vals
+[[0, 1.9091075987360457], [2, 2.308912376892655], [49, 1.9113068204793862], [1, 2.1235600001606403]]
+Some temp_vals +ve
+Agent ustr position after update: 2
+Prey position before update: 32
+Prey possible_next: [31, 33, 27, 32]
+Prey position after update: 32
+Pred position before update: 37
+Predator Position: 37
+Predators new position: 41
+Pred position after update: 41
+agents_comm_ustr_n_2.step_count: 3
+agent_ustr_pos: 2
+agent_2_pos: 0
+prey_pos: 32
+pred_pos: 41
+Calculating distance to pred(41) from agent(0)
+Calculating distance to prey(33) from agent(0)
+Agent 2 position before update: 0
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Agent 2 position after update: 49
+Agent ustr position before update: 2
+temp_vals
+[[1, 2.1226487894536], [3, 2.376350378293768], [6, 2.5891976388418017], [2, 2.3763890532007794]]
+Some temp_vals +ve
+Agent ustr position after update: 6
+Prey position before update: 32
+Prey possible_next: [31, 33, 27, 32]
+Prey position after update: 27
+Pred position before update: 41
+Predator Position: 41
+Predators new position: 42
+Pred position after update: 42
+agents_comm_ustr_n_2.step_count: 4
+agent_ustr_pos: 6
+agent_2_pos: 49
+prey_pos: 27
+pred_pos: 42
+Calculating distance to pred(42) from agent(49)
+Calculating distance to prey(26) from agent(49)
+Agent 2 position before update: 49
+Calculating distance to pred(42) from neighbour(48) of current(49)
+Calculating distance to pred(42) from neighbour(0) of current(49)
+Calculating distance to pred(42) from neighbour(1) of current(49)
+Inside condition 1 check for even
+Inside condition 1_1 check for even
+Inside condition 1_2 check for even
+Inside condition 2 check
+Agent 2 position after update: 1
+Agent ustr position before update: 6
+temp_vals
+[[5, 2.802997862425763], [7, 3.0814379830831022], [2, 2.4777480949957065], [6, 2.7872340120657375]]
+Some temp_vals +ve
+Agent ustr position after update: 7
+Prey position before update: 27
+Prey possible_next: [26, 28, 32, 27]
+Prey position after update: 26
+Pred position before update: 42
+Predator Position: 42
+Predators new position: 41
+Pred position after update: 41
+agents_comm_ustr_n_2.step_count: 5
+agent_ustr_pos: 7
+agent_2_pos: 1
+prey_pos: 26
+pred_pos: 41
+Calculating distance to pred(41) from agent(1)
+Calculating distance to prey(27) from agent(1)
+Agent 2 position before update: 1
+Inside condition 1 check
+Inside condition 2 check
+Agent 2 position after update: 2
+Agent ustr position before update: 7
+temp_vals
+[[6, 2.80604023332707], [8, 3.169004807509418], [12, 3.402069644490798], [7, 3.169004807509418]]
+Some temp_vals +ve
+Agent ustr position after update: 12
+Prey position before update: 26
+Prey possible_next: [25, 27, 31, 26]
+Prey position after update: 31
+Pred position before update: 41
+Predator Position: 41
+Predators new position: 42
+Pred position after update: 42
+agents_comm_ustr_n_2.step_count: 6
+agent_ustr_pos: 12
+agent_2_pos: 2
+prey_pos: 31
+pred_pos: 42
+Calculating distance to pred(42) from agent(2)
+Calculating distance to prey(26) from agent(2)
+Agent 2 position before update: 2
+Inside condition 1 check
+Agent 2 position after update: 6
+Agent ustr position before update: 12
+temp_vals
+[[11, 3.328291941125193], [13, 3.576189416783164], [7, 2.949536051239392], [12, 3.3282544984880875]]
+Some temp_vals +ve
+Agent ustr position after update: 13
+Prey position before update: 31
+Prey possible_next: [30, 32, 26, 31]
+Prey position after update: 31
+Pred position before update: 42
+Predator Position: 42
+Predators new position: 43
+Pred position after update: 43
+agents_comm_ustr_n_2.step_count: 7
+agent_ustr_pos: 13
+agent_2_pos: 6
+prey_pos: 31
+pred_pos: 43
+Calculating distance to pred(43) from agent(6)
+Calculating distance to prey(26) from agent(6)
+Agent 2 position before update: 6
+Inside condition 1 check
+Agent 2 position after update: 7
+Agent ustr position before update: 13
+temp_vals
+[[12, 3.3341721485298152], [14, 4.119421029793082], [9, 3.326927976677566], [13, 3.756697535284307]]
+Some temp_vals +ve
+Agent ustr position after update: 14
+Prey position before update: 31
+Prey possible_next: [30, 32, 26, 31]
+Prey position after update: 30
+Pred position before update: 43
+Predator Position: 43
+Predators new position: 47
+Pred position after update: 47
+agents_comm_ustr_n_2.step_count: 8
+agent_ustr_pos: 14
+agent_2_pos: 7
+prey_pos: 30
+pred_pos: 47
+Calculating distance to pred(47) from agent(7)
+Calculating distance to prey(34) from agent(7)
+Agent 2 position before update: 7
+Inside condition 1 check
+Agent 2 position after update: 12
+Agent ustr position before update: 14
+temp_vals
+[[13, 3.482536055485419], [15, 3.5041380526386146], [19, 4.3163700095258175], [14, 3.9187726443267925]]
+Some temp_vals +ve
+Agent ustr position after update: 19
+Prey position before update: 30
+Prey possible_next: [29, 31, 34, 30]
+Prey position after update: 29
+Pred position before update: 47
+Predator Position: 47
+Predators new position: 48
+Pred position after update: 48
+agents_comm_ustr_n_2.step_count: 9
+agent_ustr_pos: 19
+agent_2_pos: 12
+prey_pos: 29
+pred_pos: 48
+Calculating distance to pred(48) from agent(12)
+Calculating distance to prey(28) from agent(12)
+Agent 2 position before update: 12
+Inside condition 1 check
+Inside condition 2 check
+Agent 2 position after update: 13
+Agent ustr position before update: 19
+temp_vals
+[[18, 4.52686862401311], [20, 5.105276224918527], [14, 4.023144353640299], [19, 4.5363315538218965]]
+Some temp_vals +ve
+Agent ustr position after update: 20
+Prey position before update: 29
+Prey possible_next: [28, 30, 33, 29]
+Prey position after update: 30
+Pred position before update: 48
+Predator Position: 48
+Predators new position: 3
+Pred position after update: 3
+agents_comm_ustr_n_2.step_count: 10
+agent_ustr_pos: 20
+agent_2_pos: 13
+prey_pos: 30
+pred_pos: 3
+Calculating distance to pred(3) from agent(13)
+Calculating distance to prey(29) from agent(13)
+Agent 2 position before update: 13
+Calculating distance to pred(3) from neighbour(12) of current(13)
+Calculating distance to pred(3) from neighbour(14) of current(13)
+Calculating distance to pred(3) from neighbour(9) of current(13)
+Inside condition 1 check for even
+Agent 2 position after update: 14
+Agent ustr position before update: 20
+temp_vals
+[[19, 4.242835419180428], [21, 4.291935199054451], [24, 5.383514797077208], [20, 4.7577807708239614]]
+Some temp_vals +ve
+Agent ustr position after update: 24
+Prey position before update: 30
+Prey possible_next: [29, 31, 34, 30]
+Prey position after update: 29
+Pred position before update: 3
+Predator Position: 3
+Predators new position: 48
+Pred position after update: 48
+agents_comm_ustr_n_2.step_count: 11
+agent_ustr_pos: 24
+agent_2_pos: 14
+prey_pos: 29
+pred_pos: 48
+Calculating distance to pred(48) from agent(14)
+Calculating distance to prey(33) from agent(14)
+Agent 2 position before update: 14
+Inside condition 1 check
+Agent 2 position after update: 19
+Agent ustr position before update: 24
+temp_vals
+[[23, 5.105276224918527], [25, 6.428754719120608], [20, 5.105276224918527], [24, 5.686180220379666]]
+Some temp_vals +ve
+Agent ustr position after update: 25
+Prey position before update: 29
+Prey possible_next: [28, 30, 33, 29]
+Prey position after update: 28
+Pred position before update: 48
+Predator Position: 48
+Predators new position: 3
+Pred position after update: 3
+agents_comm_ustr_n_2.step_count: 12
+agent_ustr_pos: 25
+agent_2_pos: 19
+prey_pos: 28
+pred_pos: 3
+Calculating distance to pred(3) from agent(19)
+Calculating distance to prey(28) from agent(19)
+Agent 2 position before update: 19
+Inside condition 1 check
+Agent 2 position after update: 20
+Agent ustr position before update: 25
+temp_vals
+[[24, 6.4329228173018755], [26, 6.859836159323245], [28, 8.7725509758395], [25, 6.983491426647007]]
+Some temp_vals +ve
+Agent ustr position after update: 28
+agent_ustr_pos: 28
+agent_2_pos: 20
+prey_pos: 28
+pred_pos: 3
+Some caught the Prey! Some agent won!
+agents_comm_ustr_n_2.step_count: 1
+agent_ustr_pos: 20
+agent_2_pos: 20
+prey_pos: 43
+pred_pos: 24
+Calculating distance to pred(24) from agent(20)
+Calculating distance to prey(44) from agent(20)
+Agent 2 position before update: 20
+Calculating distance to pred(24) from neighbour(19) of current(20)
+Calculating distance to pred(24) from neighbour(21) of current(20)
+Calculating distance to pred(24) from neighbour(24) of current(20)
+Inside condition 1 check for even
+Agent 2 position after update: 19
+Agent ustr position before update: 20
+temp_vals
+[[19, 2.5473604860840227], [21, 2.311461657418983], [24, 1.2619826205078097], [20, 1.1900516778888353]]
+Some temp_vals +ve
+Agent ustr position after update: 19
+Prey position before update: 43
+Prey possible_next: [42, 44, 47, 43]
+Prey position after update: 42
+Pred position before update: 24
+Predator Position: 24
+Predators new position: 25
+Pred position after update: 25
+agents_comm_ustr_n_2.step_count: 2
+agent_ustr_pos: 19
+agent_2_pos: 19
+prey_pos: 42
+pred_pos: 25
+Calculating distance to pred(25) from agent(19)
+Calculating distance to prey(42) from agent(19)
+Agent 2 position before update: 19
+Calculating distance to pred(25) from neighbour(18) of current(19)
+Calculating distance to pred(25) from neighbour(20) of current(19)
+Calculating distance to pred(25) from neighbour(14) of current(19)
+Inside condition 1 check for even
+Agent 2 position after update: 14
+Agent ustr position before update: 19
+temp_vals
+[[18, 2.176714393809863], [20, 2.111263525412648], [14, 2.717046669238806], [19, 2.4061252006179132]]
+Some temp_vals +ve
+Agent ustr position after update: 14
+Prey position before update: 42
+Prey possible_next: [41, 43, 39, 42]
+Prey position after update: 42
+Pred position before update: 25
+Predator Position: 25
+Predators new position: 24
+Pred position after update: 24
+agents_comm_ustr_n_2.step_count: 3
+agent_ustr_pos: 14
+agent_2_pos: 14
+prey_pos: 42
+pred_pos: 24
+Calculating distance to pred(24) from agent(14)
+Calculating distance to prey(39) from agent(14)
+Agent 2 position before update: 14
+Calculating distance to pred(24) from neighbour(13) of current(14)
+Calculating distance to pred(24) from neighbour(15) of current(14)
+Calculating distance to pred(24) from neighbour(19) of current(14)
+Inside condition 1 check for even
+Agent 2 position after update: 13
+Agent ustr position before update: 14
+temp_vals
+[[13, 3.005716143649868], [15, 2.639584657485794], [19, 2.305305000434336], [14, 2.6401153176852863]]
+Some temp_vals +ve
+Agent ustr position after update: 13
+Prey position before update: 42
+Prey possible_next: [41, 43, 39, 42]
+Prey position after update: 43
+Pred position before update: 24
+Predator Position: 24
+Predators new position: 23
+Pred position after update: 23
+agents_comm_ustr_n_2.step_count: 4
+agent_ustr_pos: 13
+agent_2_pos: 13
+prey_pos: 43
+pred_pos: 23
+Calculating distance to pred(23) from agent(13)
+Calculating distance to prey(47) from agent(13)
+Agent 2 position before update: 13
+Calculating distance to pred(23) from neighbour(12) of current(13)
+Calculating distance to pred(23) from neighbour(14) of current(13)
+Calculating distance to pred(23) from neighbour(9) of current(13)
+Inside condition 1 check for even
+Agent 2 position after update: 9
+Agent ustr position before update: 13
+temp_vals
+[[12, 3.4559164743107367], [14, 2.9211999805279905], [9, 3.8297629280806103], [13, 3.335879644774081]]
+Some temp_vals +ve
+Agent ustr position after update: 9
+Prey position before update: 43
+Prey possible_next: [42, 44, 47, 43]
+Prey position after update: 44
+Pred position before update: 23
+Predator Position: 23
+Predators new position: 18
+Pred position after update: 18
+agents_comm_ustr_n_2.step_count: 5
+agent_ustr_pos: 9
+agent_2_pos: 9
+prey_pos: 44
+pred_pos: 18
+Calculating distance to pred(18) from agent(9)
+Calculating distance to prey(45) from agent(9)
+Agent 2 position before update: 9
+Calculating distance to pred(18) from neighbour(8) of current(9)
+Calculating distance to pred(18) from neighbour(10) of current(9)
+Calculating distance to pred(18) from neighbour(13) of current(9)
+Inside condition 1 check for even
+Agent 2 position after update: 10
+Agent ustr position before update: 9
+temp_vals
+[[8, 4.273417341046909], [10, 3.7686227002707384], [13, 3.277825059912006], [9, 3.7346337384681068]]
+Some temp_vals +ve
+Agent ustr position after update: 8
+Prey position before update: 44
+Prey possible_next: [43, 45, 46, 44]
+Prey position after update: 43
+Pred position before update: 18
+Predator Position: 18
+Predators new position: 19
+Pred position after update: 19
+agents_comm_ustr_n_2.step_count: 6
+agent_ustr_pos: 8
+agent_2_pos: 10
+prey_pos: 43
+pred_pos: 19
+Calculating distance to pred(19) from agent(10)
+Calculating distance to prey(47) from agent(10)
+Agent 2 position before update: 10
+Calculating distance to pred(19) from neighbour(9) of current(10)
+Calculating distance to pred(19) from neighbour(11) of current(10)
+Calculating distance to pred(19) from neighbour(5) of current(10)
+Inside condition 1 check for even
+Agent 2 position after update: 5
+Agent ustr position before update: 8
+temp_vals
+[[7, 3.6191384688102786], [9, 3.4918543954479406], [4, 4.662063580951446], [8, 4.010315283870474]]
+Some temp_vals +ve
+Agent ustr position after update: 4
+Prey position before update: 43
+Prey possible_next: [42, 44, 47, 43]
+Prey position after update: 47
+Pred position before update: 19
+Predator Position: 19
+Predators new position: 14
+Pred position after update: 14
+agents_comm_ustr_n_2.step_count: 7
+agent_ustr_pos: 4
+agent_2_pos: 5
+prey_pos: 47
+pred_pos: 14
+Calculating distance to pred(14) from agent(5)
+Calculating distance to prey(47) from agent(5)
+Agent 2 position before update: 5
+Calculating distance to pred(14) from neighbour(4) of current(5)
+Calculating distance to pred(14) from neighbour(6) of current(5)
+Calculating distance to pred(14) from neighbour(10) of current(5)
+Inside condition 1 check for even
+Inside condition 1_1 check for even
+Agent 2 position after update: 4
+Agent ustr position before update: 4
+temp_vals
+[[3, 5.5936269471571425], [5, 4.006953339824062], [8, 4.031639737161531], [4, 4.646485539295523]]
+Some temp_vals +ve
+Agent ustr position after update: 3
+Prey position before update: 47
+Prey possible_next: [46, 48, 43, 47]
+Prey position after update: 47
+Pred position before update: 14
+Predator Position: 14
+Predators new position: 13
+Pred position after update: 13
+agents_comm_ustr_n_2.step_count: 8
+agent_ustr_pos: 3
+agent_2_pos: 4
+prey_pos: 47
+pred_pos: 13
+Calculating distance to pred(13) from agent(4)
+Calculating distance to prey(43) from agent(4)
+Agent 2 position before update: 4
+Calculating distance to pred(13) from neighbour(3) of current(4)
+Calculating distance to pred(13) from neighbour(5) of current(4)
+Calculating distance to pred(13) from neighbour(8) of current(4)
+Inside condition 1 check for even
+Agent 2 position after update: 3
+Agent ustr position before update: 3
+temp_vals
+[[2, 4.392751672615811], [4, 4.306071262451612], [48, 5.9061817731814745], [3, 5.2481139748928305]]
+Some temp_vals +ve
+Agent ustr position after update: 48
+Prey position before update: 47
+Prey possible_next: [46, 48, 43, 47]
+Prey position after update: 47
+Pred position before update: 13
+Predator Position: 13
+Predators new position: 14
+Pred position after update: 14
+agents_comm_ustr_n_2.step_count: 9
+agent_ustr_pos: 48
+agent_2_pos: 3
+prey_pos: 47
+pred_pos: 14
+Calculating distance to pred(14) from agent(3)
+Calculating distance to prey(46) from agent(3)
+Agent 2 position before update: 3
+Inside condition 1 check
+Agent 2 position after update: 48
+Agent ustr position before update: 48
+temp_vals
+[[47, 8.004476524434143], [49, 5.6703286067546905], [3, 5.5936269471571425], [48, 6.248693031754375]]
+Some temp_vals +ve
+Agent ustr position after update: 47
+agent_ustr_pos: 47
+agent_2_pos: 48
+prey_pos: 47
+pred_pos: 14
+Some caught the Prey! Some agent won!
+agents_comm_ustr_n_2.step_count: 1
+agent_ustr_pos: 10
+agent_2_pos: 10
+prey_pos: 25
+pred_pos: 44
+Calculating distance to pred(44) from agent(10)
+Calculating distance to prey(24) from agent(10)
+Agent 2 position before update: 10
+Inside condition 1 check
+Agent 2 position after update: 11
+Agent ustr position before update: 10
+temp_vals
+[[9, 3.94100317462852], [11, 3.955985302527197], [5, 3.1435091823394865], [10, 3.5177473009901385]]
+Some temp_vals +ve
+Agent ustr position after update: 11
+Prey position before update: 25
+Prey possible_next: [24, 26, 28, 25]
+Prey position after update: 24
+Pred position before update: 44
+Predator Position: 44
+Predators new position: 43
+Pred position after update: 43
+agents_comm_ustr_n_2.step_count: 2
+agent_ustr_pos: 11
+agent_2_pos: 11
+prey_pos: 24
+pred_pos: 43
+Calculating distance to pred(43) from agent(11)
+Calculating distance to prey(23) from agent(11)
+Agent 2 position before update: 11
+Inside condition 1 check
+Agent 2 position after update: 15
+Agent ustr position before update: 11
+temp_vals
+[[10, 4.105629234056475], [12, 4.408986395659838], [15, 5.108322317697582], [11, 4.588584419689396]]
+Some temp_vals +ve
+Agent ustr position after update: 15
+Prey position before update: 24
+Prey possible_next: [23, 25, 20, 24]
+Prey position after update: 20
+Pred position before update: 43
+Predator Position: 43
+Predators new position: 47
+Pred position after update: 47
+agents_comm_ustr_n_2.step_count: 3
+agent_ustr_pos: 15
+agent_2_pos: 15
+prey_pos: 20
+pred_pos: 47
+Calculating distance to pred(47) from agent(15)
+Calculating distance to prey(20) from agent(15)
+Agent 2 position before update: 15
+Inside condition 1 check
+Agent 2 position after update: 16
+Agent ustr position before update: 15
+temp_vals
+[[14, 6.109650326627284], [16, 6.104838964840002], [11, 4.953993314193424], [15, 5.507784110925537]]
+Some temp_vals +ve
+Agent ustr position after update: 14
+Prey position before update: 20
+Prey possible_next: [19, 21, 24, 20]
+Prey position after update: 21
+Pred position before update: 47
+Predator Position: 47
+Predators new position: 46
+Pred position after update: 46
+agents_comm_ustr_n_2.step_count: 4
+agent_ustr_pos: 14
+agent_2_pos: 16
+prey_pos: 21
+pred_pos: 46
+Calculating distance to pred(46) from agent(16)
+Calculating distance to prey(22) from agent(16)
+Agent 2 position before update: 16
+Inside condition 1 check
+Agent 2 position after update: 17
+Agent ustr position before update: 14
+temp_vals
+[[13, 5.248265844547247], [15, 6.345650162925346], [19, 6.370058482434473], [14, 5.783989763863919]]
+Some temp_vals +ve
+Agent ustr position after update: 19
+Prey position before update: 21
+Prey possible_next: [20, 22, 16, 21]
+Prey position after update: 21
+Pred position before update: 46
+Predator Position: 46
+Predators new position: 45
+Pred position after update: 45
+agents_comm_ustr_n_2.step_count: 5
+agent_ustr_pos: 19
+agent_2_pos: 17
+prey_pos: 21
+pred_pos: 45
+Calculating distance to pred(45) from agent(17)
+Calculating distance to prey(20) from agent(17)
+Agent 2 position before update: 17
+Inside condition 1 check
+Agent 2 position after update: 22
+Agent ustr position before update: 19
+temp_vals
+[[18, 6.03634910071107], [20, 6.871429541891887], [14, 5.7476097252144855], [19, 6.333685584569768]]
+Some temp_vals +ve
+Agent ustr position after update: 20
+Prey position before update: 21
+Prey possible_next: [20, 22, 16, 21]
+Prey position after update: 16
+Pred position before update: 45
+Predator Position: 45
+Predators new position: 0
+Pred position after update: 0
+agents_comm_ustr_n_2.step_count: 6
+agent_ustr_pos: 20
+agent_2_pos: 22
+prey_pos: 16
+pred_pos: 0
+Calculating distance to pred(0) from agent(22)
+Calculating distance to prey(21) from agent(22)
+Agent 2 position before update: 22
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Inside condition 5 check
+Inside condition 6 check
+Agent 2 position after update: 23
+Agent ustr position before update: 20
+temp_vals
+[[19, 5.56249463562442], [21, 6.506931627168061], [24, 5.291560377263154], [20, 5.9520952471392095]]
+Some temp_vals +ve
+Agent ustr position after update: 21
+Prey position before update: 16
+Prey possible_next: [15, 17, 21, 16]
+Prey position after update: 17
+Pred position before update: 0
+Predator Position: 0
+Predators new position: 1
+Pred position after update: 1
+agents_comm_ustr_n_2.step_count: 7
+agent_ustr_pos: 21
+agent_2_pos: 23
+prey_pos: 17
+pred_pos: 1
+Calculating distance to pred(1) from agent(23)
+Calculating distance to prey(17) from agent(23)
+Agent 2 position before update: 23
+Inside condition 1 check
+Inside condition 2 check
+Agent 2 position after update: 22
+Agent ustr position before update: 21
+temp_vals
+[[20, 5.593456695233996], [22, 6.430049328724484], [16, 6.426842535737707], [21, 6.404902159504588]]
+Some temp_vals +ve
+Agent ustr position after update: 22
+Prey position before update: 17
+Prey possible_next: [16, 18, 22, 17]
+Prey position after update: 18
+Pred position before update: 1
+Predator Position: 1
+Predators new position: 49
+Pred position after update: 49
+agents_comm_ustr_n_2.step_count: 8
+agent_ustr_pos: 22
+agent_2_pos: 22
+prey_pos: 18
+pred_pos: 49
+Calculating distance to pred(49) from agent(22)
+Calculating distance to prey(23) from agent(22)
+Agent 2 position before update: 22
+Inside condition 1 check
+Inside condition 2 check
+Agent 2 position after update: 23
+Agent ustr position before update: 22
+temp_vals
+[[21, 5.798514998427803], [23, 6.633398136590842], [17, 6.632527174729043], [22, 6.512131495779625]]
+Some temp_vals +ve
+Agent ustr position after update: 23
+Prey position before update: 18
+Prey possible_next: [17, 19, 23, 18]
+Prey position after update: 18
+Pred position before update: 49
+Predator Position: 49
+Predators new position: 48
+Pred position after update: 48
+agents_comm_ustr_n_2.step_count: 9
+agent_ustr_pos: 23
+agent_2_pos: 23
+prey_pos: 18
+pred_pos: 48
+Calculating distance to pred(48) from agent(23)
+Calculating distance to prey(17) from agent(23)
+Agent 2 position before update: 23
+Inside condition 1 check
+Inside condition 2 check
+Agent 2 position after update: 22
+Agent ustr position before update: 23
+temp_vals
+[[22, 6.359179533858817], [24, 6.051049611280988], [18, 8.265427390196983], [23, 6.4607834390889005]]
+Some temp_vals +ve
+Agent ustr position after update: 18
+agent_ustr_pos: 18
+agent_2_pos: 22
+prey_pos: 18
+pred_pos: 48
+Some caught the Prey! Some agent won!
+agents_comm_ustr_n_2.step_count: 1
+agent_ustr_pos: 39
+agent_2_pos: 39
+prey_pos: 22
+pred_pos: 10
+Calculating distance to pred(10) from agent(39)
+Calculating distance to prey(23) from agent(39)
+Agent 2 position before update: 39
+Inside condition 1 check
+Agent 2 position after update: 38
+Agent ustr position before update: 39
+temp_vals
+[[38, 2.73023624060414], [40, 2.5087363212038265], [42, 2.3413814490181504], [39, 2.5157130206741862]]
+Some temp_vals +ve
+Agent ustr position after update: 38
+Prey position before update: 22
+Prey possible_next: [21, 23, 17, 22]
+Prey position after update: 22
+Pred position before update: 10
+Predator Position: 10
+Predators new position: 5
+Pred position after update: 5
+agents_comm_ustr_n_2.step_count: 2
+agent_ustr_pos: 38
+agent_2_pos: 38
+prey_pos: 22
+pred_pos: 5
+Calculating distance to pred(5) from agent(38)
+Calculating distance to prey(22) from agent(38)
+Agent 2 position before update: 38
+Inside condition 1 check
+Agent 2 position after update: 35
+Agent ustr position before update: 38
+temp_vals
+[[37, 2.6673005520116786], [39, 2.6673005520258957], [35, 3.180184546885369], [38, 2.8699047862474956]]
+Some temp_vals +ve
+Agent ustr position after update: 35
+Prey position before update: 22
+Prey possible_next: [21, 23, 17, 22]
+Prey position after update: 17
+Pred position before update: 5
+Predator Position: 5
+Predators new position: 4
+Pred position after update: 4
+agents_comm_ustr_n_2.step_count: 3
+agent_ustr_pos: 35
+agent_2_pos: 35
+prey_pos: 17
+pred_pos: 4
+Calculating distance to pred(4) from agent(35)
+Calculating distance to prey(16) from agent(35)
+Agent 2 position before update: 35
+Inside condition 1 check
+Agent 2 position after update: 34
+Agent ustr position before update: 35
+temp_vals
+[[34, 3.507539010902002], [36, 2.916884156675175], [38, 2.916884156675175], [35, 3.1236296631429514]]
+Some temp_vals +ve
+Agent ustr position after update: 34
+Prey position before update: 17
+Prey possible_next: [16, 18, 22, 17]
+Prey position after update: 22
+Pred position before update: 4
+Predator Position: 4
+Predators new position: 3
+Pred position after update: 3
+agents_comm_ustr_n_2.step_count: 4
+agent_ustr_pos: 34
+agent_2_pos: 34
+prey_pos: 22
+pred_pos: 3
+Calculating distance to pred(3) from agent(34)
+Calculating distance to prey(21) from agent(34)
+Agent 2 position before update: 34
+Inside condition 1 check
+Agent 2 position after update: 33
+Agent ustr position before update: 34
+temp_vals
+[[33, 4.213189147355189], [35, 3.417935611915839], [30, 4.213189147355189], [34, 3.7285218698436937]]
+Some temp_vals +ve
+Agent ustr position after update: 33
+Prey position before update: 22
+Prey possible_next: [21, 23, 17, 22]
+Prey position after update: 17
+Pred position before update: 3
+Predator Position: 3
+Predators new position: 48
+Pred position after update: 48
+agents_comm_ustr_n_2.step_count: 5
+agent_ustr_pos: 33
+agent_2_pos: 33
+prey_pos: 17
+pred_pos: 48
+Calculating distance to pred(48) from agent(33)
+Calculating distance to prey(17) from agent(33)
+Agent 2 position before update: 33
+Inside condition 1 check
+Agent 2 position after update: 29
+Agent ustr position before update: 33
+temp_vals
+[[32, 4.092418209624222], [34, 3.7213487052099388], [29, 4.600551710506094], [33, 4.092418209624222]]
+Some temp_vals +ve
+Agent ustr position after update: 29
+Prey position before update: 17
+Prey possible_next: [16, 18, 22, 17]
+Prey position after update: 18
+Pred position before update: 48
+Predator Position: 48
+Predators new position: 47
+Pred position after update: 47
+agents_comm_ustr_n_2.step_count: 6
+agent_ustr_pos: 29
+agent_2_pos: 29
+prey_pos: 18
+pred_pos: 47
+Calculating distance to pred(47) from agent(29)
+Calculating distance to prey(19) from agent(29)
+Agent 2 position before update: 29
+Inside condition 1 check
+Agent 2 position after update: 28
+Agent ustr position before update: 29
+temp_vals
+[[28, 5.3676252725257765], [30, 4.2476467672181615], [33, 4.2476467672181615], [29, 4.736612340046506]]
+Some temp_vals +ve
+Agent ustr position after update: 28
+Prey position before update: 18
+Prey possible_next: [17, 19, 23, 18]
+Prey position after update: 17
+Pred position before update: 47
+Predator Position: 47
+Predators new position: 46
+Pred position after update: 46
+agents_comm_ustr_n_2.step_count: 7
+agent_ustr_pos: 28
+agent_2_pos: 28
+prey_pos: 17
+pred_pos: 46
+Calculating distance to pred(46) from agent(28)
+Calculating distance to prey(17) from agent(28)
+Agent 2 position before update: 28
+Inside condition 1 check
+Agent 2 position after update: 25
+Agent ustr position before update: 28
+temp_vals
+[[27, 4.672176803236514], [29, 4.672176803236514], [25, 5.713754098034025], [28, 5.101041153918588]]
+Some temp_vals +ve
+Agent ustr position after update: 25
+Prey position before update: 17
+Prey possible_next: [16, 18, 22, 17]
+Prey position after update: 18
+Pred position before update: 46
+Predator Position: 46
+Predators new position: 47
+Pred position after update: 47
+agents_comm_ustr_n_2.step_count: 8
+agent_ustr_pos: 25
+agent_2_pos: 25
+prey_pos: 18
+pred_pos: 47
+Calculating distance to pred(47) from agent(25)
+Calculating distance to prey(18) from agent(25)
+Agent 2 position before update: 25
+Inside condition 1 check
+Inside condition 2 check
+Agent 2 position after update: 24
+Agent ustr position before update: 25
+temp_vals
+[[24, 6.682924971675833], [26, 5.3676252725257765], [28, 5.3676252725257765], [25, 5.860107814476742]]
+Some temp_vals +ve
+Agent ustr position after update: 24
+Prey position before update: 18
+Prey possible_next: [17, 19, 23, 18]
+Prey position after update: 17
+Pred position before update: 47
+Predator Position: 47
+Predators new position: 48
+Pred position after update: 48
+agents_comm_ustr_n_2.step_count: 9
+agent_ustr_pos: 24
+agent_2_pos: 24
+prey_pos: 17
+pred_pos: 48
+Calculating distance to pred(48) from agent(24)
+Calculating distance to prey(17) from agent(24)
+Agent 2 position before update: 24
+Inside condition 1 check
+Inside condition 2 check
+Agent 2 position after update: 23
+Agent ustr position before update: 24
+temp_vals
+[[23, 6.421381940495303], [25, 5.024252763874185], [20, 5.6231184173543465], [24, 5.528473649363151]]
+Some temp_vals +ve
+Agent ustr position after update: 23
+Prey position before update: 17
+Prey possible_next: [16, 18, 22, 17]
+Prey position after update: 18
+Pred position before update: 48
+Predator Position: 48
+Predators new position: 47
+Pred position after update: 47
+agents_comm_ustr_n_2.step_count: 10
+agent_ustr_pos: 23
+agent_2_pos: 23
+prey_pos: 18
+pred_pos: 47
+Calculating distance to pred(47) from agent(23)
+Calculating distance to prey(18) from agent(23)
+Agent 2 position before update: 23
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Inside condition 5 check
+Inside condition 6 check
+Agent 2 position after update: 24
+Agent ustr position before update: 23
+temp_vals
+[[22, 6.603525352439623], [24, 6.332874360480985], [18, 8.53791799288743], [23, 6.745975292745258]]
+Some temp_vals +ve
+Agent ustr position after update: 18
+agent_ustr_pos: 18
+agent_2_pos: 24
+prey_pos: 18
+pred_pos: 47
+Some caught the Prey! Some agent won!
+agents_comm_ustr_n_2.step_count: 1
+agent_ustr_pos: 2
+agent_2_pos: 2
+prey_pos: 5
+pred_pos: 21
+Calculating distance to pred(21) from agent(2)
+Calculating distance to prey(5) from agent(2)
+Agent 2 position before update: 2
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Agent 2 position after update: 3
+Agent ustr position before update: 2
+temp_vals
+[[1, 4.2339843012583245], [3, 4.978553175652586], [6, 5.4325297769003456], [2, 4.958170530050623]]
+Some temp_vals +ve
+Agent ustr position after update: 6
+Prey position before update: 5
+Prey possible_next: [4, 6, 10, 5]
+Prey position after update: 6
+agent_ustr_pos: 6
+agent_2_pos: 3
+prey_pos: 6
+pred_pos: 21
+Some caught the Prey! Some agent won!
+agents_comm_ustr_n_2.step_count: 1
+agent_ustr_pos: 17
+agent_2_pos: 17
+prey_pos: 10
+pred_pos: 8
+Calculating distance to pred(8) from agent(17)
+Calculating distance to prey(9) from agent(17)
+Agent 2 position before update: 17
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Inside condition 5 check
+Agent 2 position after update: 22
+Agent ustr position before update: 17
+temp_vals
+[[16, 3.178969882362578], [18, 2.7592803129660113], [22, 2.3902308963822763], [17, 2.8937182430941926]]
+Some temp_vals +ve
+Agent ustr position after update: 16
+Prey position before update: 10
+Prey possible_next: [9, 11, 5, 10]
+Prey position after update: 10
+Pred position before update: 8
+Predator Position: 8
+Predators new position: 7
+Pred position after update: 7
+agents_comm_ustr_n_2.step_count: 2
+agent_ustr_pos: 16
+agent_2_pos: 22
+prey_pos: 10
+pred_pos: 7
+Calculating distance to pred(7) from agent(22)
+Calculating distance to prey(10) from agent(22)
+Agent 2 position before update: 22
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Inside condition 5 check
+Inside condition 6 check
+Agent 2 position after update: 23
+Agent ustr position before update: 16
+temp_vals
+[[15, 3.44815214041556], [17, 2.6022695323108156], [21, 2.6022695323108156], [16, 3.095874293728978]]
+Some temp_vals +ve
+Agent ustr position after update: 15
+Prey position before update: 10
+Prey possible_next: [9, 11, 5, 10]
+Prey position after update: 5
+Pred position before update: 7
+Predator Position: 7
+Predators new position: 6
+Pred position after update: 6
+agents_comm_ustr_n_2.step_count: 3
+agent_ustr_pos: 15
+agent_2_pos: 23
+prey_pos: 5
+pred_pos: 6
+Calculating distance to pred(6) from agent(23)
+Calculating distance to prey(6) from agent(23)
+Agent 2 position before update: 23
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Agent 2 position after update: 24
+Agent ustr position before update: 15
+temp_vals
+[[14, 3.143035380887543], [16, 2.8837898461688543], [11, 3.5219935485887186], [15, 3.0920517383921657]]
+Some temp_vals +ve
+Agent ustr position after update: 11
+Prey position before update: 5
+Prey possible_next: [4, 6, 10, 5]
+Prey position after update: 4
+Pred position before update: 6
+Predator Position: 6
+Predators new position: 5
+Pred position after update: 5
+agents_comm_ustr_n_2.step_count: 4
+agent_ustr_pos: 11
+agent_2_pos: 24
+prey_pos: 4
+pred_pos: 5
+Calculating distance to pred(5) from agent(24)
+Calculating distance to prey(8) from agent(24)
+Agent 2 position before update: 24
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Agent 2 position after update: 23
+Agent ustr position before update: 11
+temp_vals
+[[10, 2.0012368132237155], [12, 3.6186222864372257], [15, 3.038878168424474], [11, 3.214711317417858]]
+Some temp_vals +ve
+Agent ustr position after update: 12
+Prey position before update: 4
+Prey possible_next: [3, 5, 8, 4]
+Prey position after update: 5
+Pred position before update: 5
+Predator Position: 5
+Predators new position: 10
+Pred position after update: 10
+agents_comm_ustr_n_2.step_count: 5
+agent_ustr_pos: 12
+agent_2_pos: 23
+prey_pos: 5
+pred_pos: 10
+Calculating distance to pred(10) from agent(23)
+Calculating distance to prey(10) from agent(23)
+Agent 2 position before update: 23
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Agent 2 position after update: 24
+Agent ustr position before update: 12
+temp_vals
+[[11, 1.988972968456122], [13, 3.5966680817533545], [7, 4.109823324447893], [12, 3.5689493984377734]]
+Some temp_vals +ve
+Agent ustr position after update: 7
+Prey position before update: 5
+Prey possible_next: [4, 6, 10, 5]
+Prey position after update: 5
+Pred position before update: 10
+Predator Position: 10
+Predators new position: 9
+Pred position after update: 9
+agents_comm_ustr_n_2.step_count: 6
+agent_ustr_pos: 7
+agent_2_pos: 24
+prey_pos: 5
+pred_pos: 9
+Calculating distance to pred(9) from agent(24)
+Calculating distance to prey(5) from agent(24)
+Agent 2 position before update: 24
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Agent 2 position after update: 23
+Agent ustr position before update: 7
+temp_vals
+[[6, 4.276487900758072], [8, 2.176779770175515], [12, 3.4900950922926612], [7, 3.8690350632759247]]
+Some temp_vals +ve
+Agent ustr position after update: 6
+Prey position before update: 5
+Prey possible_next: [4, 6, 10, 5]
+Prey position after update: 4
+Pred position before update: 9
+Predator Position: 9
+Predators new position: 8
+Pred position after update: 8
+agents_comm_ustr_n_2.step_count: 7
+agent_ustr_pos: 6
+agent_2_pos: 23
+prey_pos: 4
+pred_pos: 8
+Calculating distance to pred(8) from agent(23)
+Calculating distance to prey(8) from agent(23)
+Agent 2 position before update: 23
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Agent 2 position after update: 24
+Agent ustr position before update: 6
+temp_vals
+[[5, 4.2058056186956], [7, 2.0457964188003186], [2, 3.9643021293280025], [6, 3.810223041940147]]
+Some temp_vals +ve
+Agent ustr position after update: 5
+Prey position before update: 4
+Prey possible_next: [3, 5, 8, 4]
+Prey position after update: 3
+Pred position before update: 8
+Predator Position: 8
+Predators new position: 9
+Pred position after update: 9
+agents_comm_ustr_n_2.step_count: 8
+agent_ustr_pos: 5
+agent_2_pos: 24
+prey_pos: 3
+pred_pos: 9
+Calculating distance to pred(9) from agent(24)
+Calculating distance to prey(2) from agent(24)
+Agent 2 position before update: 24
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Agent 2 position after update: 23
+Agent ustr position before update: 5
+temp_vals
+[[4, 4.589633390325288], [6, 4.3378253683307175], [10, 1.9149660038211296], [5, 4.009787347916948]]
+Some temp_vals +ve
+Agent ustr position after update: 4
+Prey position before update: 3
+Prey possible_next: [2, 4, 48, 3]
+Prey position after update: 2
+Pred position before update: 9
+Predator Position: 9
+Predators new position: 13
+Pred position after update: 13
+agents_comm_ustr_n_2.step_count: 9
+agent_ustr_pos: 4
+agent_2_pos: 23
+prey_pos: 2
+pred_pos: 13
+Calculating distance to pred(13) from agent(23)
+Calculating distance to prey(2) from agent(23)
+Agent 2 position before update: 23
+Calculating distance to pred(13) from neighbour(22) of current(23)
+Calculating distance to pred(13) from neighbour(24) of current(23)
+Calculating distance to pred(13) from neighbour(18) of current(23)
+Inside condition 1 check for even
+Inside condition 1_1 check for even
+Inside condition 1_2 check for even
+Inside condition 2 check
+Agent 2 position after update: 22
+Agent ustr position before update: 4
+temp_vals
+[[3, 4.986729259867156], [5, 4.539761233401705], [8, 3.7583257144183775], [4, 4.483930706931084]]
+Some temp_vals +ve
+Agent ustr position after update: 3
+Prey position before update: 2
+Prey possible_next: [1, 3, 6, 2]
+Prey position after update: 2
+Pred position before update: 13
+Predator Position: 13
+Predators new position: 9
+Pred position after update: 9
+agents_comm_ustr_n_2.step_count: 10
+agent_ustr_pos: 3
+agent_2_pos: 22
+prey_pos: 2
+pred_pos: 9
+Calculating distance to pred(9) from agent(22)
+Calculating distance to prey(2) from agent(22)
+Agent 2 position before update: 22
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Inside condition 5 check
+Inside condition 6 check
+Inside condition 7
+Agent 2 position after update: 22
+Agent ustr position before update: 3
+temp_vals
+[[2, 6.374241826406393], [4, 4.061666453892272], [48, 4.240009064976574], [3, 4.640060642082609]]
+Some temp_vals +ve
+Agent ustr position after update: 2
+agent_ustr_pos: 2
+agent_2_pos: 22
+prey_pos: 2
+pred_pos: 9
+Some caught the Prey! Some agent won!
+agents_comm_ustr_n_2.step_count: 1
+agent_ustr_pos: 25
+agent_2_pos: 25
+prey_pos: 34
+pred_pos: 39
+Calculating distance to pred(39) from agent(25)
+Calculating distance to prey(34) from agent(25)
+Agent 2 position before update: 25
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Inside condition 5 check
+Agent 2 position after update: 24
+Agent ustr position before update: 25
+temp_vals
+[[24, 3.0821668771476274], [26, 3.564562351099195], [28, 3.734668665034386], [25, 3.41780007093407]]
+Some temp_vals +ve
+Agent ustr position after update: 28
+Prey position before update: 34
+Prey possible_next: [33, 35, 30, 34]
+Prey position after update: 33
+Pred position before update: 39
+Predator Position: 39
+Predators new position: 40
+Pred position after update: 40
+agents_comm_ustr_n_2.step_count: 2
+agent_ustr_pos: 28
+agent_2_pos: 24
+prey_pos: 33
+pred_pos: 40
+Calculating distance to pred(40) from agent(24)
+Calculating distance to prey(33) from agent(24)
+Agent 2 position before update: 24
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Inside condition 5 check
+Agent 2 position after update: 23
+Agent ustr position before update: 28
+temp_vals
+[[27, 4.57131942477579], [29, 4.987030561250261], [25, 4.046871674917153], [28, 4.650940713318287]]
+Some temp_vals +ve
+Agent ustr position after update: 29
+Prey position before update: 33
+Prey possible_next: [32, 34, 29, 33]
+Prey position after update: 32
+Pred position before update: 40
+Predator Position: 40
+Predators new position: 36
+Pred position after update: 36
+agents_comm_ustr_n_2.step_count: 3
+agent_ustr_pos: 29
+agent_2_pos: 23
+prey_pos: 32
+pred_pos: 36
+Calculating distance to pred(36) from agent(23)
+Calculating distance to prey(33) from agent(23)
+Agent 2 position before update: 23
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Inside condition 5 check
+Agent 2 position after update: 18
+Agent ustr position before update: 29
+temp_vals
+[[28, 4.568749634205066], [30, 4.549431148976776], [33, 4.8583200016783845], [29, 4.412330215354312]]
+Some temp_vals +ve
+Agent ustr position after update: 33
+Prey position before update: 32
+Prey possible_next: [31, 33, 27, 32]
+Prey position after update: 33
+agent_ustr_pos: 33
+agent_2_pos: 18
+prey_pos: 33
+pred_pos: 36
+Some caught the Prey! Some agent won!
+agents_comm_ustr_n_2.step_count: 1
+agent_ustr_pos: 25
+agent_2_pos: 25
+prey_pos: 34
+pred_pos: 49
+Calculating distance to pred(49) from agent(25)
+Calculating distance to prey(34) from agent(25)
+Agent 2 position before update: 25
+Inside condition 1 check
+Inside condition 2 check
+Agent 2 position after update: 28
+Agent ustr position before update: 25
+temp_vals
+[[24, 4.729211304989441], [26, 5.221489981437654], [28, 5.40431030815071], [25, 5.285319185580799]]
+Some temp_vals +ve
+Agent ustr position after update: 28
+Prey position before update: 34
+Prey possible_next: [33, 35, 30, 34]
+Prey position after update: 34
+Pred position before update: 49
+Predator Position: 49
+Predators new position: 48
+Pred position after update: 48
+agents_comm_ustr_n_2.step_count: 2
+agent_ustr_pos: 28
+agent_2_pos: 28
+prey_pos: 34
+pred_pos: 48
+Calculating distance to pred(48) from agent(28)
+Calculating distance to prey(30) from agent(28)
+Agent 2 position before update: 28
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Inside condition 5 check
+Inside condition 6 check
+Agent 2 position after update: 27
+Agent ustr position before update: 28
+temp_vals
+[[27, 5.013355677073762], [29, 6.195538224704686], [25, 4.67311731924926], [28, 5.207869020982566]]
+Some temp_vals +ve
+Agent ustr position after update: 29
+Prey position before update: 34
+Prey possible_next: [33, 35, 30, 34]
+Prey position after update: 34
+Pred position before update: 48
+Predator Position: 48
+Predators new position: 3
+Pred position after update: 3
+agents_comm_ustr_n_2.step_count: 3
+agent_ustr_pos: 29
+agent_2_pos: 27
+prey_pos: 34
+pred_pos: 3
+Calculating distance to pred(3) from agent(27)
+Calculating distance to prey(30) from agent(27)
+Agent 2 position before update: 27
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Inside condition 5 check
+Inside condition 6 check
+Inside condition 7
+Agent 2 position after update: 27
+Agent ustr position before update: 29
+temp_vals
+[[28, 5.476374312186102], [30, 6.605986707667076], [33, 6.6063315474960955], [29, 6.495281612056142]]
+Some temp_vals +ve
+Agent ustr position after update: 33
+Prey position before update: 34
+Prey possible_next: [33, 35, 30, 34]
+Prey position after update: 34
+Pred position before update: 3
+Predator Position: 3
+Predators new position: 2
+Pred position after update: 2
+agents_comm_ustr_n_2.step_count: 4
+agent_ustr_pos: 33
+agent_2_pos: 27
+prey_pos: 34
+pred_pos: 2
+Calculating distance to pred(2) from agent(27)
+Calculating distance to prey(33) from agent(27)
+Agent 2 position before update: 27
+Inside condition 1 check
+Inside condition 2 check
+Agent 2 position after update: 32
+Agent ustr position before update: 33
+temp_vals
+[[32, 6.265348102143197], [34, 8.613003617193021], [29, 6.672956177771126], [33, 6.811445587185154]]
+Some temp_vals +ve
+Agent ustr position after update: 34
+agent_ustr_pos: 34
+agent_2_pos: 32
+prey_pos: 34
+pred_pos: 2
+Some caught the Prey! Some agent won!
+agents_comm_ustr_n_2.step_count: 1
+agent_ustr_pos: 26
+agent_2_pos: 26
+prey_pos: 24
+pred_pos: 36
+Calculating distance to pred(36) from agent(26)
+Calculating distance to prey(24) from agent(26)
+Agent 2 position before update: 26
+Inside condition 1 check
+Agent 2 position after update: 25
+Agent ustr position before update: 26
+temp_vals
+[[25, 6.264640823138616], [27, 4.612408158489932], [31, 4.601377878872073], [26, 5.574838431517641]]
+Some temp_vals +ve
+Agent ustr position after update: 25
+Prey position before update: 24
+Prey possible_next: [23, 25, 20, 24]
+Prey position after update: 23
+Pred position before update: 36
+Predator Position: 36
+Predators new position: 35
+Pred position after update: 35
+agents_comm_ustr_n_2.step_count: 2
+agent_ustr_pos: 25
+agent_2_pos: 25
+prey_pos: 23
+pred_pos: 35
+Calculating distance to pred(35) from agent(25)
+Calculating distance to prey(24) from agent(25)
+Agent 2 position before update: 25
+Inside condition 1 check
+Agent 2 position after update: 24
+Agent ustr position before update: 25
+temp_vals
+[[24, 6.224166287606194], [26, 4.6992681198691795], [28, 4.714796100540246], [25, 5.629675065032088]]
+Some temp_vals +ve
+Agent ustr position after update: 24
+Prey position before update: 23
+Prey possible_next: [22, 24, 18, 23]
+Prey position after update: 23
+Pred position before update: 35
+Predator Position: 35
+Predators new position: 36
+Pred position after update: 36
+agents_comm_ustr_n_2.step_count: 3
+agent_ustr_pos: 24
+agent_2_pos: 24
+prey_pos: 23
+pred_pos: 36
+Calculating distance to pred(36) from agent(24)
+Calculating distance to prey(18) from agent(24)
+Agent 2 position before update: 24
+Inside condition 1 check
+Agent 2 position after update: 23
+Agent ustr position before update: 24
+temp_vals
+[[23, 8.36261021358376], [25, 5.949910980109607], [20, 6.138052472957952], [24, 6.546096390595139]]
+Some temp_vals +ve
+Agent ustr position after update: 23
+agent_ustr_pos: 23
+agent_2_pos: 23
+prey_pos: 23
+pred_pos: 36
+Some caught the Prey! Some agent won!
+agents_comm_ustr_n_2.step_count: 1
+agent_ustr_pos: 19
+agent_2_pos: 19
+prey_pos: 7
+pred_pos: 18
+Calculating distance to pred(18) from agent(19)
+Calculating distance to prey(8) from agent(19)
+Agent 2 position before update: 19
+Calculating distance to pred(18) from neighbour(18) of current(19)
+Calculating distance to pred(18) from neighbour(20) of current(19)
+Calculating distance to pred(18) from neighbour(14) of current(19)
+Inside condition 1 check for even
+Agent 2 position after update: 14
+Agent ustr position before update: 19
+temp_vals
+[[18, 1.9864307484136923], [20, 2.977109714368894], [14, 3.881322048661445], [19, 1.8850699711045809]]
+Some temp_vals +ve
+Agent ustr position after update: 14
+Prey position before update: 7
+Prey possible_next: [6, 8, 12, 7]
+Prey position after update: 7
+Pred position before update: 18
+Predator Position: 18
+Predators new position: 17
+Pred position after update: 17
+agents_comm_ustr_n_2.step_count: 2
+agent_ustr_pos: 14
+agent_2_pos: 14
+prey_pos: 7
+pred_pos: 17
+Calculating distance to pred(17) from agent(14)
+Calculating distance to prey(12) from agent(14)
+Agent 2 position before update: 14
+Calculating distance to pred(17) from neighbour(13) of current(14)
+Calculating distance to pred(17) from neighbour(15) of current(14)
+Calculating distance to pred(17) from neighbour(19) of current(14)
+Inside condition 1 check for even
+Agent 2 position after update: 13
+Agent ustr position before update: 14
+temp_vals
+[[13, 4.764622435820029], [15, 3.832885154999711], [19, 3.5019964974676085], [14, 4.123201642328305]]
+Some temp_vals +ve
+Agent ustr position after update: 13
+Prey position before update: 7
+Prey possible_next: [6, 8, 12, 7]
+Prey position after update: 7
+Pred position before update: 17
+Predator Position: 17
+Predators new position: 22
+Pred position after update: 22
+agents_comm_ustr_n_2.step_count: 3
+agent_ustr_pos: 13
+agent_2_pos: 13
+prey_pos: 7
+pred_pos: 22
+Calculating distance to pred(22) from agent(13)
+Calculating distance to prey(6) from agent(13)
+Agent 2 position before update: 13
+Inside condition 1 check
+Inside condition 2 check
+Agent 2 position after update: 12
+Agent ustr position before update: 13
+temp_vals
+[[12, 5.607467099199458], [14, 4.4028776121970985], [9, 5.251304945643844], [13, 5.209041592759314]]
+Some temp_vals +ve
+Agent ustr position after update: 12
+Prey position before update: 7
+Prey possible_next: [6, 8, 12, 7]
+Prey position after update: 8
+Pred position before update: 22
+Predator Position: 22
+Predators new position: 17
+Pred position after update: 17
+agents_comm_ustr_n_2.step_count: 4
+agent_ustr_pos: 12
+agent_2_pos: 12
+prey_pos: 8
+pred_pos: 17
+Calculating distance to pred(17) from agent(12)
+Calculating distance to prey(7) from agent(12)
+Agent 2 position before update: 12
+Calculating distance to pred(17) from neighbour(11) of current(12)
+Calculating distance to pred(17) from neighbour(13) of current(12)
+Calculating distance to pred(17) from neighbour(7) of current(12)
+Inside condition 1 check for even
+Agent 2 position after update: 7
+Agent ustr position before update: 12
+temp_vals
+[[11, 4.412674410370309], [13, 4.939247458845406], [7, 5.481767624567004], [12, 4.889756598547475]]
+Some temp_vals +ve
+Agent ustr position after update: 7
+Prey position before update: 8
+Prey possible_next: [7, 9, 4, 8]
+Prey position after update: 7
+agent_ustr_pos: 7
+agent_2_pos: 7
+prey_pos: 7
+pred_pos: 17
+Some caught the Prey! Some agent won!
+agents_comm_ustr_n_2.step_count: 1
+agent_ustr_pos: 38
+agent_2_pos: 38
+prey_pos: 48
+pred_pos: 41
+Calculating distance to pred(41) from agent(38)
+Calculating distance to prey(3) from agent(38)
+Agent 2 position before update: 38
+Calculating distance to pred(41) from neighbour(37) of current(38)
+Calculating distance to pred(41) from neighbour(39) of current(38)
+Calculating distance to pred(41) from neighbour(35) of current(38)
+Inside condition 1 check for even
+Inside condition 1_1 check for even
+Agent 2 position after update: 39
+Agent ustr position before update: 38
+temp_vals
+[[37, 1.5069381568640012], [39, 3.5989077119394963], [35, 2.7571774337975006], [38, 3.067647278749954]]
+Some temp_vals +ve
+Agent ustr position after update: 39
+Prey position before update: 48
+Prey possible_next: [47, 49, 3, 48]
+Prey position after update: 47
+Pred position before update: 41
+Predator Position: 41
+Predators new position: 40
+Pred position after update: 40
+agents_comm_ustr_n_2.step_count: 2
+agent_ustr_pos: 39
+agent_2_pos: 39
+prey_pos: 47
+pred_pos: 40
+Calculating distance to pred(40) from agent(39)
+Calculating distance to prey(46) from agent(39)
+Agent 2 position before update: 39
+Calculating distance to pred(40) from neighbour(38) of current(39)
+Calculating distance to pred(40) from neighbour(40) of current(39)
+Calculating distance to pred(40) from neighbour(42) of current(39)
+Inside condition 1 check for even
+Agent 2 position after update: 42
+Agent ustr position before update: 39
+temp_vals
+[[38, 3.1434815138157637], [40, 2.3173469329784044], [42, 4.308306389550622], [39, 1.949006204907054]]
+Some temp_vals +ve
+Agent ustr position after update: 42
+Prey position before update: 47
+Prey possible_next: [46, 48, 43, 47]
+Prey position after update: 47
+Pred position before update: 40
+Predator Position: 40
+Predators new position: 39
+Pred position after update: 39
+agents_comm_ustr_n_2.step_count: 3
+agent_ustr_pos: 42
+agent_2_pos: 42
+prey_pos: 47
+pred_pos: 39
+Calculating distance to pred(39) from agent(42)
+Calculating distance to prey(46) from agent(42)
+Agent 2 position before update: 42
+Calculating distance to pred(39) from neighbour(41) of current(42)
+Calculating distance to pred(39) from neighbour(43) of current(42)
+Calculating distance to pred(39) from neighbour(39) of current(42)
+Inside condition 1 check for even
+Agent 2 position after update: 43
+Agent ustr position before update: 42
+temp_vals
+[[41, 3.1046571027616583], [43, 4.3045250127321335], [39, 2.0638554805299205], [42, 2.3968057249381167]]
+Some temp_vals +ve
+Agent ustr position after update: 43
+Prey position before update: 47
+Prey possible_next: [46, 48, 43, 47]
+Prey position after update: 47
+Pred position before update: 39
+Predator Position: 39
+Predators new position: 42
+Pred position after update: 42
+agents_comm_ustr_n_2.step_count: 4
+agent_ustr_pos: 43
+agent_2_pos: 43
+prey_pos: 47
+pred_pos: 42
+Calculating distance to pred(42) from agent(43)
+Calculating distance to prey(48) from agent(43)
+Agent 2 position before update: 43
+Calculating distance to pred(42) from neighbour(42) of current(43)
+Calculating distance to pred(42) from neighbour(44) of current(43)
+Calculating distance to pred(42) from neighbour(47) of current(43)
+Inside condition 1 check for even
+Agent 2 position after update: 47
+Agent ustr position before update: 43
+temp_vals
+[[42, 2.101696788621589], [44, 3.888164461372684], [47, 5.373828305704227], [43, 2.347466540818539]]
+Some temp_vals +ve
+Agent ustr position after update: 47
+agent_ustr_pos: 47
+agent_2_pos: 47
+prey_pos: 47
+pred_pos: 42
+Some caught the Prey! Some agent won!
+agents_comm_ustr_n_2.step_count: 1
+agent_ustr_pos: 36
+agent_2_pos: 36
+prey_pos: 19
+pred_pos: 45
+Calculating distance to pred(45) from agent(36)
+Calculating distance to prey(18) from agent(36)
+Agent 2 position before update: 36
+Inside condition 1 check
+Inside condition 2 check
+Agent 2 position after update: 35
+Agent ustr position before update: 36
+temp_vals
+[[35, 3.2543135066447597], [37, 2.545664398633382], [40, 2.545664398633382], [36, 2.885785748322749]]
+Some temp_vals +ve
+Agent ustr position after update: 35
+Prey position before update: 19
+Prey possible_next: [18, 20, 14, 19]
+Prey position after update: 14
+Pred position before update: 45
+Predator Position: 45
+Predators new position: 44
+Pred position after update: 44
+agents_comm_ustr_n_2.step_count: 2
+agent_ustr_pos: 35
+agent_2_pos: 35
+prey_pos: 14
+pred_pos: 44
+Calculating distance to pred(44) from agent(35)
+Calculating distance to prey(15) from agent(35)
+Agent 2 position before update: 35
+Inside condition 1 check
+Agent 2 position after update: 34
+Agent ustr position before update: 35
+temp_vals
+[[34, 3.1640941403040355], [36, 2.496292242627157], [38, 2.496292242627157], [35, 2.827794348099698]]
+Some temp_vals +ve
+Agent ustr position after update: 34
+Prey position before update: 14
+Prey possible_next: [13, 15, 19, 14]
+Prey position after update: 19
+Pred position before update: 44
+Predator Position: 44
+Predators new position: 43
+Pred position after update: 43
+agents_comm_ustr_n_2.step_count: 3
+agent_ustr_pos: 34
+agent_2_pos: 34
+prey_pos: 19
+pred_pos: 43
+Calculating distance to pred(43) from agent(34)
+Calculating distance to prey(20) from agent(34)
+Agent 2 position before update: 34
+Inside condition 1 check
+Agent 2 position after update: 33
+Agent ustr position before update: 34
+temp_vals
+[[33, 4.001791393763125], [35, 3.084205389031729], [30, 4.001791393763125], [34, 3.5243825354466702]]
+Some temp_vals +ve
+Agent ustr position after update: 33
+Prey position before update: 19
+Prey possible_next: [18, 20, 14, 19]
+Prey position after update: 20
+Pred position before update: 43
+Predator Position: 43
+Predators new position: 44
+Pred position after update: 44
+agents_comm_ustr_n_2.step_count: 4
+agent_ustr_pos: 33
+agent_2_pos: 33
+prey_pos: 20
+pred_pos: 44
+Calculating distance to pred(44) from agent(33)
+Calculating distance to prey(20) from agent(33)
+Agent 2 position before update: 33
+Inside condition 1 check
+Agent 2 position after update: 29
+Agent ustr position before update: 33
+temp_vals
+[[32, 4.402314860484602], [34, 3.8754394696282453], [29, 5.007525076277527], [33, 4.402265485532987]]
+Some temp_vals +ve
+Agent ustr position after update: 29
+Prey position before update: 20
+Prey possible_next: [19, 21, 24, 20]
+Prey position after update: 20
+Pred position before update: 44
+Predator Position: 44
+Predators new position: 43
+Pred position after update: 43
+agents_comm_ustr_n_2.step_count: 5
+agent_ustr_pos: 29
+agent_2_pos: 29
+prey_pos: 20
+pred_pos: 43
+Calculating distance to pred(43) from agent(29)
+Calculating distance to prey(21) from agent(29)
+Agent 2 position before update: 29
+Inside condition 1 check
+Agent 2 position after update: 28
+Agent ustr position before update: 29
+temp_vals
+[[28, 5.546261891638765], [30, 4.279365084200957], [33, 4.2793169469881365], [29, 4.923855895815745]]
+Some temp_vals +ve
+Agent ustr position after update: 28
+Prey position before update: 20
+Prey possible_next: [19, 21, 24, 20]
+Prey position after update: 20
+Pred position before update: 43
+Predator Position: 43
+Predators new position: 47
+Pred position after update: 47
+agents_comm_ustr_n_2.step_count: 6
+agent_ustr_pos: 28
+agent_2_pos: 28
+prey_pos: 20
+pred_pos: 47
+Calculating distance to pred(47) from agent(28)
+Calculating distance to prey(19) from agent(28)
+Agent 2 position before update: 28
+Inside condition 1 check
+Agent 2 position after update: 25
+Agent ustr position before update: 28
+temp_vals
+[[27, 4.983736914891497], [29, 4.983736914891497], [25, 6.419802425528139], [28, 5.632169023355492]]
+Some temp_vals +ve
+Agent ustr position after update: 25
+Prey position before update: 20
+Prey possible_next: [19, 21, 24, 20]
+Prey position after update: 20
+Pred position before update: 47
+Predator Position: 47
+Predators new position: 43
+Pred position after update: 43
+agents_comm_ustr_n_2.step_count: 7
+agent_ustr_pos: 25
+agent_2_pos: 25
+prey_pos: 20
+pred_pos: 43
+Calculating distance to pred(43) from agent(25)
+Calculating distance to prey(19) from agent(25)
+Agent 2 position before update: 25
+Inside condition 1 check
+Agent 2 position after update: 24
+Agent ustr position before update: 25
+temp_vals
+[[24, 7.053522765751811], [26, 5.546261891638765], [28, 5.546261891638765], [25, 6.460157229158275]]
+Some temp_vals +ve
+Agent ustr position after update: 24
+Prey position before update: 20
+Prey possible_next: [19, 21, 24, 20]
+Prey position after update: 19
+Pred position before update: 43
+Predator Position: 43
+Predators new position: 42
+Pred position after update: 42
+agents_comm_ustr_n_2.step_count: 8
+agent_ustr_pos: 24
+agent_2_pos: 24
+prey_pos: 19
+pred_pos: 42
+Calculating distance to pred(42) from agent(24)
+Calculating distance to prey(20) from agent(24)
+Agent 2 position before update: 24
+Inside condition 1 check
+Agent 2 position after update: 20
+Agent ustr position before update: 24
+temp_vals
+[[23, 6.507256286107283], [25, 5.68846414752181], [20, 7.0437519899530034], [24, 6.521448578013601]]
+Some temp_vals +ve
+Agent ustr position after update: 20
+Prey position before update: 19
+Prey possible_next: [18, 20, 14, 19]
+Prey position after update: 14
+Pred position before update: 42
+Predator Position: 42
+Predators new position: 39
+Pred position after update: 39
+agents_comm_ustr_n_2.step_count: 9
+agent_ustr_pos: 20
+agent_2_pos: 20
+prey_pos: 14
+pred_pos: 39
+Calculating distance to pred(39) from agent(20)
+Calculating distance to prey(19) from agent(20)
+Agent 2 position before update: 20
+Inside condition 1 check
+Agent 2 position after update: 19
+Agent ustr position before update: 20
+temp_vals
+[[19, 7.043827094831176], [21, 5.796514671969009], [24, 5.4838243469932735], [20, 6.393005418032923]]
+Some temp_vals +ve
+Agent ustr position after update: 19
+Prey position before update: 14
+Prey possible_next: [13, 15, 19, 14]
+Prey position after update: 19
+agent_ustr_pos: 19
+agent_2_pos: 19
+prey_pos: 19
+pred_pos: 39
+Some caught the Prey! Some agent won!
+agents_comm_ustr_n_2.step_count: 1
+agent_ustr_pos: 6
+agent_2_pos: 6
+prey_pos: 11
+pred_pos: 42
+Calculating distance to pred(42) from agent(6)
+Calculating distance to prey(12) from agent(6)
+Agent 2 position before update: 6
+Inside condition 1 check
+Agent 2 position after update: 7
+Agent ustr position before update: 6
+temp_vals
+[[5, 5.775753065885167], [7, 5.808147165169517], [2, 4.605901442911546], [6, 5.175255027863815]]
+Some temp_vals +ve
+Agent ustr position after update: 7
+Prey position before update: 11
+Prey possible_next: [10, 12, 15, 11]
+Prey position after update: 10
+Pred position before update: 42
+Predator Position: 42
+Predators new position: 43
+Pred position after update: 43
+agents_comm_ustr_n_2.step_count: 2
+agent_ustr_pos: 7
+agent_2_pos: 7
+prey_pos: 10
+pred_pos: 43
+Calculating distance to pred(43) from agent(7)
+Calculating distance to prey(11) from agent(7)
+Agent 2 position before update: 7
+Inside condition 1 check
+Agent 2 position after update: 12
+Agent ustr position before update: 7
+temp_vals
+[[6, 5.161318541553493], [8, 5.2881547816033105], [12, 5.326141995897638], [7, 4.915889947644259]]
+Some temp_vals +ve
+Agent ustr position after update: 12
+Prey position before update: 10
+Prey possible_next: [9, 11, 5, 10]
+Prey position after update: 11
+Pred position before update: 43
+Predator Position: 43
+Predators new position: 47
+Pred position after update: 47
+agents_comm_ustr_n_2.step_count: 3
+agent_ustr_pos: 12
+agent_2_pos: 12
+prey_pos: 11
+pred_pos: 47
+Calculating distance to pred(47) from agent(12)
+Calculating distance to prey(10) from agent(12)
+Agent 2 position before update: 12
+Inside condition 1 check
+Inside condition 2 check
+Agent 2 position after update: 11
+Agent ustr position before update: 12
+temp_vals
+[[11, 7.562199015889528], [13, 5.398651577986315], [7, 5.252694729151779], [12, 5.796283285181305]]
+Some temp_vals +ve
+Agent ustr position after update: 11
+agent_ustr_pos: 11
+agent_2_pos: 11
+prey_pos: 11
+pred_pos: 47
+Some caught the Prey! Some agent won!
+agents_comm_ustr_n_2.step_count: 1
+agent_ustr_pos: 25
+agent_2_pos: 25
+prey_pos: 35
+pred_pos: 16
+Calculating distance to pred(16) from agent(25)
+Calculating distance to prey(38) from agent(25)
+Agent 2 position before update: 25
+Calculating distance to pred(16) from neighbour(24) of current(25)
+Calculating distance to pred(16) from neighbour(26) of current(25)
+Calculating distance to pred(16) from neighbour(28) of current(25)
+Inside condition 1 check for even
+Agent 2 position after update: 28
+Agent ustr position before update: 25
+temp_vals
+[[24, 3.3925116908659256], [26, 4.457071416550402], [28, 4.546199159736062], [25, 3.896336628233151]]
+Some temp_vals +ve
+Agent ustr position after update: 28
+Prey position before update: 35
+Prey possible_next: [34, 36, 38, 35]
+Prey position after update: 38
+Pred position before update: 16
+Predator Position: 16
+Predators new position: 21
+Pred position after update: 21
+agents_comm_ustr_n_2.step_count: 2
+agent_ustr_pos: 28
+agent_2_pos: 28
+prey_pos: 38
+pred_pos: 21
+Calculating distance to pred(21) from agent(28)
+Calculating distance to prey(38) from agent(28)
+Agent 2 position before update: 28
+Calculating distance to pred(21) from neighbour(27) of current(28)
+Calculating distance to pred(21) from neighbour(29) of current(28)
+Calculating distance to pred(21) from neighbour(25) of current(28)
+Inside condition 1 check for even
+Agent 2 position after update: 29
+Agent ustr position before update: 28
+temp_vals
+[[27, 3.955522885360432], [29, 4.614940231697397], [25, 3.4523654056656867], [28, 3.964826217002223]]
+Some temp_vals +ve
+Agent ustr position after update: 29
+Prey position before update: 38
+Prey possible_next: [37, 39, 35, 38]
+Prey position after update: 38
+Pred position before update: 21
+Predator Position: 21
+Predators new position: 20
+Pred position after update: 20
+agents_comm_ustr_n_2.step_count: 3
+agent_ustr_pos: 29
+agent_2_pos: 29
+prey_pos: 38
+pred_pos: 20
+Calculating distance to pred(20) from agent(29)
+Calculating distance to prey(35) from agent(29)
+Agent 2 position before update: 29
+Calculating distance to pred(20) from neighbour(28) of current(29)
+Calculating distance to pred(20) from neighbour(30) of current(29)
+Calculating distance to pred(20) from neighbour(33) of current(29)
+Inside condition 1 check for even
+Agent 2 position after update: 30
+Agent ustr position before update: 29
+temp_vals
+[[28, 3.725334420386422], [30, 4.9948928167669076], [33, 4.9948928167669076], [29, 4.373119509880237]]
+Some temp_vals +ve
+Agent ustr position after update: 30
+Prey position before update: 38
+Prey possible_next: [37, 39, 35, 38]
+Prey position after update: 38
+Pred position before update: 20
+Predator Position: 20
+Predators new position: 24
+Pred position after update: 24
+agents_comm_ustr_n_2.step_count: 4
+agent_ustr_pos: 30
+agent_2_pos: 30
+prey_pos: 38
+pred_pos: 24
+Calculating distance to pred(24) from agent(30)
+Calculating distance to prey(37) from agent(30)
+Agent 2 position before update: 30
+Calculating distance to pred(24) from neighbour(29) of current(30)
+Calculating distance to pred(24) from neighbour(31) of current(30)
+Calculating distance to pred(24) from neighbour(34) of current(30)
+Inside condition 1 check for even
+Agent 2 position after update: 34
+Agent ustr position before update: 30
+temp_vals
+[[29, 4.039007567473698], [31, 4.039892411356212], [34, 5.59131069259565], [30, 4.6593733348513915]]
+Some temp_vals +ve
+Agent ustr position after update: 34
+Prey position before update: 38
+Prey possible_next: [37, 39, 35, 38]
+Prey position after update: 38
+Pred position before update: 24
+Predator Position: 24
+Predators new position: 25
+Pred position after update: 25
+agents_comm_ustr_n_2.step_count: 5
+agent_ustr_pos: 34
+agent_2_pos: 34
+prey_pos: 38
+pred_pos: 25
+Calculating distance to pred(25) from agent(34)
+Calculating distance to prey(39) from agent(34)
+Agent 2 position before update: 34
+Calculating distance to pred(25) from neighbour(33) of current(34)
+Calculating distance to pred(25) from neighbour(35) of current(34)
+Calculating distance to pred(25) from neighbour(30) of current(34)
+Inside condition 1 check for even
+Agent 2 position after update: 35
+Agent ustr position before update: 34
+temp_vals
+[[33, 4.394804545095205], [35, 5.702003880589136], [30, 4.246752893093418], [34, 5.173533963345394]]
+Some temp_vals +ve
+Agent ustr position after update: 35
+Prey position before update: 38
+Prey possible_next: [37, 39, 35, 38]
+Prey position after update: 37
+Pred position before update: 25
+Predator Position: 25
+Predators new position: 24
+Pred position after update: 24
+agents_comm_ustr_n_2.step_count: 6
+agent_ustr_pos: 35
+agent_2_pos: 35
+prey_pos: 37
+pred_pos: 24
+Calculating distance to pred(24) from agent(35)
+Calculating distance to prey(41) from agent(35)
+Agent 2 position before update: 35
+Inside condition 1 check
+Agent 2 position after update: 38
+Agent ustr position before update: 35
+temp_vals
+[[34, 5.177272314805744], [36, 6.207410698534573], [38, 6.207636417299173], [35, 6.198198224016106]]
+Some temp_vals +ve
+Agent ustr position after update: 38
+Prey position before update: 37
+Prey possible_next: [36, 38, 41, 37]
+Prey position after update: 38
+agent_ustr_pos: 38
+agent_2_pos: 38
+prey_pos: 38
+pred_pos: 24
+Some caught the Prey! Some agent won!
+agents_comm_ustr_n_2.step_count: 1
+agent_ustr_pos: 38
+agent_2_pos: 38
+prey_pos: 6
+pred_pos: 27
+Calculating distance to pred(27) from agent(38)
+Calculating distance to prey(6) from agent(38)
+Agent 2 position before update: 38
+Inside condition 1 check
+Agent 2 position after update: 39
+Agent ustr position before update: 38
+temp_vals
+[[37, 3.3276844729660287], [39, 3.765596827046634], [35, 2.93060195696475], [38, 3.3276844729660287]]
+Some temp_vals +ve
+Agent ustr position after update: 39
+Prey position before update: 6
+Prey possible_next: [5, 7, 2, 6]
+Prey position after update: 5
+Pred position before update: 27
+Predator Position: 27
+Predators new position: 28
+Pred position after update: 28
+agents_comm_ustr_n_2.step_count: 2
+agent_ustr_pos: 39
+agent_2_pos: 39
+prey_pos: 5
+pred_pos: 28
+Calculating distance to pred(28) from agent(39)
+Calculating distance to prey(6) from agent(39)
+Agent 2 position before update: 39
+Inside condition 1 check
+Agent 2 position after update: 42
+Agent ustr position before update: 39
+temp_vals
+[[38, 3.2342781369383427], [40, 3.234278138110239], [42, 4.138133302504754], [39, 3.647842850632032]]
+Some temp_vals +ve
+Agent ustr position after update: 42
+Prey position before update: 5
+Prey possible_next: [4, 6, 10, 5]
+Prey position after update: 4
+Pred position before update: 28
+Predator Position: 28
+Predators new position: 29
+Pred position after update: 29
+agents_comm_ustr_n_2.step_count: 3
+agent_ustr_pos: 42
+agent_2_pos: 42
+prey_pos: 4
+pred_pos: 29
+Calculating distance to pred(29) from agent(42)
+Calculating distance to prey(4) from agent(42)
+Agent 2 position before update: 42
+Inside condition 1 check
+Agent 2 position after update: 43
+Agent ustr position before update: 42
+temp_vals
+[[41, 3.7583191438464723], [43, 4.915121703626825], [39, 3.7583191438464723], [42, 4.2738405695072315]]
+Some temp_vals +ve
+Agent ustr position after update: 43
+Prey position before update: 4
+Prey possible_next: [3, 5, 8, 4]
+Prey position after update: 8
+Pred position before update: 29
+Predator Position: 29
+Predators new position: 30
+Pred position after update: 30
+agents_comm_ustr_n_2.step_count: 4
+agent_ustr_pos: 43
+agent_2_pos: 43
+prey_pos: 8
+pred_pos: 30
+Calculating distance to pred(30) from agent(43)
+Calculating distance to prey(4) from agent(43)
+Agent 2 position before update: 43
+Inside condition 1 check
+Agent 2 position after update: 47
+Agent ustr position before update: 43
+temp_vals
+[[42, 3.8586050471463524], [44, 3.8743526810586197], [47, 4.998186175769994], [43, 4.364870762582803]]
+Some temp_vals +ve
+Agent ustr position after update: 47
+Prey position before update: 8
+Prey possible_next: [7, 9, 4, 8]
+Prey position after update: 7
+Pred position before update: 30
+Predator Position: 30
+Predators new position: 34
+Pred position after update: 34
+agents_comm_ustr_n_2.step_count: 5
+agent_ustr_pos: 47
+agent_2_pos: 47
+prey_pos: 7
+pred_pos: 34
+Calculating distance to pred(34) from agent(47)
+Calculating distance to prey(8) from agent(47)
+Agent 2 position before update: 47
+Inside condition 1 check
+Agent 2 position after update: 48
+Agent ustr position before update: 47
+temp_vals
+[[46, 4.115163557322934], [48, 5.266691167231226], [43, 4.115163557322934], [47, 4.634900352446803]]
+Some temp_vals +ve
+Agent ustr position after update: 48
+Prey position before update: 7
+Prey possible_next: [6, 8, 12, 7]
+Prey position after update: 6
+Pred position before update: 34
+Predator Position: 34
+Predators new position: 35
+Pred position after update: 35
+agents_comm_ustr_n_2.step_count: 6
+agent_ustr_pos: 48
+agent_2_pos: 48
+prey_pos: 6
+pred_pos: 35
+Calculating distance to pred(35) from agent(48)
+Calculating distance to prey(2) from agent(48)
+Agent 2 position before update: 48
+Inside condition 1 check
+Agent 2 position after update: 3
+Agent ustr position before update: 48
+temp_vals
+[[47, 4.761107249959494], [49, 5.039385998053841], [3, 6.14618387826711], [48, 5.35562853229879]]
+Some temp_vals +ve
+Agent ustr position after update: 3
+Prey position before update: 6
+Prey possible_next: [5, 7, 2, 6]
+Prey position after update: 5
+Pred position before update: 35
+Predator Position: 35
+Predators new position: 38
+Pred position after update: 38
+agents_comm_ustr_n_2.step_count: 7
+agent_ustr_pos: 3
+agent_2_pos: 3
+prey_pos: 5
+pred_pos: 38
+Calculating distance to pred(38) from agent(3)
+Calculating distance to prey(10) from agent(3)
+Agent 2 position before update: 3
+Inside condition 1 check
+Agent 2 position after update: 4
+Agent ustr position before update: 3
+temp_vals
+[[2, 5.962115498345806], [4, 6.524301685322005], [48, 5.154815810965252], [3, 5.986566147897152]]
+Some temp_vals +ve
+Agent ustr position after update: 4
+Prey position before update: 5
+Prey possible_next: [4, 6, 10, 5]
+Prey position after update: 5
+Pred position before update: 38
+Predator Position: 38
+Predators new position: 37
+Pred position after update: 37
+agents_comm_ustr_n_2.step_count: 8
+agent_ustr_pos: 4
+agent_2_pos: 4
+prey_pos: 5
+pred_pos: 37
+Calculating distance to pred(37) from agent(4)
+Calculating distance to prey(4) from agent(4)
+Agent 2 position before update: 4
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Inside condition 5 check
+Agent 2 position after update: 5
+Agent ustr position before update: 4
+temp_vals
+[[3, 5.980779967199139], [5, 8.330478788246658], [8, 6.112118465243043], [4, 6.518410597506671]]
+Some temp_vals +ve
+Agent ustr position after update: 5
+agent_ustr_pos: 5
+agent_2_pos: 5
+prey_pos: 5
+pred_pos: 37
+Some caught the Prey! Some agent won!
+agents_comm_ustr_n_2.step_count: 1
+agent_ustr_pos: 21
+agent_2_pos: 21
+prey_pos: 14
+pred_pos: 14
+Calculating distance to pred(14) from agent(21)
+Calculating distance to prey(13) from agent(21)
+Agent 2 position before update: 21
+Calculating distance to pred(14) from neighbour(20) of current(21)
+Calculating distance to pred(14) from neighbour(22) of current(21)
+Calculating distance to pred(14) from neighbour(16) of current(21)
+Inside condition 1 check for even
+Inside condition 1_1 check for even
+Inside condition 1_2 check for even
+Inside condition 2 check
+Agent 2 position after update: 22
+Agent ustr position before update: 21
+temp_vals
+[[20, 3.430334541082363], [22, 3.132124855418601], [16, 3.3374935182483756], [21, 3.463682665259647]]
+Some temp_vals +ve
+Agent ustr position after update: 21
+Prey position before update: 14
+Prey possible_next: [13, 15, 19, 14]
+Prey position after update: 19
+Pred position before update: 14
+Predator Position: 14
+Predators new position: 15
+Pred position after update: 15
+agents_comm_ustr_n_2.step_count: 2
+agent_ustr_pos: 21
+agent_2_pos: 22
+prey_pos: 19
+pred_pos: 15
+Calculating distance to pred(15) from agent(22)
+Calculating distance to prey(19) from agent(22)
+Agent 2 position before update: 22
+Calculating distance to pred(15) from neighbour(21) of current(22)
+Calculating distance to pred(15) from neighbour(23) of current(22)
+Calculating distance to pred(15) from neighbour(17) of current(22)
+Inside condition 1 check for even
+Agent 2 position after update: 23
+Agent ustr position before update: 21
+temp_vals
+[[20, 4.39262699833606], [22, 3.4990204973481465], [16, 1.912352704583283], [21, 3.988542567654104]]
+Some temp_vals +ve
+Agent ustr position after update: 20
+Prey position before update: 19
+Prey possible_next: [18, 20, 14, 19]
+Prey position after update: 14
+Pred position before update: 15
+Predator Position: 15
+Predators new position: 14
+Pred position after update: 14
+agents_comm_ustr_n_2.step_count: 3
+agent_ustr_pos: 20
+agent_2_pos: 23
+prey_pos: 14
+pred_pos: 14
+Calculating distance to pred(14) from agent(23)
+Calculating distance to prey(14) from agent(23)
+Agent 2 position before update: 23
+Calculating distance to pred(14) from neighbour(22) of current(23)
+Calculating distance to pred(14) from neighbour(24) of current(23)
+Calculating distance to pred(14) from neighbour(18) of current(23)
+Inside condition 1 check for even
+Inside condition 1_1 check for even
+Inside condition 1_2 check for even
+Inside condition 2 check
+Agent 2 position after update: 22
+Agent ustr position before update: 20
+temp_vals
+[[19, 2.023787433539615], [21, 3.553292847133815], [24, 3.161982485747652], [20, 3.3068107077088604]]
+Some temp_vals +ve
+Agent ustr position after update: 21
+Prey position before update: 14
+Prey possible_next: [13, 15, 19, 14]
+Prey position after update: 13
+Pred position before update: 14
+Predator Position: 14
+Predators new position: 15
+Pred position after update: 15
+agents_comm_ustr_n_2.step_count: 4
+agent_ustr_pos: 21
+agent_2_pos: 22
+prey_pos: 13
+pred_pos: 15
+Calculating distance to pred(15) from agent(22)
+Calculating distance to prey(9) from agent(22)
+Agent 2 position before update: 22
+Calculating distance to pred(15) from neighbour(21) of current(22)
+Calculating distance to pred(15) from neighbour(23) of current(22)
+Calculating distance to pred(15) from neighbour(17) of current(22)
+Inside condition 1 check for even
+Agent 2 position after update: 23
+Agent ustr position before update: 21
+temp_vals
+[[20, 3.506676630519731], [22, 2.7595445997229233], [16, 1.6563312194797852], [21, 3.063984856597638]]
+Some temp_vals +ve
+Agent ustr position after update: 20
+Prey position before update: 13
+Prey possible_next: [12, 14, 9, 13]
+Prey position after update: 12
+Pred position before update: 15
+Predator Position: 15
+Predators new position: 14
+Pred position after update: 14
+agents_comm_ustr_n_2.step_count: 5
+agent_ustr_pos: 20
+agent_2_pos: 23
+prey_pos: 12
+pred_pos: 14
+Calculating distance to pred(14) from agent(23)
+Calculating distance to prey(11) from agent(23)
+Agent 2 position before update: 23
+Calculating distance to pred(14) from neighbour(22) of current(23)
+Calculating distance to pred(14) from neighbour(24) of current(23)
+Calculating distance to pred(14) from neighbour(18) of current(23)
+Inside condition 1 check for even
+Agent 2 position after update: 22
+Agent ustr position before update: 20
+temp_vals
+[[19, 1.6317037559888417], [21, 3.32612637840617], [24, 2.7644688834770617], [20, 2.9236903636209033]]
+Some temp_vals +ve
+Agent ustr position after update: 21
+Prey position before update: 12
+Prey possible_next: [11, 13, 7, 12]
+Prey position after update: 12
+Pred position before update: 14
+Predator Position: 14
+Predators new position: 15
+Pred position after update: 15
+agents_comm_ustr_n_2.step_count: 6
+agent_ustr_pos: 21
+agent_2_pos: 22
+prey_pos: 12
+pred_pos: 15
+Calculating distance to pred(15) from agent(22)
+Calculating distance to prey(7) from agent(22)
+Agent 2 position before update: 22
+Calculating distance to pred(15) from neighbour(21) of current(22)
+Calculating distance to pred(15) from neighbour(23) of current(22)
+Calculating distance to pred(15) from neighbour(17) of current(22)
+Inside condition 1 check for even
+Inside condition 1_1 check for even
+Inside condition 1_2 check for even
+Inside condition 2 check
+Agent 2 position after update: 23
+Agent ustr position before update: 21
+temp_vals
+[[20, 3.338650397097564], [22, 2.678904869857703], [16, 1.6267488222346076], [21, 2.8972495428918092]]
+Some temp_vals +ve
+Agent ustr position after update: 20
+Prey position before update: 12
+Prey possible_next: [11, 13, 7, 12]
+Prey position after update: 11
+Pred position before update: 15
+Predator Position: 15
+Predators new position: 11
+Pred position after update: 11
+agents_comm_ustr_n_2.step_count: 7
+agent_ustr_pos: 20
+agent_2_pos: 23
+prey_pos: 11
+pred_pos: 11
+Calculating distance to pred(11) from agent(23)
+Calculating distance to prey(12) from agent(23)
+Agent 2 position before update: 23
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Agent 2 position after update: 24
+Agent ustr position before update: 20
+temp_vals
+[[19, 2.9757277773732147], [21, 2.959380759765006], [24, 2.7569033576020536], [20, 2.8479032212975754]]
+Some temp_vals +ve
+Agent ustr position after update: 19
+Prey position before update: 11
+Prey possible_next: [10, 12, 15, 11]
+Prey position after update: 15
+Pred position before update: 11
+Predator Position: 11
+Predators new position: 15
+Pred position after update: 15
+agents_comm_ustr_n_2.step_count: 8
+agent_ustr_pos: 19
+agent_2_pos: 24
+prey_pos: 15
+pred_pos: 15
+Calculating distance to pred(15) from agent(24)
+Calculating distance to prey(14) from agent(24)
+Agent 2 position before update: 24
+Calculating distance to pred(15) from neighbour(23) of current(24)
+Calculating distance to pred(15) from neighbour(25) of current(24)
+Calculating distance to pred(15) from neighbour(20) of current(24)
+Inside condition 1 check for even
+Inside condition 1_1 check for even
+Inside condition 1_2 check for even
+Inside condition 2 check
+Agent 2 position after update: 25
+Agent ustr position before update: 19
+temp_vals
+[[18, 3.464451981576516], [20, 3.461690292062077], [14, 2.088578267234439], [19, 3.284857361876287]]
+Some temp_vals +ve
+Agent ustr position after update: 18
+Prey position before update: 15
+Prey possible_next: [14, 16, 11, 15]
+Prey position after update: 16
+Pred position before update: 15
+Predator Position: 15
+Predators new position: 14
+Pred position after update: 14
+agents_comm_ustr_n_2.step_count: 9
+agent_ustr_pos: 18
+agent_2_pos: 25
+prey_pos: 16
+pred_pos: 14
+Calculating distance to pred(14) from agent(25)
+Calculating distance to prey(16) from agent(25)
+Agent 2 position before update: 25
+Calculating distance to pred(14) from neighbour(24) of current(25)
+Calculating distance to pred(14) from neighbour(26) of current(25)
+Calculating distance to pred(14) from neighbour(28) of current(25)
+Inside condition 1 check for even
+Inside condition 1_1 check for even
+Inside condition 1_2 check for even
+Inside condition 2 check
+Agent 2 position after update: 26
+Agent ustr position before update: 18
+temp_vals
+[[17, 4.388305063989896], [19, 1.912762696859125], [23, 3.581626484643581], [18, 4.019487944685474]]
+Some temp_vals +ve
+Agent ustr position after update: 17
+Prey position before update: 16
+Prey possible_next: [15, 17, 21, 16]
+Prey position after update: 21
+Pred position before update: 14
+Predator Position: 14
+Predators new position: 19
+Pred position after update: 19
+agents_comm_ustr_n_2.step_count: 10
+agent_ustr_pos: 17
+agent_2_pos: 26
+prey_pos: 21
+pred_pos: 19
+Calculating distance to pred(19) from agent(26)
+Calculating distance to prey(21) from agent(26)
+Agent 2 position before update: 26
+Calculating distance to pred(19) from neighbour(25) of current(26)
+Calculating distance to pred(19) from neighbour(27) of current(26)
+Calculating distance to pred(19) from neighbour(31) of current(26)
+Inside condition 1 check for even
+Inside condition 1_1 check for even
+Inside condition 1_2 check for even
+Inside condition 2 check
+Agent 2 position after update: 27
+Agent ustr position before update: 17
+temp_vals
+[[16, 4.27226201688757], [18, 1.9095147168483768], [22, 4.223303404145133], [17, 4.210669161414074]]
+Some temp_vals +ve
+Agent ustr position after update: 16
+Prey position before update: 21
+Prey possible_next: [20, 22, 16, 21]
+Prey position after update: 16
+agent_ustr_pos: 16
+agent_2_pos: 27
+prey_pos: 16
+pred_pos: 19
+Some caught the Prey! Some agent won!
+agents_comm_ustr_n_2.step_count: 1
+agent_ustr_pos: 37
+agent_2_pos: 37
+prey_pos: 12
+pred_pos: 29
+Calculating distance to pred(29) from agent(37)
+Calculating distance to prey(12) from agent(37)
+Agent 2 position before update: 37
+Inside condition 1 check
+Agent 2 position after update: 41
+Agent ustr position before update: 37
+temp_vals
+[[36, 2.4569736625538523], [38, 2.7502561060995947], [41, 3.1154485914174512], [37, 2.7502561060995947]]
+Some temp_vals +ve
+Agent ustr position after update: 41
+Prey position before update: 12
+Prey possible_next: [11, 13, 7, 12]
+Prey position after update: 11
+Pred position before update: 29
+Predator Position: 29
+Predators new position: 33
+Pred position after update: 33
+agents_comm_ustr_n_2.step_count: 2
+agent_ustr_pos: 41
+agent_2_pos: 41
+prey_pos: 11
+pred_pos: 33
+Calculating distance to pred(33) from agent(41)
+Calculating distance to prey(12) from agent(41)
+Agent 2 position before update: 41
+Inside condition 1 check
+Inside condition 2 check
+Agent 2 position after update: 42
+Agent ustr position before update: 41
+temp_vals
+[[40, 2.6067056325874054], [42, 3.2993161442781784], [37, 2.606705632205593], [41, 2.9143988506458753]]
+Some temp_vals +ve
+Agent ustr position after update: 42
+Prey position before update: 11
+Prey possible_next: [10, 12, 15, 11]
+Prey position after update: 11
+Pred position before update: 33
+Predator Position: 33
+Predators new position: 32
+Pred position after update: 32
+agents_comm_ustr_n_2.step_count: 3
+agent_ustr_pos: 42
+agent_2_pos: 42
+prey_pos: 11
+pred_pos: 32
+Calculating distance to pred(32) from agent(42)
+Calculating distance to prey(10) from agent(42)
+Agent 2 position before update: 42
+Inside condition 1 check
+Agent 2 position after update: 43
+Agent ustr position before update: 42
+temp_vals
+[[41, 2.9951202934005594], [43, 3.750243909052142], [39, 2.9951202934005594], [42, 3.3508489723488193]]
+Some temp_vals +ve
+Agent ustr position after update: 43
+Prey position before update: 11
+Prey possible_next: [10, 12, 15, 11]
+Prey position after update: 15
+Pred position before update: 32
+Predator Position: 32
+Predators new position: 33
+Pred position after update: 33
+agents_comm_ustr_n_2.step_count: 4
+agent_ustr_pos: 43
+agent_2_pos: 43
+prey_pos: 15
+pred_pos: 33
+Calculating distance to pred(33) from agent(43)
+Calculating distance to prey(15) from agent(43)
+Agent 2 position before update: 43
+Inside condition 1 check
+Agent 2 position after update: 47
+Agent ustr position before update: 43
+temp_vals
+[[42, 2.9013941556649416], [44, 2.9209592066321357], [47, 3.615613718654617], [43, 3.221305257670218]]
+Some temp_vals +ve
+Agent ustr position after update: 47
+Prey position before update: 15
+Prey possible_next: [14, 16, 11, 15]
+Prey position after update: 14
+Pred position before update: 33
+Predator Position: 33
+Predators new position: 34
+Pred position after update: 34
+agents_comm_ustr_n_2.step_count: 5
+agent_ustr_pos: 47
+agent_2_pos: 47
+prey_pos: 14
+pred_pos: 34
+Calculating distance to pred(34) from agent(47)
+Calculating distance to prey(13) from agent(47)
+Agent 2 position before update: 47
+Inside condition 1 check
+Agent 2 position after update: 48
+Agent ustr position before update: 47
+temp_vals
+[[46, 3.185579335677165], [48, 4.014469871057158], [43, 3.185579335677165], [47, 3.5597681686847733]]
+Some temp_vals +ve
+Agent ustr position after update: 48
+Prey position before update: 14
+Prey possible_next: [13, 15, 19, 14]
+Prey position after update: 19
+Pred position before update: 34
+Predator Position: 34
+Predators new position: 33
+Pred position after update: 33
+agents_comm_ustr_n_2.step_count: 6
+agent_ustr_pos: 48
+agent_2_pos: 48
+prey_pos: 19
+pred_pos: 33
+Calculating distance to pred(33) from agent(48)
+Calculating distance to prey(14) from agent(48)
+Agent 2 position before update: 48
+Inside condition 1 check
+Agent 2 position after update: 3
+Agent ustr position before update: 48
+temp_vals
+[[47, 3.116005187252223], [49, 3.1170569932817243], [3, 3.7592782639044153], [48, 3.35422303522921]]
+Some temp_vals +ve
+Agent ustr position after update: 3
+Prey position before update: 19
+Prey possible_next: [18, 20, 14, 19]
+Prey position after update: 20
+Pred position before update: 33
+Predator Position: 33
+Predators new position: 34
+Pred position after update: 34
+agents_comm_ustr_n_2.step_count: 7
+agent_ustr_pos: 3
+agent_2_pos: 3
+prey_pos: 20
+pred_pos: 34
+Calculating distance to pred(34) from agent(3)
+Calculating distance to prey(21) from agent(3)
+Agent 2 position before update: 3
+Inside condition 1 check
+Agent 2 position after update: 4
+Agent ustr position before update: 3
+temp_vals
+[[2, 3.5487904294529513], [4, 3.9209117775131817], [48, 3.2242498332936216], [3, 3.4948357132538357]]
+Some temp_vals +ve
+Agent ustr position after update: 4
+Prey position before update: 20
+Prey possible_next: [19, 21, 24, 20]
+Prey position after update: 20
+Pred position before update: 34
+Predator Position: 34
+Predators new position: 33
+Pred position after update: 33
+agents_comm_ustr_n_2.step_count: 8
+agent_ustr_pos: 4
+agent_2_pos: 4
+prey_pos: 20
+pred_pos: 33
+Calculating distance to pred(33) from agent(4)
+Calculating distance to prey(19) from agent(4)
+Agent 2 position before update: 4
+Inside condition 1 check
+Inside condition 2 check
+Agent 2 position after update: 8
+Agent ustr position before update: 4
+temp_vals
+[[3, 3.4064687869970074], [5, 3.769913742956817], [8, 3.8887108470349374], [4, 3.493496513806162]]
+Some temp_vals +ve
+Agent ustr position after update: 8
+Prey position before update: 20
+Prey possible_next: [19, 21, 24, 20]
+Prey position after update: 21
+Pred position before update: 33
+Predator Position: 33
+Predators new position: 32
+Pred position after update: 32
+agents_comm_ustr_n_2.step_count: 9
+agent_ustr_pos: 8
+agent_2_pos: 8
+prey_pos: 21
+pred_pos: 32
+Calculating distance to pred(32) from agent(8)
+Calculating distance to prey(22) from agent(8)
+Agent 2 position before update: 8
+Inside condition 1 check
+Inside condition 2 check
+Agent 2 position after update: 7
+Agent ustr position before update: 8
+temp_vals
+[[7, 3.3746346297783787], [9, 3.5934651859357225], [4, 3.0452558698259087], [8, 3.1986313800418524]]
+Some temp_vals +ve
+Agent ustr position after update: 9
+Prey position before update: 21
+Prey possible_next: [20, 22, 16, 21]
+Prey position after update: 16
+Pred position before update: 32
+Predator Position: 32
+Predators new position: 31
+Pred position after update: 31
+agents_comm_ustr_n_2.step_count: 10
+agent_ustr_pos: 9
+agent_2_pos: 7
+prey_pos: 16
+pred_pos: 31
+Calculating distance to pred(31) from agent(7)
+Calculating distance to prey(21) from agent(7)
+Agent 2 position before update: 7
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Inside condition 5 check
+Agent 2 position after update: 6
+Agent ustr position before update: 9
+temp_vals
+[[8, 3.3890542638659777], [10, 4.230145955349616], [13, 4.32681841962546], [9, 3.8816900781834707]]
+Some temp_vals +ve
+Agent ustr position after update: 13
+Prey position before update: 16
+Prey possible_next: [15, 17, 21, 16]
+Prey position after update: 17
+Pred position before update: 31
+Predator Position: 31
+Predators new position: 26
+Pred position after update: 26
+agents_comm_ustr_n_2.step_count: 11
+agent_ustr_pos: 13
+agent_2_pos: 6
+prey_pos: 17
+pred_pos: 26
+Calculating distance to pred(26) from agent(6)
+Calculating distance to prey(22) from agent(6)
+Agent 2 position before update: 6
+Inside condition 1 check
+Inside condition 2 check
+Agent 2 position after update: 5
+Agent ustr position before update: 13
+temp_vals
+[[12, 3.581030803988993], [14, 4.155709918486891], [9, 3.2518931649074805], [13, 3.7671958073466856]]
+Some temp_vals +ve
+Agent ustr position after update: 14
+Prey position before update: 17
+Prey possible_next: [16, 18, 22, 17]
+Prey position after update: 18
+Pred position before update: 26
+Predator Position: 26
+Predators new position: 25
+Pred position after update: 25
+agents_comm_ustr_n_2.step_count: 12
+agent_ustr_pos: 14
+agent_2_pos: 5
+prey_pos: 18
+pred_pos: 25
+Calculating distance to pred(25) from agent(5)
+Calculating distance to prey(18) from agent(5)
+Agent 2 position before update: 5
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Agent 2 position after update: 6
+Agent ustr position before update: 14
+temp_vals
+[[13, 3.4044122677306543], [15, 3.7163543122791887], [19, 4.575309406899215], [14, 4.065328329485339]]
+Some temp_vals +ve
+Agent ustr position after update: 19
+Prey position before update: 18
+Prey possible_next: [17, 19, 23, 18]
+Prey position after update: 17
+Pred position before update: 25
+Predator Position: 25
+Predators new position: 24
+Pred position after update: 24
+agents_comm_ustr_n_2.step_count: 13
+agent_ustr_pos: 19
+agent_2_pos: 6
+prey_pos: 17
+pred_pos: 24
+Calculating distance to pred(24) from agent(6)
+Calculating distance to prey(22) from agent(6)
+Agent 2 position before update: 6
+Inside condition 1 check
+Inside condition 2 check
+Agent 2 position after update: 5
+Agent ustr position before update: 19
+temp_vals
+[[18, 4.358623280944076], [20, 1.9857851771951787], [14, 3.594936055939643], [19, 3.912657069478806]]
+Some temp_vals +ve
+Agent ustr position after update: 18
+Prey position before update: 17
+Prey possible_next: [16, 18, 22, 17]
+Prey position after update: 22
+Pred position before update: 24
+Predator Position: 24
+Predators new position: 23
+Pred position after update: 23
+agents_comm_ustr_n_2.step_count: 14
+agent_ustr_pos: 18
+agent_2_pos: 5
+prey_pos: 22
+pred_pos: 23
+Calculating distance to pred(23) from agent(5)
+Calculating distance to prey(21) from agent(5)
+Agent 2 position before update: 5
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Inside condition 5 check
+Inside condition 6 check
+Agent 2 position after update: 4
+Agent ustr position before update: 18
+temp_vals
+[[17, 3.697836903922468], [19, 3.514601298382489], [23, 2.6316246780057724], [18, 2.257286011466828]]
+Some temp_vals +ve
+Agent ustr position after update: 17
+Prey position before update: 22
+Prey possible_next: [21, 23, 17, 22]
+Prey position after update: 22
+Pred position before update: 23
+Predator Position: 23
+Predators new position: 22
+Pred position after update: 22
+agents_comm_ustr_n_2.step_count: 15
+agent_ustr_pos: 17
+agent_2_pos: 4
+prey_pos: 22
+pred_pos: 22
+Calculating distance to pred(22) from agent(4)
+Calculating distance to prey(17) from agent(4)
+Agent 2 position before update: 4
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Agent 2 position after update: 8
+Agent ustr position before update: 17
+temp_vals
+[[16, 3.766661718461248], [18, 3.8179609046393304], [22, 2.9769410486209584], [17, 2.0302449086607677]]
+Some temp_vals +ve
+Agent ustr position after update: 18
+Prey position before update: 22
+Prey possible_next: [21, 23, 17, 22]
+Prey position after update: 23
+Pred position before update: 22
+Predator Position: 22
+Predators new position: 23
+Pred position after update: 23
+agents_comm_ustr_n_2.step_count: 16
+agent_ustr_pos: 18
+agent_2_pos: 8
+prey_pos: 23
+pred_pos: 23
+Calculating distance to pred(23) from agent(8)
+Calculating distance to prey(18) from agent(8)
+Agent 2 position before update: 8
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Agent 2 position after update: 7
+Agent ustr position before update: 18
+temp_vals
+[[17, 3.7338394551736678], [19, 3.6204385426825314], [23, 2.9858579440703314], [18, 2.057180138884317]]
+Some temp_vals +ve
+Agent ustr position after update: 17
+Prey position before update: 23
+Prey possible_next: [22, 24, 18, 23]
+Prey position after update: 18
+Pred position before update: 23
+Predator Position: 23
+Predators new position: 24
+Pred position after update: 24
+agents_comm_ustr_n_2.step_count: 17
+agent_ustr_pos: 17
+agent_2_pos: 7
+prey_pos: 18
+pred_pos: 24
+Calculating distance to pred(24) from agent(7)
+Calculating distance to prey(23) from agent(7)
+Agent 2 position before update: 7
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Agent 2 position after update: 8
+Agent ustr position before update: 17
+temp_vals
+[[16, 3.857679207256062], [18, 5.237276930229833], [22, 3.8944739815614633], [17, 4.157465917090193]]
+Some temp_vals +ve
+Agent ustr position after update: 18
+agent_ustr_pos: 18
+agent_2_pos: 8
+prey_pos: 18
+pred_pos: 24
+Some caught the Prey! Some agent won!
+agents_comm_ustr_n_2.step_count: 1
+agent_ustr_pos: 10
+agent_2_pos: 10
+prey_pos: 45
+pred_pos: 46
+Calculating distance to pred(46) from agent(10)
+Calculating distance to prey(44) from agent(10)
+Agent 2 position before update: 10
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Agent 2 position after update: 9
+Agent ustr position before update: 10
+temp_vals
+[[9, 2.435310874718469], [11, 2.414195904611405], [5, 2.787687535016588], [10, 2.5557209974744057]]
+Some temp_vals +ve
+Agent ustr position after update: 5
+Prey position before update: 45
+Prey possible_next: [44, 46, 0, 45]
+Prey position after update: 0
+Pred position before update: 46
+Predator Position: 46
+Predators new position: 47
+Pred position after update: 47
+agents_comm_ustr_n_2.step_count: 2
+agent_ustr_pos: 5
+agent_2_pos: 9
+prey_pos: 0
+pred_pos: 47
+Calculating distance to pred(47) from agent(9)
+Calculating distance to prey(49) from agent(9)
+Agent 2 position before update: 9
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Agent 2 position after update: 10
+Agent ustr position before update: 5
+temp_vals
+[[4, 3.1068947933284115], [6, 3.4181659512379077], [10, 2.9542639205482817], [5, 3.079173748347919]]
+Some temp_vals +ve
+Agent ustr position after update: 6
+Prey position before update: 0
+Prey possible_next: [49, 1, 45, 0]
+Prey position after update: 0
+Pred position before update: 47
+Predator Position: 47
+Predators new position: 46
+Pred position after update: 46
+agents_comm_ustr_n_2.step_count: 3
+agent_ustr_pos: 6
+agent_2_pos: 10
+prey_pos: 0
+pred_pos: 46
+Calculating distance to pred(46) from agent(10)
+Calculating distance to prey(0) from agent(10)
+Agent 2 position before update: 10
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Inside condition 5 check
+Agent 2 position after update: 11
+Agent ustr position before update: 6
+temp_vals
+[[5, 3.0553209352094393], [7, 2.9510975685229734], [2, 3.667533236882719], [6, 3.31080181731207]]
+Some temp_vals +ve
+Agent ustr position after update: 2
+Prey position before update: 0
+Prey possible_next: [49, 1, 45, 0]
+Prey position after update: 1
+Pred position before update: 46
+Predator Position: 46
+Predators new position: 44
+Pred position after update: 44
+agents_comm_ustr_n_2.step_count: 4
+agent_ustr_pos: 2
+agent_2_pos: 11
+prey_pos: 1
+pred_pos: 44
+Calculating distance to pred(44) from agent(11)
+Calculating distance to prey(2) from agent(11)
+Agent 2 position before update: 11
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Inside condition 5 check
+Agent 2 position after update: 15
+Agent ustr position before update: 2
+temp_vals
+[[1, 5.708650412781628], [3, 4.40473904509419], [6, 3.9489031378224086], [2, 4.326582311579113]]
+Some temp_vals +ve
+Agent ustr position after update: 1
+agent_ustr_pos: 1
+agent_2_pos: 15
+prey_pos: 1
+pred_pos: 44
+Some caught the Prey! Some agent won!
+agents_comm_ustr_n_2.step_count: 1
+agent_ustr_pos: 9
+agent_2_pos: 9
+prey_pos: 30
+pred_pos: 8
+Calculating distance to pred(8) from agent(9)
+Calculating distance to prey(29) from agent(9)
+Agent 2 position before update: 9
+Calculating distance to pred(8) from neighbour(8) of current(9)
+Calculating distance to pred(8) from neighbour(10) of current(9)
+Calculating distance to pred(8) from neighbour(13) of current(9)
+Inside condition 1 check for even
+Agent 2 position after update: 13
+Agent ustr position before update: 9
+temp_vals
+[[8, 1.2540519140759772], [10, 2.459125278844842], [13, 2.9662164366769925], [9, 1.3698044553039628]]
+Some temp_vals +ve
+Agent ustr position after update: 13
+Prey position before update: 30
+Prey possible_next: [29, 31, 34, 30]
+Prey position after update: 29
+Pred position before update: 8
+Predator Position: 8
+Predators new position: 4
+Pred position after update: 4
+agents_comm_ustr_n_2.step_count: 2
+agent_ustr_pos: 13
+agent_2_pos: 13
+prey_pos: 29
+pred_pos: 4
+Calculating distance to pred(4) from agent(13)
+Calculating distance to prey(30) from agent(13)
+Agent 2 position before update: 13
+Calculating distance to pred(4) from neighbour(12) of current(13)
+Calculating distance to pred(4) from neighbour(14) of current(13)
+Calculating distance to pred(4) from neighbour(9) of current(13)
+Inside condition 1 check for even
+Agent 2 position after update: 14
+Agent ustr position before update: 13
+temp_vals
+[[12, 2.9121972956086104], [14, 3.736686420893373], [9, 2.8143620022725235], [13, 3.2465687230331683]]
+Some temp_vals +ve
+Agent ustr position after update: 14
+Prey position before update: 29
+Prey possible_next: [28, 30, 33, 29]
+Prey position after update: 30
+Pred position before update: 4
+Predator Position: 4
+Predators new position: 8
+Pred position after update: 8
+agents_comm_ustr_n_2.step_count: 3
+agent_ustr_pos: 14
+agent_2_pos: 14
+prey_pos: 30
+pred_pos: 8
+Calculating distance to pred(8) from agent(14)
+Calculating distance to prey(29) from agent(14)
+Agent 2 position before update: 14
+Calculating distance to pred(8) from neighbour(13) of current(14)
+Calculating distance to pred(8) from neighbour(15) of current(14)
+Calculating distance to pred(8) from neighbour(19) of current(14)
+Inside condition 1 check for even
+Agent 2 position after update: 19
+Agent ustr position before update: 14
+temp_vals
+[[13, 2.9662164366769925], [15, 3.1804203098667285], [19, 3.9271383652813516], [14, 3.414144803212549]]
+Some temp_vals +ve
+Agent ustr position after update: 19
+Prey position before update: 30
+Prey possible_next: [29, 31, 34, 30]
+Prey position after update: 31
+Pred position before update: 8
+Predator Position: 8
+Predators new position: 9
+Pred position after update: 9
+agents_comm_ustr_n_2.step_count: 4
+agent_ustr_pos: 19
+agent_2_pos: 19
+prey_pos: 31
+pred_pos: 9
+Calculating distance to pred(9) from agent(19)
+Calculating distance to prey(32) from agent(19)
+Agent 2 position before update: 19
+Calculating distance to pred(9) from neighbour(18) of current(19)
+Calculating distance to pred(9) from neighbour(20) of current(19)
+Calculating distance to pred(9) from neighbour(14) of current(19)
+Inside condition 1 check for even
+Agent 2 position after update: 20
+Agent ustr position before update: 19
+temp_vals
+[[18, 3.8948396276783948], [20, 4.533641260947303], [14, 3.3744143919136897], [19, 3.8948396276783948]]
+Some temp_vals +ve
+Agent ustr position after update: 20
+Prey position before update: 31
+Prey possible_next: [30, 32, 26, 31]
+Prey position after update: 32
+Pred position before update: 9
+Predator Position: 9
+Predators new position: 8
+Pred position after update: 8
+agents_comm_ustr_n_2.step_count: 5
+agent_ustr_pos: 20
+agent_2_pos: 20
+prey_pos: 32
+pred_pos: 8
+Calculating distance to pred(8) from agent(20)
+Calculating distance to prey(27) from agent(20)
+Agent 2 position before update: 20
+Inside condition 1 check
+Agent 2 position after update: 24
+Agent ustr position before update: 20
+temp_vals
+[[19, 4.115713701646783], [21, 4.304471075889255], [24, 5.327297737999392], [20, 4.651918070213068]]
+Some temp_vals +ve
+Agent ustr position after update: 24
+Prey position before update: 32
+Prey possible_next: [31, 33, 27, 32]
+Prey position after update: 32
+Pred position before update: 8
+Predator Position: 8
+Predators new position: 7
+Pred position after update: 7
+agents_comm_ustr_n_2.step_count: 6
+agent_ustr_pos: 24
+agent_2_pos: 24
+prey_pos: 32
+pred_pos: 7
+Calculating distance to pred(7) from agent(24)
+Calculating distance to prey(31) from agent(24)
+Agent 2 position before update: 24
+Inside condition 1 check
+Agent 2 position after update: 25
+Agent ustr position before update: 24
+temp_vals
+[[23, 4.627764601303952], [25, 5.790335489905217], [20, 4.627764601303952], [24, 5.303855580863147]]
+Some temp_vals +ve
+Agent ustr position after update: 25
+Prey position before update: 32
+Prey possible_next: [31, 33, 27, 32]
+Prey position after update: 27
+Pred position before update: 7
+Predator Position: 7
+Predators new position: 12
+Pred position after update: 12
+agents_comm_ustr_n_2.step_count: 7
+agent_ustr_pos: 25
+agent_2_pos: 25
+prey_pos: 27
+pred_pos: 12
+Calculating distance to pred(12) from agent(25)
+Calculating distance to prey(32) from agent(25)
+Agent 2 position before update: 25
+Inside condition 1 check
+Agent 2 position after update: 28
+Agent ustr position before update: 25
+temp_vals
+[[24, 5.314468428973435], [26, 6.346399965112323], [28, 6.347018050864862], [25, 6.3250721881417755]]
+Some temp_vals +ve
+Agent ustr position after update: 28
+Prey position before update: 27
+Prey possible_next: [26, 28, 32, 27]
+Prey position after update: 32
+Pred position before update: 12
+Predator Position: 12
+Predators new position: 13
+Pred position after update: 13
+agents_comm_ustr_n_2.step_count: 8
+agent_ustr_pos: 28
+agent_2_pos: 28
+prey_pos: 32
+pred_pos: 13
+Calculating distance to pred(13) from agent(28)
+Calculating distance to prey(33) from agent(28)
+Agent 2 position before update: 28
+Inside condition 1 check
+Agent 2 position after update: 29
+Agent ustr position before update: 28
+temp_vals
+[[27, 6.21285224059191], [29, 5.811662529998776], [25, 5.278526511815033], [28, 5.783744936448803]]
+Some temp_vals +ve
+Agent ustr position after update: 27
+Prey position before update: 32
+Prey possible_next: [31, 33, 27, 32]
+Prey position after update: 27
+agent_ustr_pos: 27
+agent_2_pos: 29
+prey_pos: 27
+pred_pos: 13
+Some caught the Prey! Some agent won!
+agents_comm_ustr_n_2.step_count: 1
+agent_ustr_pos: 15
+agent_2_pos: 15
+prey_pos: 13
+pred_pos: 5
+Calculating distance to pred(5) from agent(15)
+Calculating distance to prey(9) from agent(15)
+Agent 2 position before update: 15
+Calculating distance to pred(5) from neighbour(14) of current(15)
+Calculating distance to pred(5) from neighbour(16) of current(15)
+Calculating distance to pred(5) from neighbour(11) of current(15)
+Inside condition 1 check for even
+Agent 2 position after update: 14
+Agent ustr position before update: 15
+temp_vals
+[[14, 4.295516615974875], [16, 3.4261564261768447], [11, 4.006484351795584], [15, 4.1467780190189165]]
+Some temp_vals +ve
+Agent ustr position after update: 14
+Prey position before update: 13
+Prey possible_next: [12, 14, 9, 13]
+Prey position after update: 12
+Pred position before update: 5
+Predator Position: 5
+Predators new position: 10
+Pred position after update: 10
+agents_comm_ustr_n_2.step_count: 2
+agent_ustr_pos: 14
+agent_2_pos: 14
+prey_pos: 12
+pred_pos: 10
+Calculating distance to pred(10) from agent(14)
+Calculating distance to prey(12) from agent(14)
+Agent 2 position before update: 14
+Calculating distance to pred(10) from neighbour(13) of current(14)
+Calculating distance to pred(10) from neighbour(15) of current(14)
+Calculating distance to pred(10) from neighbour(19) of current(14)
+Inside condition 1 check for even
+Inside condition 1_1 check for even
+Inside condition 1_2 check for even
+Inside condition 2 check
+Agent 2 position after update: 19
+Agent ustr position before update: 14
+temp_vals
+[[13, 3.8125739182957616], [15, 3.7443142632511472], [19, 3.1966576706518977], [14, 3.643179649896895]]
+Some temp_vals +ve
+Agent ustr position after update: 13
+Prey position before update: 12
+Prey possible_next: [11, 13, 7, 12]
+Prey position after update: 11
+Pred position before update: 10
+Predator Position: 10
+Predators new position: 5
+Pred position after update: 5
+agents_comm_ustr_n_2.step_count: 3
+agent_ustr_pos: 13
+agent_2_pos: 19
+prey_pos: 11
+pred_pos: 5
+Calculating distance to pred(5) from agent(19)
+Calculating distance to prey(15) from agent(19)
+Agent 2 position before update: 19
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Inside condition 5 check
+Agent 2 position after update: 20
+Agent ustr position before update: 13
+temp_vals
+[[12, 4.057760510614749], [14, 4.078216049503138], [9, 3.637561783413517], [13, 4.156800554898342]]
+Some temp_vals +ve
+Agent ustr position after update: 13
+Prey position before update: 11
+Prey possible_next: [10, 12, 15, 11]
+Prey position after update: 12
+Pred position before update: 5
+Predator Position: 5
+Predators new position: 10
+Pred position after update: 10
+agents_comm_ustr_n_2.step_count: 4
+agent_ustr_pos: 13
+agent_2_pos: 20
+prey_pos: 12
+pred_pos: 10
+Calculating distance to pred(10) from agent(20)
+Calculating distance to prey(11) from agent(20)
+Agent 2 position before update: 20
+Inside condition 1 check
+Inside condition 2 check
+Inside condition 3 check
+Inside condition 4 check
+Inside condition 5 check
+Agent 2 position after update: 24
+Agent ustr position before update: 13
+temp_vals
+[[12, 5.509388321664199], [14, 3.643179649896895], [9, 2.1755124550486324], [13, 3.8125739182957616]]
+Some temp_vals +ve
+Agent ustr position after update: 12
+agent_ustr_pos: 12
+agent_2_pos: 24
+prey_pos: 12
+pred_pos: 10
+Some caught the Prey! Some agent won!
+agents_comm_ustr_n_2.step_count: 1
+agent_ustr_pos: 14
+agent_2_pos: 14
+prey_pos: 31
+pred_pos: 0
+Calculating distance to pred(0) from agent(14)
+Calculating distance to prey(32) from agent(14)
+Agent 2 position before update: 14
+Inside condition 1 check
+Agent 2 position after update: 19
+Agent ustr position before update: 14
+temp_vals
+[[13, 3.721938763790543], [15, 3.7495984399128286], [19, 4.7033819623592725], [14, 4.207037988143623]]
+Some temp_vals +ve
+Agent ustr position after update: 19
+Prey position before update: 31
+Prey possible_next: [30, 32, 26, 31]
+Prey position after update: 26
+Pred position before update: 0
+Predator Position: 0
+Predators new position: 1
+Pred position after update: 1
+agents_comm_ustr_n_2.step_count: 2
+agent_ustr_pos: 19
+agent_2_pos: 19
+prey_pos: 26
+pred_pos: 1
+Calculating distance to pred(1) from agent(19)
+Calculating distance to prey(27) from agent(19)
+Agent 2 position before update: 19
+Inside condition 1 check
+Agent 2 position after update: 20
+Agent ustr position before update: 19
+temp_vals
+[[18, 5.047085213714853], [20, 5.651912599532067], [14, 4.389761444777071], [19, 5.047085213714853]]
+Some temp_vals +ve
+Agent ustr position after update: 20
+Prey position before update: 26
+Prey possible_next: [25, 27, 31, 26]
+Prey position after update: 31
+Pred position before update: 1
+Predator Position: 1
+Predators new position: 2
+Pred position after update: 2
+agents_comm_ustr_n_2.step_count: 3
+agent_ustr_pos: 20
+agent_2_pos: 20
+prey_pos: 31
+pred_pos: 2
+Calculating distance to pred(2) from agent(20)
+Calculating distance to prey(26) from agent(20)
+Agent 2 position before update: 20
+Inside condition 1 check
+Agent 2 position after update: 24
+Agent ustr position before update: 20
+temp_vals
+[[19, 4.483136747868149], [21, 4.546379533105294], [24, 5.661627810502231], [20, 5.115186786870608]]
+Some temp_vals +ve
+Agent ustr position after update: 24
+Prey position before update: 31
+Prey possible_next: [30, 32, 26, 31]
+Prey position after update: 30
+Pred position before update: 2
+Predator Position: 2
+Predators new position: 6
+Pred position after update: 6
+agents_comm_ustr_n_2.step_count: 4
+agent_ustr_pos: 24
+agent_2_pos: 24
+prey_pos: 30
+pred_pos: 6
+Calculating distance to pred(6) from agent(24)
+Calculating distance to prey(29) from agent(24)
+Agent 2 position before update: 24
+Inside condition 1 check
+Agent 2 position after update: 25
+Agent ustr position before update: 24
+temp_vals
+[[23, 4.603230802939635], [25, 5.799523257341455], [20, 4.603230802939635], [24, 5.255914701478471]]
+Some temp_vals +ve
+Agent ustr position after update: 25
+Prey position before update: 30
+Prey possible_next: [29, 31, 34, 30]
+Prey position after update: 29
+Pred position before update: 6
+Predator Position: 6
+Predators new position: 7
+Pred position after update: 7
+agents_comm_ustr_n_2.step_count: 5
+agent_ustr_pos: 25
+agent_2_pos: 25
+prey_pos: 29
+pred_pos: 7
+Calculating distance to pred(7) from agent(25)
+Calculating distance to prey(28) from agent(25)
+Agent 2 position before update: 25
+Inside condition 1 check
+Agent 2 position after update: 28
+Agent ustr position before update: 25
+temp_vals
+[[24, 5.250753490984509], [26, 5.741942325762999], [28, 6.7434870244424925], [25, 6.132526210962048]]
+Some temp_vals +ve
+Agent ustr position after update: 28
+Prey position before update: 29
+Prey possible_next: [28, 30, 33, 29]
+Prey position after update: 30
+Pred position before update: 7
+Predator Position: 7
+Predators new position: 12
+Pred position after update: 12
+agents_comm_ustr_n_2.step_count: 6
+agent_ustr_pos: 28
+agent_2_pos: 28
+prey_pos: 30
+pred_pos: 12
+Calculating distance to pred(12) from agent(28)
+Calculating distance to prey(34) from agent(28)
+Agent 2 position before update: 28
+Inside condition 1 check
+Agent 2 position after update: 29
+Agent ustr position before update: 28
+temp_vals
+[[27, 5.563836249213654], [29, 6.594169194222435], [25, 5.40203736756045], [28, 6.131974068302432]]
+Some temp_vals +ve
+Agent ustr position after update: 29
+Prey position before update: 30
+Prey possible_next: [29, 31, 34, 30]
+Prey position after update: 31
+Pred position before update: 12
+Predator Position: 12
+Predators new position: 13
+Pred position after update: 13
+agents_comm_ustr_n_2.step_count: 7
+agent_ustr_pos: 29
+agent_2_pos: 29
+prey_pos: 31
+pred_pos: 13
+Calculating distance to pred(13) from agent(29)
+Calculating distance to prey(32) from agent(29)
+Agent 2 position before update: 29
+Inside condition 1 check
+Agent 2 position after update: 33
+Agent ustr position before update: 29
+temp_vals
+[[28, 5.354325254704157], [30, 6.1876585880240915], [33, 5.785095891394764], [29, 5.773070932905477]]
+Some temp_vals +ve
+Agent ustr position after update: 30
+Prey position before update: 31
+Prey possible_next: [30, 32, 26, 31]
+Prey position after update: 32
+Pred position before update: 13
+Predator Position: 13
+Predators new position: 14
+Pred position after update: 14
+agents_comm_ustr_n_2.step_count: 8
+agent_ustr_pos: 30
+agent_2_pos: 33
+prey_pos: 32
+pred_pos: 14
+Calculating distance to pred(14) from agent(33)
+Calculating distance to prey(32) from agent(33)
+Agent 2 position before update: 33
+Inside condition 1 check
+Inside condition 2 check
+Agent 2 position after update: 32
+Agent ustr position before update: 30
+temp_vals
+[[29, 5.450313136678398], [31, 5.848310864349962], [34, 5.374217340948006], [30, 5.4367131469917656]]
+Some temp_vals +ve
+Agent ustr position after update: 31
+agent_ustr_pos: 31
+agent_2_pos: 32
+prey_pos: 32
+pred_pos: 14
+Some caught the Prey! Some agent won!
+Ustr won before agent 2: 18/30
+Agent 2 won before Ustr: 0/30
+Both caught prey at the same time: 10/30
+Ustr got caught: 1/30
+[Finished in 336.7s]
